@@ -1,0 +1,20 @@
+openhands-sdk/openhands/sdk/agent/acp_agent.py
+  h_a56810faf6ff44 74,1807,1815-1818,1824-1827,1829,1833-1838,1867-1871,1891-1900,3363,3389-3392
+openhands-sdk/openhands/sdk/agent/acp_tracing.py
+  h_a56810faf6ff44 15,37-54,169-170,185-186,196-225
+tests/sdk/agent/test_acp_agent.py
+  h_a56810faf6ff44 56,3612-3757
+tests/sdk/agent/test_acp_tracing.py
+  h_a56810faf6ff44 408-465
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "f65a378eb1a51c6c37fc48a83d8eda4cb10f13b1",
+  "prompts": {},
+  "humans": {
+    "h_a56810faf6ff44": {
+      "author": "george larson <george.g.larson@gmail.com>"
+    }
+  }
+}
