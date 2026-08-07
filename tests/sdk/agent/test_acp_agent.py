@@ -58,6 +58,7 @@ from openhands.sdk.agent.acp_file_credentials import (
     codex_auth_file,
 )
 from openhands.sdk.agent.acp_models import ACPModelInfo
+from openhands.sdk.agent.acp_tracing import ACPTurnUsage
 from openhands.sdk.agent.base import AgentBase
 from openhands.sdk.context import AgentContext
 from openhands.sdk.conversation.secret_registry import SecretRegistry
@@ -3773,6 +3774,152 @@ class TestACPAgentTelemetry:
         assert agent.llm.metrics.accumulated_cost == 0.0
         assert len(agent.llm.metrics.costs) == 0
         assert len(agent.llm.metrics.token_usages) == 1
+
+    def _spy_finish_turn(self, monkeypatch) -> list:
+        """Capture the usage kwarg each finish_turn call receives, while the
+        real (observability-disabled, no-op) implementation still runs.
+
+        A MagicMock on client.trace does not survive step(): session setup
+        re-creates the ACPTurnTrace. Spying the class method does.
+        """
+        from openhands.sdk.agent.acp_tracing import ACPTurnTrace
+
+        calls: list = []
+        real_finish = ACPTurnTrace.finish_turn
+
+        def spy(self_, text, thoughts, tool_calls, *, usage=None):
+            calls.append(usage)
+            return real_finish(self_, text, thoughts, tool_calls, usage=usage)
+
+        monkeypatch.setattr(ACPTurnTrace, "finish_turn", spy)
+        return calls
+
+    def test_step_tags_turn_span_with_per_turn_usage(self, tmp_path, monkeypatch):
+        """The turn's LLM span receives the per-turn usage (#4368 item 3)."""
+        calls = self._spy_finish_turn(monkeypatch)
+        agent, conversation = self._make_step_fixtures(
+            tmp_path,
+            usage={"input": 100, "output": 50, "cache_read": 10, "cache_write": 5},
+            cost=(0.05, 200000),
+        )
+
+        agent.step(conversation, on_event=lambda _: None)
+
+        (usage,) = calls
+        assert isinstance(usage, ACPTurnUsage)
+        assert usage.input_tokens == 100
+        assert usage.output_tokens == 50
+        assert usage.cache_read_tokens == 10
+        assert usage.cache_write_tokens == 5
+        assert usage.cost == pytest.approx(0.05)
+
+    def test_step_span_cost_is_the_per_turn_delta(self, tmp_path, monkeypatch):
+        """Cumulative server costs 0.05 -> 0.12 tag the spans 0.05 then 0.07."""
+        calls = self._spy_finish_turn(monkeypatch)
+        agent = _make_agent()
+        _, conversation1 = self._make_step_fixtures(
+            tmp_path,
+            agent=agent,
+            usage={"input": 100, "output": 50},
+            cost=(0.05, 128000),
+        )
+        agent.step(conversation1, on_event=lambda _: None)
+        _, conversation2 = self._make_step_fixtures(
+            tmp_path,
+            agent=agent,
+            usage={"input": 200, "output": 100},
+            cost=(0.12, 130000),
+        )
+        agent.step(conversation2, on_event=lambda _: None)
+
+        assert calls[0].cost == pytest.approx(0.05)
+        assert calls[1].cost == pytest.approx(0.07)
+        assert calls[1].input_tokens == 200
+
+    def test_step_span_usage_none_when_server_reports_nothing(
+        self, tmp_path, monkeypatch
+    ):
+        """No usage and no cost channel -> the span gets usage=None, not zeros."""
+        calls = self._spy_finish_turn(monkeypatch)
+        agent, conversation = self._make_step_fixtures(tmp_path)
+
+        agent.step(conversation, on_event=lambda _: None)
+
+        assert calls == [None]
+
+    def test_step_span_omits_cost_on_zero_delta(self, tmp_path, monkeypatch):
+        """A duplicate cumulative cost (delta 0) must not tag the span with an
+        explicit 0.0 that reads as measured."""
+        calls = self._spy_finish_turn(monkeypatch)
+        agent = _make_agent()
+        _, conversation1 = self._make_step_fixtures(
+            tmp_path,
+            agent=agent,
+            usage={"input": 100, "output": 50},
+            cost=(0.05, 128000),
+        )
+        agent.step(conversation1, on_event=lambda _: None)
+        _, conversation2 = self._make_step_fixtures(
+            tmp_path,
+            agent=agent,
+            usage={"input": 150, "output": 60},
+            cost=(0.05, 128000),
+        )
+        agent.step(conversation2, on_event=lambda _: None)
+
+        second = calls[1]
+        assert second is not None
+        assert second.cost is None
+        assert second.input_tokens == 150
+
+    def test_step_span_never_tags_estimated_cost_over_a_server_channel(
+        self, tmp_path, monkeypatch
+    ):
+        """Server has a cost channel but the delta is 0: the token-derived
+        estimator may still fire for metrics (pre-existing), but the span must
+        not present a fabricated estimate — from cache-inflated token counts —
+        as the turn's cost."""
+        calls = self._spy_finish_turn(monkeypatch)
+        agent = _make_agent(acp_model="gemini-3-flash-preview")
+        _, conversation1 = self._make_step_fixtures(
+            tmp_path,
+            agent=agent,
+            usage={"input": 100, "output": 50},
+            cost=(0.05, 128000),
+        )
+        agent.step(conversation1, on_event=lambda _: None)
+
+        monkeypatch.setattr(
+            "openhands.sdk.agent.acp_agent._estimate_cost_from_tokens",
+            lambda *args: 0.99,
+        )
+        _, conversation2 = self._make_step_fixtures(
+            tmp_path,
+            agent=agent,
+            usage={"input": 300000, "output": 60},
+            cost=(0.05, 128000),
+        )
+        agent.step(conversation2, on_event=lambda _: None)
+
+        assert calls[1].cost is None
+
+    def test_step_span_carries_derived_cost_without_server_cost_channel(
+        self, tmp_path, monkeypatch
+    ):
+        """gemini path: tokens but no cost channel -> the derived cost tags the span."""
+        calls = self._spy_finish_turn(monkeypatch)
+        monkeypatch.setattr(
+            "openhands.sdk.agent.acp_agent._estimate_cost_from_tokens",
+            lambda *args: 0.01,
+        )
+        agent = _make_agent(acp_model="gemini-3-flash-preview")
+        _, conversation = self._make_step_fixtures(
+            tmp_path, agent=agent, usage={"input": 1000, "output": 500}, cost=None
+        )
+
+        agent.step(conversation, on_event=lambda _: None)
+
+        assert calls[0].cost == pytest.approx(0.01)
 
     def test_step_records_partial_metrics_on_usage_timeout(self, tmp_path, caplog):
         """Timeout waiting for UsageUpdate logs warning but records token metrics."""

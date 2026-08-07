@@ -405,3 +405,61 @@ def test_the_prompt_is_dropped_rather_than_recorded_raw_if_masking_fails(exporte
 
     (llm,) = _by_type(exported(), "LLM")
     assert "ghp_secret" not in str((llm.attributes or {}).get("lmnr.span.input"))
+
+
+def test_turn_span_carries_usage_attributes_when_reported(exported):
+    from openhands.sdk.agent.acp_tracing import ACPTurnUsage
+
+    trace = ACPTurnTrace(acp_server="claude-code", model_id="claude-sonnet-4-5")
+    trace.start_turn("go")
+    trace.finish_turn(
+        "done",
+        "",
+        [],
+        usage=ACPTurnUsage(
+            input_tokens=10,
+            output_tokens=442,
+            cache_read_tokens=323104,
+            cache_write_tokens=1145,
+            cost=0.184102,
+        ),
+    )
+
+    (llm,) = _by_type(exported(), "LLM")
+    attrs = llm.attributes or {}
+    assert attrs["gen_ai.usage.input_tokens"] == 10
+    assert attrs["gen_ai.usage.output_tokens"] == 442
+    assert attrs["llm.usage.total_tokens"] == 452
+    assert attrs["gen_ai.usage.cache_read_input_tokens"] == 323104
+    assert attrs["gen_ai.usage.cache_creation_input_tokens"] == 1145
+    assert attrs["gen_ai.usage.cost"] == pytest.approx(0.184102)
+
+
+def test_usage_attributes_are_absent_when_the_server_reports_nothing(exported):
+    trace = ACPTurnTrace(acp_server="claude-code", model_id=None)
+    trace.start_turn("go")
+    trace.finish_turn("done", "", [])
+
+    (llm,) = _by_type(exported(), "LLM")
+    attrs = llm.attributes or {}
+    assert not [k for k in attrs if k.startswith("gen_ai.usage")]
+    assert "llm.usage.total_tokens" not in attrs
+
+
+def test_usage_cost_is_omitted_when_unknown_and_cache_when_zero(exported):
+    from openhands.sdk.agent.acp_tracing import ACPTurnUsage
+
+    trace = ACPTurnTrace(acp_server="codex", model_id=None)
+    trace.start_turn("go")
+    trace.finish_turn(
+        "done", "", [], usage=ACPTurnUsage(input_tokens=5, output_tokens=7)
+    )
+
+    (llm,) = _by_type(exported(), "LLM")
+    attrs = llm.attributes or {}
+    assert attrs["gen_ai.usage.input_tokens"] == 5
+    assert attrs["gen_ai.usage.output_tokens"] == 7
+    assert attrs["llm.usage.total_tokens"] == 12
+    assert "gen_ai.usage.cost" not in attrs
+    assert "gen_ai.usage.cache_read_input_tokens" not in attrs
+    assert "gen_ai.usage.cache_creation_input_tokens" not in attrs

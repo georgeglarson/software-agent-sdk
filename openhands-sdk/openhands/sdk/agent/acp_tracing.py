@@ -12,6 +12,7 @@ from __future__ import annotations
 import json
 import threading
 from collections.abc import Callable
+from dataclasses import dataclass
 from typing import TYPE_CHECKING, Any
 
 from openhands.sdk.logger import get_logger
@@ -31,6 +32,24 @@ ACP_SERVER_METADATA_KEY = "acp_server"
 ACP_MODEL_METADATA_KEY = "acp_model"
 
 TURN_SPAN_NAME = "acp.completion"
+
+
+@dataclass(frozen=True)
+class ACPTurnUsage:
+    """Per-turn token/cost usage reported by the ACP server.
+
+    Attached to the turn's ``LLM`` span as ``gen_ai.usage.*`` attributes — the
+    same names lmnr's LiteLLM instrumentation sets on native LLM spans — so
+    ACP turns roll into trace token/cost aggregates with no consumer-side
+    branch. ``cost`` is dollars for the turn, ``None`` when the server
+    reported none and none could be derived.
+    """
+
+    input_tokens: int = 0
+    output_tokens: int = 0
+    cache_read_tokens: int = 0
+    cache_write_tokens: int = 0
+    cost: float | None = None
 
 
 def _truncate(value: Any, limit: int = 100_000) -> Any:
@@ -147,6 +166,8 @@ class ACPTurnTrace:
         text: str,
         thoughts: str,
         tool_calls: list[dict[str, Any]],
+        *,
+        usage: ACPTurnUsage | None = None,
     ) -> None:
         """Set the turn's assistant message and close every span it opened."""
         with self._lock:
@@ -161,6 +182,8 @@ class ACPTurnTrace:
 
         if span is None:
             return
+        if usage is not None:
+            self._set_usage_attributes(span, usage)
         try:
             span.set_output([_assistant_message(text, thoughts, tool_calls)])
         except Exception:
@@ -169,6 +192,36 @@ class ACPTurnTrace:
             span.end()
         except Exception:
             logger.debug("ACP turn span could not be ended", exc_info=True)
+
+    @staticmethod
+    def _set_usage_attributes(span: Any, usage: ACPTurnUsage) -> None:
+        """Tag the turn span with the usage the ACP server reported.
+
+        The span's model is not in the backend's price table, so cost is set
+        explicitly — table-driven costing would leave it at zero. Cache
+        attributes are omitted rather than zeroed when the server reported
+        none, matching the native instrumentation's conditional shape.
+        """
+        attrs: dict[str, int | float] = {
+            "gen_ai.usage.input_tokens": usage.input_tokens,
+            "gen_ai.usage.output_tokens": usage.output_tokens,
+            "llm.usage.total_tokens": usage.input_tokens + usage.output_tokens,
+        }
+        if usage.cache_read_tokens:
+            attrs["gen_ai.usage.cache_read_input_tokens"] = usage.cache_read_tokens
+        if usage.cache_write_tokens:
+            attrs["gen_ai.usage.cache_creation_input_tokens"] = (
+                usage.cache_write_tokens
+            )
+        if usage.cost is not None:
+            attrs["gen_ai.usage.cost"] = usage.cost
+        try:
+            for key, value in attrs.items():
+                span.set_attribute(key, value)
+        except Exception:
+            logger.debug(
+                "ACP turn span usage attributes could not be set", exc_info=True
+            )
 
     def abandon(self) -> None:
         """Close whatever is still open after a timed-out or failed turn."""

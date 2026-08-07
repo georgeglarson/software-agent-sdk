@@ -72,7 +72,7 @@ from openhands.sdk.agent.acp_file_credentials import (
     write_secret_file,
 )
 from openhands.sdk.agent.acp_models import ACPModelInfo
-from openhands.sdk.agent.acp_tracing import ACPTurnTrace
+from openhands.sdk.agent.acp_tracing import ACPTurnTrace, ACPTurnUsage
 from openhands.sdk.agent.base import AgentBase
 from openhands.sdk.context import AgentContext
 from openhands.sdk.conversation.state import ConversationExecutionStatus
@@ -1933,7 +1933,7 @@ class ACPAgent(AgentBase):
         session_id: str,
         elapsed: float | None = None,
         usage_update: UsageUpdate | None = None,
-    ) -> None:
+    ) -> ACPTurnUsage | None:
         """Record cost, token usage, latency, and notify stats callback once.
 
         Args:
@@ -1941,19 +1941,30 @@ class ACPAgent(AgentBase):
             session_id: Session identifier used as the response_id for metrics.
             elapsed: Wall-clock seconds for this prompt round-trip (optional).
             usage_update: The synchronized ACP UsageUpdate for this turn, if any.
+
+        Returns the per-turn usage for observability spans, or ``None`` when
+        the server reported nothing — llm.metrics accumulates across turns, so
+        span tagging must not read it back from there.
         """
         # -- Cost recording ---------------------------------------------------
         # claude-agent-acp, codex-acp: report cost via UsageUpdate notification
         # gemini-cli: does not send UsageUpdate (cost derived from tokens below)
         cost_recorded = False
-        if usage_update is not None and usage_update.cost is not None:
+        turn_cost: float | None = None
+        cost_update = usage_update.cost if usage_update is not None else None
+        server_reports_cost = cost_update is not None
+        if cost_update is not None:
             last_cost = self._client._last_cost_by_session.get(session_id, 0.0)
-            delta = usage_update.cost.amount - last_cost
+            delta = cost_update.amount - last_cost
             if delta > 0:
                 self.llm.metrics.add_cost(delta)
                 cost_recorded = True
-            self._client._last_cost_by_session[session_id] = usage_update.cost.amount
-            self._client._last_cost = usage_update.cost.amount
+                # A zero/negative delta is a real "this turn cost ~0" — leave
+                # turn_cost None rather than tagging the span with an
+                # explicit 0.0 that reads as measured.
+                turn_cost = delta
+            self._client._last_cost_by_session[session_id] = cost_update.amount
+            self._client._last_cost = cost_update.amount
 
         # -- Token usage recording --------------------------------------------
         input_tokens, output_tokens, cache_read, cache_write, reasoning = (
@@ -1982,6 +1993,11 @@ class ACPAgent(AgentBase):
             )
             if cost > 0:
                 self.llm.metrics.add_cost(cost)
+                # Only tag the span with a derived cost when the server has no
+                # cost channel at all — when it reports one, estimating from
+                # cache-inflated token counts would fabricate a span cost.
+                if not server_reports_cost:
+                    turn_cost = cost
 
         if not cost_recorded and not input_tokens and not output_tokens:
             # gemini-cli currently returns response.usage=None and
@@ -2000,6 +2016,16 @@ class ACPAgent(AgentBase):
                 self.llm.telemetry._stats_update_callback()
             except Exception:
                 logger.debug("Stats update callback failed", exc_info=True)
+
+        if not input_tokens and not output_tokens and turn_cost is None:
+            return None
+        return ACPTurnUsage(
+            input_tokens=input_tokens,
+            output_tokens=output_tokens,
+            cache_read_tokens=cache_read,
+            cache_write_tokens=cache_write,
+            cost=turn_cost,
+        )
 
     # -- Capability helpers ------------------------------------------------
 
@@ -3535,7 +3561,7 @@ class ACPAgent(AgentBase):
 
         session_id = self._session_id or ""
         usage_update = self._client.pop_turn_usage_update(session_id)
-        self._record_usage(
+        turn_usage = self._record_usage(
             response,
             session_id,
             elapsed=elapsed,
@@ -3561,7 +3587,10 @@ class ACPAgent(AgentBase):
             response_text = "(No response from ACP server)"
 
         self._client.trace.finish_turn(
-            response_text, thought_text, self._client.accumulated_tool_calls
+            response_text,
+            thought_text,
+            self._client.accumulated_tool_calls,
+            usage=turn_usage,
         )
 
         # ACP step() boundaries are full remote assistant turns, not
