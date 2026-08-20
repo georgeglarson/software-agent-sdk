@@ -1,0 +1,23 @@
+tests/integration/tests/c06_triggered_skill_survives_condensation.py
+  s_a10d4904071dd3::t_22a34e6547b0a7 1-311
+tests/integration/tests/c07_path_rule_survives_condensation.py
+  s_a10d4904071dd3::t_552642eaf53399 1-303
+tests/integration/base.py
+  s_a10d4904071dd3::t_55bcf94eac9e8a 20,139-142,276-285
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "86e067dadd0a2398f6140c9f16220790be38af35",
+  "prompts": {},
+  "sessions": {
+    "s_a10d4904071dd3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fd7f19da-858c-4c78-acda-5f8dcc834ee1",
+        "model": "claude-opus-5"
+      },
+      "human_author": "george larson <george.g.larson@gmail.com>"
+    }
+  }
+}
