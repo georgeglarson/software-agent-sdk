@@ -1,0 +1,19 @@
+.github/workflows/typescript-client-integration-tests.yml
+  s_0ca2dd82d6801a::t_8a68877856b540 154
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "62a7387e1ca53a93220b26541d97c0a6597102c1",
+  "prompts": {},
+  "sessions": {
+    "s_0ca2dd82d6801a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a064e6-ca3f-77e0-82cc-a571d989f1e3",
+        "model": "gpt-5.5"
+      },
+      "human_author": "george larson <george.g.larson@gmail.com>"
+    }
+  }
+}
