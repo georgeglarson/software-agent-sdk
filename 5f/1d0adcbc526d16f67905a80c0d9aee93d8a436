@@ -1,0 +1,19 @@
+tests/sdk/launch/test_field_ownership.py
+  s_25adfe404b8f10::t_e2d348317e761a 104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "5f1d0adcbc526d16f67905a80c0d9aee93d8a436",
+  "prompts": {},
+  "sessions": {
+    "s_25adfe404b8f10": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "547c8574-af7e-47c7-8cd2-8abb57538268",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "george larson <george.g.larson@gmail.com>"
+    }
+  }
+}
