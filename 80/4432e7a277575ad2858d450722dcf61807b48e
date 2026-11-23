@@ -1,0 +1,39 @@
+openhands-tools/openhands/tools/task/manager.py
+  s_25adfe404b8f10::t_b89c2f22aac399 37-42,384,386-387
+openhands-sdk/openhands/sdk/subagent/__init__.py
+  s_25adfe404b8f10::t_0a6c4e3ceb92ef 9
+  s_25adfe404b8f10::t_b89c2f22aac399 36-37
+  s_25adfe404b8f10::t_256d462f3923b7 13
+tests/tools/task/test_task_manager.py
+  s_25adfe404b8f10::t_9445029e8e1e18 20
+  s_25adfe404b8f10::t_a4b7ef7165d7c8 347
+  s_25adfe404b8f10::t_df705869c088d7 294-335,339-340,350,352-353
+openhands-sdk/openhands/sdk/subagent/registry.py
+  s_25adfe404b8f10::t_0a6c4e3ceb92ef 399-420,433-434,449,455
+  s_25adfe404b8f10::t_672087010e8557 26
+  s_25adfe404b8f10::t_b89c2f22aac399 30,421-432
+openhands-tools/openhands/tools/delegate/impl.py
+  s_25adfe404b8f10::t_b89c2f22aac399 15-19,191-198
+tests/sdk/subagent/test_subagent_registry.py
+  s_25adfe404b8f10::t_672087010e8557 20,1129-1154
+  s_25adfe404b8f10::t_2a38d89d32fc36 17,1097-1127
+  s_25adfe404b8f10::t_df705869c088d7 1128
+tests/tools/delegate/test_delegation.py
+  s_25adfe404b8f10::t_a4b7ef7165d7c8 233-264
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "804432e7a277575ad2858d450722dcf61807b48e",
+  "prompts": {},
+  "sessions": {
+    "s_25adfe404b8f10": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "547c8574-af7e-47c7-8cd2-8abb57538268",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "george larson <george.g.larson@gmail.com>"
+    }
+  }
+}
