@@ -1,0 +1,22 @@
+.pr/e2e_disabled_agents_alias_live.py
+  s_25adfe404b8f10::t_af7bd2996757b0 1-42,48-75
+  s_25adfe404b8f10::t_fa8e0325fbea14 43-47
+.pr/demo-logs/e2e-live-alias-glm-4.7.txt
+  s_25adfe404b8f10::t_fa8e0325fbea14 1-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "4fdf57c41213d10746515504a66c083c67aaaf03",
+  "prompts": {},
+  "sessions": {
+    "s_25adfe404b8f10": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "547c8574-af7e-47c7-8cd2-8abb57538268",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "george larson <george.g.larson@gmail.com>"
+    }
+  }
+}
