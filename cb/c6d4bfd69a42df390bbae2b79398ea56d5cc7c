@@ -1,0 +1,29 @@
+tests/sdk/mcp/test_mcp_secret_expansion.py
+  s_25adfe404b8f10::t_5ad96799dc1a3f 204-259
+tests/sdk/mcp/test_mcp_tool.py
+  s_25adfe404b8f10::t_5ad96799dc1a3f 122-148
+  s_25adfe404b8f10::t_6f57c3c19e1c35 8
+  s_25adfe404b8f10::t_8f16be43a198db 3-4,151-154,156-158,161-163
+  s_25adfe404b8f10::t_e406409207adc8 149-150,155,159-160,164-166
+  s_25adfe404b8f10::t_67a093f7d3510a 167
+openhands-sdk/openhands/sdk/mcp/definition.py
+  s_25adfe404b8f10::t_efd55f0c8cf0c4 54,56-59
+openhands-sdk/openhands/sdk/mcp/tool.py
+  s_25adfe404b8f10::t_efd55f0c8cf0c4 266-267,269-275
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "cbc6d4bfd69a42df390bbae2b79398ea56d5cc7c",
+  "prompts": {},
+  "sessions": {
+    "s_25adfe404b8f10": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "547c8574-af7e-47c7-8cd2-8abb57538268",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": null
+    }
+  }
+}
