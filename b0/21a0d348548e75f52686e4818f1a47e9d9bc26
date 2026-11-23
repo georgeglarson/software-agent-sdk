@@ -1,0 +1,2877 @@
+openhands-agent-server/openhands/agent_server/vscode_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 3,6-8,25-27,43-44,52,56-58,75
+.github/workflows/issue-duplicate-checker.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 40
+clients/typescript/src/__tests__/agent-server-contract-types.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-2,4-13,15-16,18-22,25,28-45,58-64,98-125,187-255,274-326
+.agents/skills/verify-sdk/references/feature-map/S05-events.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-171
+openhands-agent-server/openhands/agent_server/env_parser.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 360-366,374,380,382-384,387
+openhands-agent-server/openhands/agent_server/project_profiles.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-142
+.agents/skills/verify-agent-server/references/report.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-50
+.github/workflows/typescript-client-ci.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 20,22-23,25,35-56,65,67-68,70,88,91,94,121,123-124,126,137,148,150-151,153,176
+examples/02_remote_agent_server/06_custom_tool/Dockerfile
+  s_25adfe404b8f10::t_d5ebb999986b9b 11
+openhands-agent-server/openhands/agent_server/storage/reclaimer.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-195
+openhands-sdk/openhands/sdk/agent/base.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 19-20,28,32-34,52,66-68,70-71,81-85,89-90,95,121,171-176,178,263-267,280-287,368-370,376,390-397,420,474-475,493,495-501,506,520,530
+openhands-sdk/openhands/sdk/event/conversation_state.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 96-100
+openhands-agent-server/AGENTS.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 25,110-120,126,138-140
+  s_25adfe404b8f10::t_d4901c3e0e51b0 141
+openhands-sdk/openhands/sdk/conversation/request.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 27-29,44-54,77-78,80-102,105-122,138-223,246-248,251-254,399-406,426-435,441-445,447,449,456-458,464-465,469-492,496,499-511,513-514,516-527,532-539,541
+examples/01_standalone_sdk/27_observability_laminar.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 6-9
+.agents/skills/verify-sdk/programs/S08/recorder.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-54
+.agents/skills/verify-sdk/programs/S11/task_resume_session.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-107
+.agents/skills/verify-sdk/programs/S14/presets.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-216
+openhands-sdk/openhands/sdk/event/message_edit.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-160
+openhands-sdk/openhands/sdk/errors.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-139
+openhands-agent-server/openhands/agent_server/workspaces_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 11,14,16,20,22,65-67,69-70,76-85,96-97,119,122,125,133,148,151,154,157,167-168,191,194,197,205,220,223,226,229
+.agents/skills/verify-sdk/scripts/sdk_map.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-1115
+clients/typescript/src/client/projects-client.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-386
+openhands-agent-server/openhands/agent_server/storage/model.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-27
+.agents/skills/verify-sdk/SKILL.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-147
+examples/01_standalone_sdk/23_responses_reasoning.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 39
+clients/typescript/src/__tests__/device-flow-client.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1,14,21,25,53
+openhands-sdk/openhands/sdk/llm/options/responses_options.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 5-8,13,18,89-96
+openhands-sdk/openhands/sdk/agent/acp_file_credentials.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 13,54-59,122,135-148,157,160-163,173,191-210,277-285,292,547-550,575-593
+openhands-sdk/openhands/sdk/conversation/goal/controller.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 18,75-88,120-125,127-129,131
+clients/typescript/tsconfig.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 6,19-21
+.agents/skills/verify-sdk/programs/S10/hooks/deny_secret_prompt.sh
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-8
+.agents/skills/verify-agent-server/references/feature-map/F37-reactions.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-360
+.agents/skills/verify-sdk/programs/S02/ask_agent_cache.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-98
+.agents/skills/verify-sdk/scripts/control_sdk.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-863
+.github/workflows/persisted-settings-compat.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 18
+examples/02_remote_agent_server/02_convo_with_docker_sandboxed_server.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 56
+.github/workflows/release-binaries.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 4,7,43,83,91-93,190-192,201,203,317,320
+.agents/skills/verify-agent-server/references/feature-map/F06-conversation-events.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-920
+.agents/skills/verify-sdk/programs/S21/fake_acp.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-539
+.agents/skills/verify-sdk/references/feature-map/S08-plugins-marketplace.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-344
+openhands-agent-server/openhands/agent_server/_secret_redaction.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 10,25-27,67-68,70-84,87-88,91
+.agents/skills/verify-sdk/programs/S14/file_editor.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-140
+openhands-sdk/openhands/sdk/launch/preview.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-124
+clients/typescript/src/client/vscode-client.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-3,6,19,22
+.github/agent-server-openapi-weak-schema-allowlist.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 273,279,285,349-353
+  s_25adfe404b8f10::t_74c89500099705 354
+.agents/skills/verify-agent-server/references/maintenance.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-160
+openhands-agent-server/openhands/agent_server/storage/__init__.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-8
+.agents/skills/verify-sdk/programs/S05/event_log.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-74
+.agents/skills/verify-sdk/programs/S11/builtins.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-57
+.agents/skills/verify-sdk/references/adaptation.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-49
+clients/typescript/src/models/workspace.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 4,30-31,34-35
+openhands-agent-server/openhands/agent_server/profiles_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 3,6,13,16,18,23-29,33,37,41,43,51-54,85,120-122,135,140,143-147,151-153,161-164,173,182-190,195-196,202-205,207-208,219-221,230,233-234,239-241,249-257,259-261,294-324,334-335,343-346,349-350,353-356,359-362,366,370-387,394-395,410,428-432,440,442-443,450,453-455,467,469,471,474,495-499,505-506,509-511,520,522-524,526,528,531-537,544,547-550,556-561
+openhands-agent-server/openhands/agent_server/models.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 11,18-19,26-27,34,53-77,115-116,177-183,334-350,393-407,466-492,504-507,513-540,617-635
+openhands-agent-server/openhands/agent_server/tool_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 3,5-35,57-83
+openhands-sdk/openhands/sdk/context/view/view.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 15,129-131
+  s_25adfe404b8f10::t_6043f8820ffd61 132
+openhands-sdk/openhands/sdk/conversation/state.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 4,8,10,27,36,44,85-135,168-172,211-234,316,342-357,394-415,425-473,556-561,607,636,662-663,702,716,725-726,739-740,760,763-764,787-788,796,809,831-862,970-1001
+.agents/skills/verify-agent-server/references/feature-map/F10-fork-navigate-condense-ask.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-637
+.github/scripts/check_pr_description.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 12-13,27-29,52,62-70,74,172
+.agents/skills/verify-sdk/programs/S09/runtime.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-202
+.github/scripts/update_debian_snapshot.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-90
+openhands-sdk/openhands/sdk/event/security.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-48
+.github/scripts/check_sdk_api_breakage.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 610-727,847-863,906-910,913
+openhands-agent-server/openhands/agent_server/docker_runtime/routers.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-638
+openhands-sdk/openhands/sdk/event/acp_tool_call.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 10,58
+.github/dependabot.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 12-25,31-32,34-35
+clients/typescript/src/__tests__/http-error.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-252
+.agents/skills/verify-agent-server/references/feature-map/F26-plugins.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-990
+examples/01_standalone_sdk/17_image_input.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 3-5
+.agents/skills/verify-sdk/references/feature-map/S19-settings.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-234
+openhands-sdk/openhands/sdk/conversation/stuck_detector.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-3,52-64,82-84,90,102-112,151,153,162,186-187,219-248,252,256-259,261-274,276,279-288,291-356,375,381-386,393-400,456-458,498-504
+openhands-sdk/openhands/sdk/hooks/conversation_hooks.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 18,26,69-71,344-382,440,459,473
+.agents/skills/verify-sdk/scripts/sdk-map
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-7
+openhands-sdk/openhands/sdk/llm/exceptions/__init__.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 5,58
+.github/workflows/pypi-release.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 6-15,26-29,31,34,36-40,42,54
+.github/workflows/typescript-client-github-packages-publish.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 12-16,29-32,35,37,49,51,53-61
+clients/typescript/README.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 3,290-318,397-400,423,426,431,433-434,442-462,595-632
+openhands-agent-server/openhands/agent_server/git_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 7,9,11-20,22,31-38,42,63-69,76,91,107,122,135,142-214,216,229,233,243,253,257,268,272,283
+openhands-agent-server/openhands/agent_server/plugins_service.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 18,27,38-39,44,78-96,298-299
+  s_25adfe404b8f10::t_d5718a12fbb943 300
+MANIFEST.in
+  s_25adfe404b8f10::t_d5ebb999986b9b 16,48-49
+  s_25adfe404b8f10::t_f08d4ab782f66e 50
+openhands-agent-server/openhands/agent_server/pub_sub.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 24-27,31-33,118-139,141-143
+openhands-sdk/openhands/sdk/git/utils.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 7,11,75,85-88,96,120,562-565,578-581,587-588,597-598,601-603,605-609
+openhands-sdk/openhands/sdk/llm/options/chat_options.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 5-8,13,18,54-61,103-109
+openhands-agent-server/openhands/agent_server/project_board.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-417
+openhands-sdk/openhands/sdk/llm/utils/retry_after.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-67
+.agents/skills/verify-sdk/programs/S01/sleeper.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-84
+openhands-agent-server/openhands/agent_server/canvas_extensions_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 10,13,17-24,30,37-43,45,66-93,126-132,162,181-182,201-207,209,211,219-221,223-224,230,235-236,238-252,255-256,281,289,298,300-303,305-367,373,375,377,379-380,382,388-476,479,496,498-565
+.agents/skills/verify-agent-server/references/daily.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-139
+openhands-agent-server/openhands/agent_server/persistence/store.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 20,22,28,37-43,247-272,300-308,359-360,362,367-371,382,384-386,405,420,422,433-435,438-457,479,486-487,495-510,553,558-562,573,575-577,594,627-642,652,654,708,715-716,743,750-751,766,771-772,795,800-801,837-841,905-909,913-914,916-918,921-930,932-933,935-936,938-954,956-959,961-965,967,969-986,989,992-995,998-999,1001-1004,1006,1009-1011,1013-1017,1019-1020,1022-1025,1027-1129,1131-1142
+openhands-sdk/openhands/sdk/context/agent_context.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 6,17,32,165-175,188-198,239-246,276,279-282,289-290,293-302,387-393
+openhands-agent-server/openhands/agent_server/agent-server.spec
+  s_25adfe404b8f10::t_d5ebb999986b9b 122-141,147-148
+  s_25adfe404b8f10::t_d1131b87fe59ea 149
+.agents/skills/verify-sdk/programs/S10/hooks/async_sleeper.sh
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-5
+.agents/skills/verify-sdk/programs/S10/marketplace/plugins/runtime-hooks/.plugin/plugin.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 1
+.github/workflows/typescript-client-integration-tests.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 20-23,32-33,37,39-40,42,46-54,66-68,70-97,106,169,202,204-205,207,218-237,247,260,268,278
+openhands-agent-server/openhands/agent_server/bash_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 5-6,17,25,28,57,76,85,107,119,122-157,167-198
+.agents/skills/verify-sdk/programs/S14/search_and_patch.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-49
+examples/02_remote_agent_server/07_convo_with_cloud_workspace.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 7
+clients/typescript/src/client/canvas-extensions-client.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-177
+.agents/skills/verify-agent-server/references/feature-map/F18-settings-and-secrets.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-1150
+.agents/skills/verify-sdk/programs/S11/task_secrets.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-134
+examples/02_remote_agent_server/03_browser_use_with_docker_sandboxed_server.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 51
+openhands-agent-server/openhands/agent_server/mcp_oauth_store.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 12,17-24,29,34,40,45-46,61-68,105-150,159-160,163-166,173,179,194,200-207,233-281,291,311-316,337,341,459-471,484-491,498,500,507-514
+.agents/skills/verify-agent-server/references/feature-map/F21-agent-profiles.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-1133
+.agents/skills/verify-agent-server/references/feature-map/F14-files.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-933
+examples/01_standalone_sdk/42_file_based_subagents.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 19
+.github/scripts/update_code_server_pin.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-123
+openhands-agent-server/openhands/agent_server/local_secret_resolver.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-91
+openhands-sdk/openhands/sdk/git/git_diff.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 53-67,81-83,89,91-93,97,109-110,120-121,131-142,145-152,158-160
+  s_25adfe404b8f10::t_61b50e9a4abb6e 161
+openhands-agent-server/openhands/agent_server/catalog.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-12
+.agents/skills/verify-agent-server/references/feature-map/F03-deferred-init.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-621
+.agents/skills/verify-sdk/programs/S01/repeat_error.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-6
+.agents/skills/verify-sdk/scripts/control-sdk
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-20
+openhands-agent-server/openhands/agent_server/docker_runtime/hybrid.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-175
+clients/typescript/src/models/acp-model-discovery.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-50
+openhands-sdk/openhands/sdk/llm/utils/model_info.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 8,13,25-99,127-138,140-169
+.github/workflows/version-bump-prs.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 20-32,34,112-118,120,123-126,128-129,132,137,143-144,160-165,168-177,180,188-193,203-204,212-215,228,231-232,239-271,273-274,276-279,281,284-292,295,301-310,318-328,330-335,338,340,474-605
+.agents/skills/verify-sdk/programs/S20/retry_log.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-93
+.impeccable/config.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-17
+clients/typescript/src/models/acp.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 12-18,26-32,37,59-70,83-87,111-120,148,152
+openhands-sdk/openhands/sdk/event/types.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-3,9-17,27
+openhands-sdk/openhands/sdk/launch/resolve.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-278
+clients/typescript/src/__tests__/conversation-event-stream.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-247
+.agents/skills/verify-sdk/programs/S14/search.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-109
+.agents/skills/verify-agent-server/references/feature-map/F01-server-status.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-298
+openhands-sdk/openhands/sdk/llm/llm_response.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 49-52
+  s_25adfe404b8f10::t_8bd17603b75261 48
+clients/typescript/src/client/http-client.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 5-6,24,32-39,49-71,81-176,178,235-238,245-248,305-310,513-527
+.agents/skills/verify-sdk/references/recipes.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-70
+clients/typescript/vitest.integration.config.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-13
+.agents/skills/verify-sdk/programs/S04/views.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-627
+.agents/skills/verify-sdk/programs/S20/traced_conversation.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-388
+openhands-sdk/openhands/sdk/conversation/resolution.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-463
+clients/typescript/src/__tests__/remote-workspace-git.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1,3,17,21,35,48,50,63,65,76-92
+  s_25adfe404b8f10::t_bb898c6f1f415e 93
+openhands-agent-server/openhands/agent_server/auth_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 11-14,25-26,37,40-51,76-78,81,87,96-107,113,116,127-130,140,152-154,169,193
+.agents/skills/verify-sdk/programs/S13/secret_rotation.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-100
+.agents/skills/verify-agent-server/references/feature-map/F34-typescript-client.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-1800
+.agents/skills/verify-agent-server/references/feature-map/F24-openai-subscription.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-588
+.agents/skills/verify-sdk/programs/S06/recorder.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-54
+openhands-agent-server/openhands/agent_server/persistence/models.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 12-14,31,36-38,41,44,57,60-61,69,97,151,199-212,227-228,262-264,342-351,357-398,401,409-426,480,502,575-576,590,670-720
+  s_25adfe404b8f10::t_1d42ec3c807c5d 721-722
+.agents/skills/verify-sdk/programs/S13/secrets_run.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-498
+.github/workflows/todo-management.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 58,63,133,144
+.agents/skills/verify-agent-server/references/feature-map/F40-ask-user.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-358
+clients/typescript/src/generated/agent-server-schema.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 2,28-33,49,67,73,180-185,201,219,225,314-550,603-708,734,818-831,1020-1022,1041-1043,1089-1097,1122-1124,1128-1133,1260-1280,1297-1338,1388,1423,1442-1447,1524,1559,1578-1583,1881,1903,2007-2012,2035-2040,2105-2116,2144,2172-2179,2188-2191,2208-2215,2230-2239,2280-2281,2481-2483,2485,2487-2491,2493,2495,2497,2499,2501-2525,2528-2529,2535,2537,2539,2541,2543,2545,2547,2549,2551,2553,2555,2557,2559-2561,2563,2566-2567,2573-2575,2577,2579-2581,2583,2585-2587,2589-2595,2599-2601,2603-2620,2623,2625,2627,2629-2631,2633,2635,2637,2639-2647,2649,2651-2652,2654,2656,2658,2660,2662,2664-2666,2668,2670,2672,2674,2678-2680,2682,2684,2686-2694,2698-2943,2969-2978,3820,3822,3824,3826,3828-3847,3851,3853,3855,3857-3859,3861,3863,3865,3867,3869,3871-3939,3948-3953,4000-4088,4520-4549,4654-4659,4693-4698,4721,4750-4755,4775-4778,4823-4830,4841-4864,4879-4916,4981-5006,5066-5070,5108-5112,5186,5188,5190,5192,5194,5196-5292,5584-5586,5626-5634,5679-5712,5770-5847,6043-6117,6306,6308,6310-6316,6318,6320,6322,6324,6326,6328-6344,6348-6441,6836,6842,6848,6854,6860,6866,6872,6897-6902,7060,7084-7095,7111,7113,7119,7134-7137,7210-7215,7343,7375,7426-7431,7779-7789,7818,7830,7989-7991,7997,8000-8005,8090-8091,8114-8119,8135,8166,8178,8339-8341,8347,8350-8355,8440-8441,8464-8469,8485,8511-8513,8688-8743,8760-8771,8778-8783,8971-8982,9012-9014,9016-9027,9346-9385,9548-9549,9628,9639-9640,9715,9726-9727,9806,9895,10113,10266-10277,10320-10373,10483-10591,10624-10703,10778-10797,10802-10804,10826-10828,10832-10837,10862-10864,10868-10870,10945,10947-10953,10955,10957,10959,10961,10963,10965,10967,10969,10971,10973,10975,10977,10979-11109,11189-11192,11246-11249,11710,11712-11715,11717-11718,11720-11724,11745,11747-11750,11752-11753,11755-11759,11780,11857-11916,12004,12006,12008,12010,12012,12014,12018,12020,12022,12024-12032,12034,12036-12059,12063,12065-12078,12080,12082,12084,12086,12088,12090,12092,12094-12098,12100,12102,12104,12106,12108,12110-12114,12116,12118,12120-12122,12124,12126,12128,12130,12132,12134,12136,12140,12142-12145,12147,12149-12151,12153,12155,12157,12159-12161,12163,12165,12167,12169,12171,12173,12175,12179,12181,12183,12185-12187,12189,12191-12193,12195,12197-12399,12542-12547,12637-12644,12706-12777,12848-12853,13035-13040,13138-13143,13210,13330,13414,13416-13480,13504-13507,13583-13588,13645-13835,13841-13845,13847,13849,13867,13873,13894-13897,13904-13909,13913,13918-13923,13938-13943,13968-13973,14033,14036-14039,14078-14089,14112-14123,14230,14249-14250,15034,15456-15511,15522-15524,15570-15578,15600-15602,15606-15611,15634,15789-15804,15851-15909,15920-15927,15952-15957,16244,16369,16381,16817,16824,16868,16897-16902,16915-16920,17010-17015,17031,17049,17055,17162-17167,17183,17201,17207,17296-17438,17623-17638,17668,17703,17722-17727,17804,17839,17858-17863,18061,18083,18153-18155,18157-18185,18217-18247,18726-18756,18852-18857,18891-18896,18919,18948-18953,18973-18976,19021-19028,19081-19111,19274-19276,19316-19324,19338-19377,19409-19439,19731-19736,19798-19808,19819,19831,19990-19992,19998,20001-20006,20091-20092,20115-20120,20136,20167,20179,20334-20336,20342,20345-20350,20435-20436,20459-20464,20480,20756-20758,20760,20762-20764,20766,20768-20770,20772,20774,20776-20827,20906,20995,21058,21240-21301,21541-21546,21613,21694-21724,21730-21734,21736,21738,21752,21756,21762,21783-21786,21793-21798,21802,21807-21812,21827-21832,21857-21862,21922,21925-21928,21947-21958,21981-21992,22018,22037-22038,22388,22459-22461,22483-22485,22531-22539,22561-22563,22567-22572,22738-22768,22982-23008,23128-23131,23267-23302,23514,23674,23686,23689,23692-24009,24029,24031,24033-24035,24037-25011,25013,25015,25017-25018,25021-25029,25034-25037,25040-25041,25043,25047,25050-25051,25053-25055,25057,25059,25061-25062,25065-25069,25076-25077,25079,25083,25086-25087,25089,25091,25093,25095,25097-25098,25101-25105,25112-25113,25115,25119,25122-25123,25125-25127,25129,25131,25133-25134,25137-25145,25152-25153,25155,25159,25162-25163,25165-25166,25174,25177-25181,25192-25193,25195,25202-25203,25205,25213-25214,25217,25219,25228-25229,25231,25235,25238-25239,25241-25242,25250,25253,25255-25259,25268-25269,25271,25275,25278-25279,25281,25283,25291,25294,25297-25301,25310-25311,25313,25318,25321-25322,25324-25366,25374,25377,25388-25389,25391,25395,25398-25399,25401-25402,25410,25413-25417,25422-25425,25432-25433,25435,25439,25442-25443,25445-25446,25454,25457-25465,25470-25473,25476-25477,25479,25483,25486-25487,25489-25490,25498,25501,25508-25509,25511,25515,25518-25519,25521-25531,25533-25535,25537,25539-25546,25548,25550-25558,25560,25562,25564-25565,25568,25570,25579-25580,25582,25586,25589-25590,25592,25594,25602,25605,25617-25618,25620,25628-25629,25631-25632,25639-25666,25668,25670-25678,25680,25682,25684-25685,25688-25692,25701-25704,25707-25708,25710,25714,25717-25721,25729,25732,25734-25738,25747-25748,25750,25754,25757-25758,25760-25761,25768-25769,25772,25774,25776,25778,25780,25787-25788,25790,25792,25794,25797-25798,25800-25801,25809,25812,25814,25823-25824,25826,25830,25833,25840-25843,25846,25849,25851,25860-25861,25863,25867,25870-25885,25887-25913,25917,25919,25922,25925,25927,25929-25964,25971-25972,25974,25976-25977,25980,25983-25984,25986,25990-26023,26025,26027,26030,26037-26038,26040-26046,26048-26049,26051-26052,26055,26057-26061,26064,26067,26069,26078-26079,26081,26085,26088-26089,26091-26105,26107,26109,26111-26116,26118,26120,26122-26135,26138,26145-26146,26148-26154,26156-26157,26159,26163,26165,26167-26199,26202,26209-26210,26212,26216,26219-26220,26222,26226,26228,26230-26238,26241,26248-26249,26251,26258-26259,26261-26262,26265,26267,26269-26277,26280,26287-26288,26290,26294,26297-26298,26300,26302,26308-26311,26314,26317,26325-26326,26328,26333,26336-26337,26339-26340,26343,26345,26347-26355,26358,26365-26366,26368,26372,26375-26376,26378-26379,26382-26390,26392-26398,26400,26403,26410-26411,26413,26415-26416,26419,26422-26423,26425-26426,26429,26431,26433-26447,26450,26457-26458,26460,26464,26467-26468,26470-26520,26524,26526,26528-26548,26551,26558-26559,26561,26565,26568-26571,26575,26577,26580,26583,26590-26591,26593,26595-26596,26599-26601,26604-26607,26609-26614,26619-26623,26625,26628,26635-26636,26638,26642,26645-26646,26655,26661,26905,26997-27097,27099,27101,27103,27105,27107,27109,27112,27119-27120,27122,27126,27129-27130,27132,27134,27136,27138,27140,27142,27144,27146,27148-27154,27157-27161,27166-27169,27172-27173,27175,27179,27182-27183,27562,27655-27799,27827-27858,28037-28040,28368-28426,28526-28531,28535-28544,28674-28690,28869-28872,28976-28991
+  s_25adfe404b8f10::t_a1913620a967c8 28992
+openhands-agent-server/openhands/agent_server/canvas_extensions_bridge_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-136
+clients/typescript/src/client/plugins-client.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 2-3,79-87
+  s_25adfe404b8f10::t_81a89891b04104 88-89
+openhands-sdk/openhands/sdk/llm/provider_connection_store.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 29,37,40,42-46,72,79-82,97-100,148-153,168,170,173,175,180-184,189,220,224
+openhands-agent-server/openhands/agent_server/server_details_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 6,8,11-18,69-76,79-81,85-96,99-104,121,154-172,174,177-200
+.agents/skills/verify-sdk/references/feature-map/S18-workspace-backends.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-199
+openhands-agent-server/pyproject.toml
+  s_25adfe404b8f10::t_d5ebb999986b9b 3,8-11,14,16-18,20,26-28,37,52
+.agents/skills/verify-agent-server/references/feature-map/F31-persistence-and-limits.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-914
+openhands-agent-server/openhands/agent_server/docker_runtime/__init__.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1
+.github/scripts/check_agent_server_openapi_quality.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 232-259,272
+openhands-sdk/openhands/sdk/logger/_rich_handler.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-62
+openhands-agent-server/openhands/agent_server/file_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 2,7,12,14,16,22,30,32-38,40-46,56,82-93,96,103,105,108-109,111-113,116-118,121,123,125-132,135,138,145,148,151,159,163-187,195-202,208-216,218-230,236-243,321-366,778,783-786,790,808,816,818,821,875,898-899,910,924-926,931,933,935,952,954-956,960-968,973,978-982,985,991,993-1019,1021,1026-1028,1031-1040,1049-1055,1104-1105,1107,1112-1113,1122-1129,1132,1135,1138,1141,1160
+openhands-agent-server/openhands/agent_server/sub_agents_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 11,14-16,71-77,127-129,133-134,141-147
+openhands-agent-server/openhands/agent_server/local_storage.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-75
+.agents/skills/verify-sdk/programs/S01/finish_on_last.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-4
+clients/typescript/src/__tests__/conversation-create-retry.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-151
+openhands-sdk/openhands/sdk/event/reaction.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-187
+openhands-sdk/openhands/sdk/llm/utils/verified_models.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-12,14-20,25,29-30,32,34,36-40,43,49-50,52-55,57-61,64,69-71,74-75,77,79,83,85,87,90,92-94,98,100-101,103,105,108-109,111,113-118,121-163,166-185,187,189,191-200,202,204,206,209-211,215-218,220,222-225,227,230-231,233-237,240-241,258-259
+.agents/skills/verify-sdk/programs/S18/local_workspace.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-173
+clients/typescript/src/client/init-client.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-57
+.agents/skills/verify-sdk/references/feature-map/S03-llm-routing-profiles.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-366
+.github/workflows/update-version-pins.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-298
+clients/typescript/src/__tests__/remote-workspace-download.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-60
+clients/typescript/src/client/agent-profiles-client.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 143,145-148,151
+.agents/skills/verify-sdk/programs/S19/agent_settings.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-593
+openhands-agent-server/openhands/agent_server/docker_runtime/mediation.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-27
+CONTRIBUTING.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 59-69,97-98
+.agents/skills/verify-sdk/references/feature-map/S17-custom-and-client-tools.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-253
+openhands-agent-server/openhands/agent_server/telemetry/service.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 3-4,15-16,42-43,47,49,98-105,139,148
+openhands-sdk/openhands/sdk/llm/message.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 3-4,7,11-18,22,210,304-308,313-314,324-325,355-357,371-376,501-507,540,547,559-566,569-577,580-587
+.agents/skills/verify-sdk/references/feature-map/S10-hooks.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-187
+openhands-sdk/openhands/sdk/conversation/response_utils.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 25,33-34,37-39,42-46
+.agents/skills/verify-sdk/programs/S12/critic_objects.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-338
+.agents/skills/verify-sdk/programs/S16/workflow.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-191
+.agents/skills/verify-sdk/programs/S15/site.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-113
+clients/typescript/src/client/conversation-client.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 2-9,19,31-35,58-59,85-122,149-158,168-182,219-248,260-303,506-547,549-553,561-571,576-580,585-586
+openhands-agent-server/openhands/agent_server/README.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 56-59,115-116,120-131,280,284,287-301,327-399,466-485
+  s_25adfe404b8f10::t_f8c24f926eb76d 486
+openhands-agent-server/openhands/agent_server/acp_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-189
+openhands-sdk/openhands/sdk/agent/utils.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 29-33,193-197,500,554-581,652,688
+.agents/skills/verify-agent-server/references/feature-map/F22-meta-profiles.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-713
+openhands-sdk/openhands/sdk/conversation/visualizer/default.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 21,25,247-254
+openhands-sdk/openhands/sdk/hooks/manager.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 16,32,44
+openhands-agent-server/openhands/agent_server/project_memory.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-180
+.agents/skills/verify-sdk/programs/S03/subscription.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-130
+clients/typescript/src/__tests__/conversation-batch.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-77
+.agents/skills/verify-agent-server/references/feature-map/F23-llm-catalog-and-connections.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-867
+.agents/skills/verify-sdk/programs/S07/sources.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-144
+.agents/skills/verify-sdk/references/feature-map/S15-browser.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-170
+openhands-agent-server/openhands/agent_server/docker_runtime/proxy.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-314
+openhands-sdk/openhands/sdk/context/prompts/sections/dynamic.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 15-16,29-31,137-145,154,170-227
+clients/typescript/src/types/base.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 5-6,79-81,90-107,152-153
+openhands-sdk/openhands/sdk/agent/acp_models.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 11-12,17-36,58,85-116,122-207
+openhands-sdk/openhands/sdk/conversation/goal/__init__.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 19,33
+openhands-sdk/openhands/sdk/io/cache.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 24-31,37-39,68-73,76
+openhands-agent-server/openhands/agent_server/project_turns.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-407
+openhands-agent-server/openhands/agent_server/projects_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-1265
+openhands-sdk/openhands/sdk/llm/call_context.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-122
+openhands-sdk/openhands/sdk/llm/llm_session.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-115
+.agents/skills/verify-agent-server/references/feature-map/F17-workspaces-registry.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-735
+.agents/skills/verify-sdk/programs/S16/ask_user.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-365
+.agents/skills/verify-sdk/references/feature-map/README.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-134
+clients/typescript/src/workspace/remote-workspace.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 9-10,27-28,45-46,53,55-57,61,95-98,101,105,129-133,137-139,192,313,316-322
+.agents/skills/verify-sdk/programs/S15/browse.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-170
+openhands-agent-server/openhands/agent_server/resolution_judge.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-54
+openhands-agent-server/openhands/agent_server/persistence/__init__.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 9,12,16,19,26,31,34,46,51,55,61-62,64,70,73
+openhands-sdk/openhands/sdk/hooks/executor.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 27,170,184,247-248,278,364-368,423-425,487-490,556-558,563-565,567-577,594-597,606-609
+openhands-sdk/openhands/sdk/context/prompts/presets.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 13,18-22,32-51,60,69,83-103,107-109,111-117,120,122-123,127-130,132-178,183,197-200,207-210
+openhands-sdk/openhands/sdk/hooks/config.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 13,66-74,257-264,313,347-361,414-421
+openhands-sdk/openhands/sdk/llm/utils/openhands_provider.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 12-30,71-84
+.agents/skills/verify-sdk/programs/S06/context_prompt.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-134
+.github/workflows/README-RELEASE.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 7,9-13,27,29-30,44-58,60,62,64-68,70,72,74,98,118,120-123,125,130,133,135,137-143,148-153
+examples/01_standalone_sdk/54_goal_completion_loop.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 33,63-64
+openhands-sdk/openhands/sdk/llm/__init__.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 7,13-27,37,48-60,83-96,102,105,109-116
+openhands-sdk/openhands/sdk/conversation/goal/judge.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 17-20,61-62,69-70,72-75
+openhands-sdk/openhands/sdk/critic/impl/api/client.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 3,17,95-98
+openhands-sdk/openhands/sdk/llm/llm_registry.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 6,9,15-17,21-27,35,37,40-44,62-64,93-95,97-100,102-120,122-124,126-136,138,143-147,164-181,184,217-218,223-224
+openhands-agent-server/openhands/agent_server/experimental_features.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-215
+.agents/skills/verify-sdk/programs/S05/damaged_log.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-59
+.agents/skills/verify-sdk/programs/S04/lifecycle.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-648
+clients/typescript/src/__tests__/conversation-create-options.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-99
+.agents/skills/verify-sdk/programs/S04/control.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-380
+.agents/skills/verify-sdk/programs/S14/terminal_wait.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-111
+.agents/skills/verify-sdk/programs/S21/npx_warm.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-110
+.agents/skills/verify-sdk/references/daily.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-88
+.agents/skills/verify-sdk/programs/S10/llm_hooks.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-129
+.github/workflows/integration-runner.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 8,19-20,23-27,57-58,65-66,73,80,88-89,91,93,95-99,120-121,191-193,213-226,235,243,251,256,262-263,274-275,295,311,313,330-333,350-353,380,443-444,456,494,501,532-608
+openhands-sdk/openhands/sdk/event/llm_convertible/action.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 2,22,26-38,106-119
+  s_25adfe404b8f10::t_14be4e44d33627 120
+.agents/skills/verify-sdk/references/feature-map/S21-acp-agent.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-316
+openhands-agent-server/openhands/agent_server/docker_runtime/storage.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-96
+.agents/skills/verify-sdk/programs/S09/client.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-491
+openhands-agent-server/openhands/agent_server/conversation_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 3,11,16,20-23,25-27,29-33,35,37-38,41-42,48,54-55,63-64,66-86,92,94,96,99,101-143,148-161,168-189,198,210,228-230,234,249,255,260,263-287,292,306,313,316,318-319,321-324,336-341,348-359,363-372,375-376,378-380,388,397,403,417,422,431,437-443,452,456-459,461,468-474,489,495-496,498,505,518,525-531,540,544-545,547-549,551-575,580-581,591,604,614,621,631,638-643,653,658,660,666-671,677-678,683-686,690,694-706,710-793,796-801,811,815,822,828-834,852,856,861-896,901,910-916,918-920,922,928,938,944-949,956-959,961,969-974,990,1002,1006,1009,1016,1018-1025,1027-1056,1076,1078,1081
+openhands-agent-server/openhands/agent_server/session_socket.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-608
+clients/typescript/src/client/conversation-event-stream.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-216
+openhands-sdk/openhands/sdk/llm/llm.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 9-17,19-29,37,43-56,58,71,77,97,126-127,132,136,139,158,161,164,185,224-225,235,238-248,250-251,262,274,282-286,292,296,342,346,350,389-397,402-414,546-553,556-558,564,698-701,704-705,732-744,770-796,820-822,824-825,829,860-874,883-906,914-957,1013-1024,1029-1032,1042,1056-1115,1157-1158,1161-1167,1169-1170,1176,1183-1185,1190,1192,1205,1211,1214-1216,1218,1222,1224,1233-1298,1306-1310,1313,1318-1325,1328-1388,1390-1391,1396,1400-1402,1404-1406,1409,1453-1454,1465,1469-1473,1485-1486,1488-1489,1496,1498,1520-1522,1548,1578,1658,1660-1661,1663,1705,1739,1798,1800-1802,1804,1824,1832-1835,1848-1850,1863-1885,1888-1951,1991,2023,2037,2042,2058-2073,2086,2113,2144,2146,2160,2165,2181-2199,2215,2255,2291,2305,2323-2327,2338,2340,2346,2364-2381,2396,2422,2457,2461,2480,2499-2504,2515-2516,2518-2519,2532,2534,2540,2558-2578,2594,2729-2730,2735-2749,2758-2770,2772-2783,2795-2809,2812-2840,2845-2867,2994-3005,3239,3242-3285,3390,3496-3499,3511,3553-3555,3582-3584,3599,3605
+.agents/skills/verify-sdk/programs/S05/write_and_read.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-8
+openhands-sdk/openhands/sdk/context/view/__init__.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 2-5,9-14
+clients/typescript/endpoint-audit.config.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 33-88,94-99,111-116
+.agents/skills/verify-sdk/references/feature-map/S13-security-confirmation.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-257
+examples/02_remote_agent_server/17_convo_with_agent_sandbox_server.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-91
+openhands-agent-server/openhands/agent_server/tool_preload_service.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 5-11,13,22-36,51-55
+.agents/skills/verify-agent-server/references/feature-map/F12-runtime-and-credentials.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-1013
+.agents/skills/verify-agent-server/references/feature-map/F33-sdk-remote-client.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-2154
+openhands-agent-server/openhands/agent_server/hooks_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 10,23-29,37-39,45,47-49,52,57-61
+openhands-sdk/openhands/sdk/llm/router/base.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 4,8,16-21,35-40,43-44,46-52,54-120,124,131-266,274,276,285-301,303-323,325-345,347-349,351-361,365
+openhands-sdk/openhands/sdk/conversation/impl/remote_conversation.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 3,11,16,21,25,31,34-37,43,59,62-68,70-76,88,92,110-141,211,216,280-282,319-330,378,547-552,555-556,593-595,602-604,634-635,741-745,755-763,804,821-822,835-837,863-864,866-874,881-884,886,891,893,901,913,929,933,937,962,980,982,985-986,988,993-1015,1017-1021,1023-1168,1175,1183,1195-1196,1265-1291,1296,1298,1321,1331,1338-1340,1356,1358,1384-1388,1419,1441-1443,1459,1630,1703,1706,1718,1727,1735,1742,1744,1750,1754-1800,1808-1809,1811,1822,1847,1853-1861,1898-1900,1902-1911,1970,1978,2004-2007,2009-2019,2051,2053-2075,2077,2079-2082,2086-2098
+  s_25adfe404b8f10::t_05e59a695a8b8f 2099
+.agents/skills/verify-agent-server/references/feature-map/F25-skills.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-1104
+.agents/skills/verify-sdk/programs/S02/provider_run.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-257
+.agents/skills/verify-sdk/programs/S16/message_edits.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-232
+clients/typescript/package.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 3,50,65-71,99,105-106
+clients/typescript/vitest.config.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-20
+.agents/skills/verify-agent-server/scripts/control-agent-server
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-20
+.agents/skills/verify-sdk/programs/S17/custom_tools.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-525
+.github/scripts/resolve_typescript_client_agent_server.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-94
+openhands-sdk/openhands/sdk/git/models.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1,42-86
+.github/workflows/precommit.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 17-30,33,43-46
+  s_25adfe404b8f10::t_bc48ffad3921c8 47
+.github/ISSUE_TEMPLATE/bug_template.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 168,170-171,173
+openhands-agent-server/openhands/agent_server/conversation_lease.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 14,22-24,42,52-74,86-89,119-122,133-137,161-166,170,226-232,234,238,248,254,312-314,331-333
+.agents/skills/verify-sdk/programs/S10/hooks/guard_terminal.sh
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-15
+examples/01_standalone_sdk/45_parallel_tool_execution.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 26
+.agents/skills/verify-sdk/programs/S07/recorder.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-54
+openhands-sdk/openhands/sdk/llm/decision.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-565
+openhands-sdk/openhands/sdk/llm/utils/unverified_models.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 54-66,72,74,77,79-82,84-86
+openhands-agent-server/openhands/agent_server/vscode_service.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1,4,6-7,9,11,41-47,82,89-90,94,99-102,105-118,127-128,137,139-141,151-158,174,194-230,233-244,248,250-253,257-262,289,291,297-298,301-302,307-317
+.agents/skills/verify-sdk/programs/S13/live_risk.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-64
+clients/typescript/src/conversation/conversation-manager.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 6,9,11,36-43,75,108-109,142-143,180-182,224,238,245-247,266,311-312,354,372,391-450,459-461,467-468
+openhands-sdk/openhands/sdk/context/prompts/section.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 21,53-67,72-73,82,90,95-96,116-120,131-133,140-144
+clients/typescript/src/client/tool-client.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 2,30-32
+  s_25adfe404b8f10::t_41f92526eb9c94 33-35
+clients/typescript/src/events/websocket-client.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 6-10,27,29-45,48,50,56-61,64-69,73-74
+openhands-sdk/openhands/sdk/agent/agent.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 3,8,10,22,43,55-57,69,117,129-140,147-151,153-164,179,182-197,199-201,211-214,226-229,235-247,263,295-370,402,407,448,453,502-505,552,566-576,587-592,674-686,692,718,724-746,773-776,797-798,800,816-826,839-840,842,851-863,883-885,922-923,935-938,940-943,951-952,954-956,1042,1046,1055,1069,1075-1087,1103-1105,1139-1140,1152-1155,1157-1160,1172-1173,1175-1177,1261-1272,1277,1281-1287,1296,1298,1302-1305,1307-1311,1313-1342,1344-1373,1375-1378,1380-1382,1476-1477,1493-1495,1497,1510-1511,1517,1539,1582,1645-1657,1661-1667,1669,1693-1694,1759,1795
+.agents/skills/verify-agent-server/references/feature-map/F30-openai-gateway.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-1266
+openhands-sdk/openhands/sdk/conversation/base.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 5,21,23-24,48,126-130,140-143,147-149,158-172,181,198-206,213-215,261-267,482-485
+.agents/skills/verify-sdk/programs/S21/acp_effort.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-234
+.agents/skills/verify-agent-server/references/feature-map/F38-conversation-mentions.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-129
+.agents/skills/verify-sdk/programs/S18/servers.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-252
+.agents/skills/verify-sdk/programs/S05/system_prompt_blocks.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-42
+openhands-sdk/openhands/sdk/llm/_message_normalization.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-91
+examples/02_remote_agent_server/04_convo_with_api_sandboxed_server.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 7
+.agents/skills/verify-sdk/programs/S01/repeat_ls.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-8
+.agents/skills/verify-sdk/programs/S16/reactions.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-197
+openhands-agent-server/openhands/agent_server/experimental_features_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-72
+openhands-sdk/openhands/sdk/io/local.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 73-76,116-118
+.agents/skills/verify-sdk/programs/S07/path_rules.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-77
+openhands-sdk/openhands/sdk/conversation/title_utils.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 3,5,10,17-18,51-65,70-71,73,84-87,92-98,100-104,118-119,129,133-137,143-149,153-157,185-187,195-196,198,208-213,225-226,254-258
+.agents/skills/verify-sdk/programs/S02/fake_provider.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-524
+clients/typescript/scripts/endpoint-audit.mjs
+  s_25adfe404b8f10::t_d5ebb999986b9b 40-43
+clients/typescript/src/__tests__/remote-state.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1,23-24,33,75
+.agents/skills/verify-agent-server/references/mapping.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-381
+.agents/skills/verify-sdk/programs/S08/attach.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-274
+examples/01_standalone_sdk/52_dynamic_workflow.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 18
+openhands-sdk/openhands/sdk/git/git_changes.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 12-16,35,42-47,52-54,56-62,64-65,69,71,73,75,77,80,82-83,87,89-93,98,115-117,141,144-146,151,156,158,160,165,169,184-194,208,217,226-228
+  s_25adfe404b8f10::t_4a82b654af7aae 229
+.agents/skills/verify-sdk/programs/S17/schema_constraints.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-75
+.agents/skills/verify-sdk/programs/S10/hook_secrets.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-57
+openhands-sdk/openhands/sdk/conversation/message_request.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-34
+openhands-sdk/openhands/sdk/conversation/goal/runner.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 19,24-25,39,45-46,55-58,64-66
+.agents/skills/verify-sdk/programs/S03/routing.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-402
+openhands-agent-server/openhands/agent_server/credential_binding.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 8,11-14,27-34,61,75,118-121,133,136,143,149-150,153,155,157,162,164
+.agents/skills/verify-agent-server/references/feature-map/F19-mcp.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-1437
+.agents/skills/verify-sdk/references/feature-map/S01-agent-loop.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-295
+openhands-sdk/openhands/sdk/llm/auth/credentials.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 15,24-26,28,57-59
+clients/typescript/src/models/api.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 95,354,356-360,371-376,403-404,427-428,450-465,503-506
+openhands-agent-server/openhands/agent_server/docker/Dockerfile
+  s_25adfe404b8f10::t_d5ebb999986b9b 6,11,29-184,208,210,262-266,270-271,294-305,309-310,313,315,320-321,323-330,335-336,340-341,344-346,356-360,362-369,372,374,377,380,384,390-406,413-414,419,427,432-434,436-440,467,471-516,533-551,555,557-573,575-595,597,604-605,608-611,633-639,647-662,671-677,697-704
+openhands-sdk/openhands/sdk/agent/response_dispatch.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 12,14,17-23,35,111,132-140,162,188-190,196,211,242-244,250-252,267-269,271-279,281-282,284-286,295,298,308-315,325-327,329-336,338,340-342,352-355,362-367,371-377,387
+.agents/skills/verify-sdk/programs/S10/hooks/add_context.sh
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-5
+.agents/skills/verify-sdk/programs/S05/llm_failures.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-99
+openhands-agent-server/openhands/agent_server/project_wake.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-708
+openhands-sdk/openhands/sdk/extensions/installation/README.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 26,32,36,59-60,63-64,67
+openhands-sdk/openhands/sdk/launch/finalize.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-289
+.agents/skills/verify-sdk/programs/S10/marketplace/plugins/runtime-hooks/hooks/hooks.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-10
+.agents/skills/verify-sdk/programs/S10/config_forms.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-191
+.agents/skills/verify-sdk/programs/S10/hooks/record.sh
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-5
+.github/scripts/check_agent_server_rest_api_breakage.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 50-55,686-722,1144-1153,1186-1194,1275
+openhands-agent-server/openhands/agent_server/agent_profiles_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 9-12,18-19,21-23,26-32,35,37-38,41-42,50-51,53-54,56,63-67,103-126,155-157,176-178,187-226,230-237,239-247,249,256-325,330-334,339-342,345-346,348,351-353,355,364-367,375,377,383-399,405-408,417,425-427,429-431,441-444,448-452,454,457,460,464-466,468-476,479,481,492-495,504,506,508,521-524,532-534,536,546,551,565-569,571-578,580-583,585-599
+.agents/skills/verify-sdk/programs/S08/store.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-274
+openhands-sdk/openhands/sdk/conversation/types.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 24-113
+clients/typescript/src/client/openhands-client.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 3,6,8,130,138,146,167,175,183
+.agents/skills/pr-design-doc/SKILL.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-171
+.agents/skills/verify-sdk/programs/S18/cloud_local.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-165
+openhands-sdk/openhands/sdk/extensions/installation/manager.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 4,8-12,23,25,31,91-107,120,158-185,276,289-294,296,301-303,313,318-331,368-369,391,396
+.agents/skills/verify-sdk/programs/S07/live_invoke.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-43
+openhands-sdk/openhands/sdk/conversation/goal/prompts.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 6-8,11,15-25,28-43
+openhands-agent-server/openhands/agent_server/canvas_extensions/installed.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 21,30,40,49,253-268
+  s_25adfe404b8f10::t_2be69f11a8a744 269-270
+openhands-agent-server/openhands/agent_server/conversation_service.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 2,11,28,30-54,60-61,66-72,84,87-89,92,101-109,114-117,121,123,132-136,145,147-150,158,182-195,208-209,212,231-252,256-258,271-281,283-309,311-322,324-325,333-335,340-341,404-417,425-429,431,442-443,446,484,499,541,563,604,606-609,618,624,638-641,643,648-658,660-665,672-674,717-721,729-730,773-784,800,826-830,836,838,841-863,876-885,887-888,892,898,911,943,978,1021,1029,1059,1066-1084,1086-1087,1090,1126,1172,1190,1213,1225,1291,1354,1423-1578,1580-1584,1586-1591,1601-1603,1607,1609,1611-1612,1615-1632,1653-1661,1663-1675,1678-1685,1688-1692,1694-1695,1700,1703,1717-1725,1731-1794,1801,1804-1806,1809,1812-1818,1820-1827,1829,1841,1849-1896,1900-1904,1906-1911,1913-1914,1916-1919,1921-1925,1959-1963,1967,1987,1997-2000,2024-2030,2052,2054-2061,2065-2066,2068-2071,2080-2081,2090-2091,2099-2121,2125-2135,2195,2207,2210-2262,2264,2266-2268,2275-2387,2417,2456-2457,2547,2565-2572,2629-2631,2639-2642,2648-2649,2657-2660,2664,2666-2669,2676-2678,2687-2688,2690,2700-2701,2704-2709,2733-2735,2879,2881,2886,2888-2898,2904-2906,2927,2947,2950-2954,2973,2977,3006-3011,3016,3018-3019,3047-3049,3052-3057,3105
+openhands-agent-server/openhands/agent_server/session_protocol.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-167
+.agents/skills/verify-sdk/references/feature-map/S02-llm-core.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-384
+openhands-sdk/openhands/sdk/event/__init__.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 21-26,31,34,53-56,60,67
+.agents/skills/verify-sdk/references/feature-map/S16-planning-workflow-tools.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-334
+.github/scripts/markdown_sections.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-95
+openhands-sdk/openhands/sdk/event/llm_convertible/observation.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 3,138-145,159-167
+.agents/skills/verify-agent-server/references/feature-map/F15-git.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-1259
+openhands-agent-server/openhands/agent_server/settings_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 5,11,14-21,24-25,27-28,32-44,47,59-64,128-131,136-140,172,199,205-209,239-242,244-246,255-256,259-263,266,269-270,275-300,305,308-310,312-314,316-317,319-330,336-337,345-346,350-353,357,360-362,365,374,397,401-404,409,418,425,430,442-443,448,456-457,459-460,471-472,477,484-485,487-488,495-500,506-507,509-510,520-526,529-539,554,560-564,571,575,585,596-598,603,607,610-611,613,619-622,627,640-644,648,655,659-662,672
+examples/01_standalone_sdk/48_conversation_fork.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 50,105
+.agents/skills/verify-sdk/programs/S03/live_switch.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-36
+openhands-sdk/openhands/sdk/context/prompts/sections/project.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-296
+.agents/skills/verify-sdk/references/feature-map/S09-mcp.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-284
+openhands-agent-server/openhands/agent_server/storage/trash.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-84
+.github/workflows/storage-scenario.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-36
+.agents/skills/verify-sdk/programs/S01/step_errors.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-7
+.agents/skills/verify-sdk/programs/S02/conversation_stats.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-108
+.agents/skills/verify-sdk/programs/S03/model_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-374
+.agents/skills/verify-agent-server/references/feature-map/F27-hooks-subagents-tools.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-1093
+clients/typescript/src/__tests__/canvas-extensions-client.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-171
+.agents/skills/verify-sdk/programs/S20/otlp.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-136
+openhands-sdk/openhands/sdk/agent/acp_skills.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-67
+openhands-sdk/openhands/sdk/launch/__init__.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-42
+.agents/skills/verify-sdk/programs/S21/live_handshake.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-80
+.agents/skills/verify-sdk/programs/S07/public.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-115
+clients/typescript/src/__tests__/workspace-session.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1,33,37,56,66,68,81,91
+clients/typescript/src/__tests__/acp-providers.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1,12-14,34,38-43,50-78,84,104-114,139-151
+  s_25adfe404b8f10::t_67af917f26b2f5 152
+clients/typescript/src/events/types.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 20,29,170-250,256-258,272-291
+  s_25adfe404b8f10::t_1e5b1059a16022 292
+.agents/skills/verify-sdk/references/feature-map/S12-critic.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-134
+.agents/skills/verify-sdk/programs/S16/planning.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-188
+clients/typescript/src/clients.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1,3-10,13,17-18,22,51,54,60-65,67-72,86-107,131-152,193
+openhands-sdk/openhands/sdk/conversation/event_store.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 2-3,7-9,18,27-29,33-39,69-76,103-124,141-143,145-146,148-151,154-164,173-175,177-196,199,203-213,248,252-300,307,330-334,357-360,362-365,370,379-405,416,424-427,432-442,451-464,470,473,478-481,485-498,500-501,510-523
+openhands-sdk/openhands/sdk/event/hook_execution.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 9,71,75
+.agents/skills/verify-sdk/programs/S20/logging_setup.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-117
+openhands-sdk/openhands/sdk/llm/_tokenizer.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-102
+clients/typescript/AGENTS.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 25,46,202,210,212-213,232,273-276,278,281-282,290,360-361,364,394
+examples/02_remote_agent_server/06_custom_tool/README.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 88
+openhands-sdk/openhands/sdk/llm/llm_profile_store.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 15,20-27,35,44-49,68-94,97,184-186,207,209,242-244,264-265,277-282,304,317-319,328-329,347,350-351,354,364-380,382,418-422,424
+.github/workflows/pr-description-check.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 30
+.agents/skills/verify-agent-server/references/feature-map/F09-model-switching-plugins.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-1475
+.agents/skills/verify-sdk/programs/S04/sender.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-71
+openhands-agent-server/openhands/agent_server/project_service.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-815
+openhands-sdk/openhands/sdk/agent/stream_context.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-327
+clients/typescript/src/__tests__/package-import.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 2,5-6,12-18,20-21,25-30,32-33,37-42,45-49,54-55,58-62,64-70,73-78,83-87,89-94,97-101
+  s_25adfe404b8f10::t_17ef5366a55131 102
+.agents/skills/verify-sdk/programs/S11/scope.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-106
+.agents/skills/verify-sdk/programs/S04/resolution.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-192
+.github/scripts/check_version_bumps.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 189-197,212
+.agents/skills/verify-sdk/programs/S02/format_messages.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-83
+.agents/skills/verify-sdk/programs/S20/automation_env.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-170
+.agents/skills/verify-sdk/programs/S10/hooks/fail_soft.sh
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-5
+examples/01_standalone_sdk/40_acp_agent_example.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 11-15,26,31
+openhands-agent-server/openhands/agent_server/llm_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 8-9,12-13,16,111-124,162-171,204-206,218-219,251,257-260
+.agents/skills/verify-agent-server/references/feature-map/F05-run-pause-interrupt.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-844
+.github/workflows/check-docstrings.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 17,20
+openhands-agent-server/openhands/agent_server/docker/build.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 396,401,603-606,1072,1088
+openhands-sdk/openhands/sdk/context/condenser/prompts/summarizing_system.j2
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-47
+openhands-sdk/openhands/sdk/context/prompts/sections/__init__.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 27,36,55,66
+openhands-sdk/openhands/sdk/llm/router/__init__.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 4-9,16-19
+openhands-agent-server/openhands/agent_server/git_provider_service.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-419
+openhands-sdk/openhands/sdk/llm/_response_stream.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-99
+openhands-sdk/openhands/sdk/AGENTS.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 81
+openhands-agent-server/openhands/agent_server/exceptions.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-64
+.github/workflows/tests.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 20,73,138-194,200,207,209,262,334,341,343-344,395,436,443,445-447,495,504,508-510,557,609
+clients/typescript/src/models/conversation.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 17-18,27-40,43-44,50-51,63-64,88-89,126-127,138-139,149-150,157-158,166-167
+clients/typescript/src/client/acp-client.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-34
+openhands-agent-server/openhands/agent_server/conversation_registry.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-100
+examples/02_remote_agent_server/agent_sandbox_deploy/sandboxwarmpool.yaml
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-11
+openhands-sdk/openhands/sdk/extensions/installation/metadata.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 44,63,128,136,139,148-150,157,159-160,168,207-208,235-236
+openhands-sdk/openhands/sdk/llm/meta_profile_store.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-282
+AGENTS.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 40-72,74-75,77,81-82,90,119,187-191,193,212-213,219,332-334,372,403-422
+clients/typescript/src/__tests__/typed-operations.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-191
+.agents/skills/verify-sdk/programs/S08/build.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-242
+.agents/skills/verify-sdk/programs/S03/switching.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-529
+openhands-agent-server/openhands/agent_server/docker_runtime/provisioning.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-174
+.agents/skills/verify-sdk/programs/S10/marketplace/.plugin/marketplace.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-8
+.github/workflows/security-scan.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 64,70
+clients/typescript/src/models/tool-catalog.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-13
+.agents/skills/verify-sdk/programs/S01/run_to_finish.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-4
+.agents/skills/verify-agent-server/references/feature-map/F07-session-socket.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-836
+openhands-agent-server/openhands/agent_server/openai/service.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 10-12,14,17-23,25,36-38,40-44,49-50,52,54,61-70,72-76,81,94-112,116,119-121,123,125,127,129,153,156,172,186-255,257-259,261,264-280,282-283,288,295-348,351,361-366,368-370,375,384,389-392,396,413-438,514,516,518,533-586,588-589,592-598,600-621,629-630,633-635,637-649,651-747,749-766,768-805,820,824,827-907
+.agents/skills/verify-sdk/programs/S02/api_compliance.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-52
+.agents/skills/verify-sdk/programs/S06/memory.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-94
+.agents/skills/verify-sdk/programs/S12/refinement_run.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-280
+.agents/skills/verify-agent-server/scripts/control_agent_server.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-6665
+.github/workflows/run-eval.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 88
+.agents/skills/verify-sdk/programs/S07/agentskills.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-257
+.agents/skills/verify-sdk/references/feature-map/S14-core-tools.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-309
+clients/typescript/src/__tests__/derive-switch-plan.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 24,28,132-133,149-172
+  s_25adfe404b8f10::t_34166d08b93edf 173
+examples/01_standalone_sdk/60_decision_model.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-187
+.pre-commit-config.yaml
+  s_25adfe404b8f10::t_d5ebb999986b9b 2,42-55,72-87
+openhands-sdk/openhands/sdk/llm/exceptions/classifier.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 3,8,11,18,23,60-65,81-89,150-192,217-233
+.agents/skills/verify-sdk/programs/S06/prompt_variants.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-155
+.agents/skills/verify-sdk/programs/S09/mcp_server.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-350
+clients/typescript/src/events/bash-websocket-client.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 7,63-64
+examples/01_standalone_sdk/41_task_tool_set.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 19
+openhands-sdk/openhands/sdk/llm/exceptions/mapping.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 68-74
+.github/workflows/prepare-release.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 26-36,38,40,48-52,67-70,85-105,126,145,153-155,159-160,197
+.agents/skills/verify-agent-server/references/feature-map/F36-projects.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-950
+openhands-sdk/openhands/sdk/git/git_commits.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 142,144,146,175-181
+.agents/skills/verify-sdk/programs/S14/toolkit.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-124
+.agents/skills/verify-sdk/programs/S04/goal_ask.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-137
+.github/workflows/check-documented-examples.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 25,30,41,49
+.agents/skills/verify-sdk/references/maintenance.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-139
+.github/workflows/agent-server-rest-api-breakage.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 19
+clients/typescript/src/index.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 72-74,104-109,156,184-186,205,237-244,251,258,261,281-283,313-318,330-341,529,584
+openhands-agent-server/openhands/agent_server/telemetry/subscriber.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 65,120-123,194-201,204,208-213
+openhands-sdk/openhands/sdk/llm/mixins/fn_call_converter.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 501-514,530,633-636,638-639,641-642,644,647-653,679-682
+.agents/skills/verify-sdk/programs/S09/recorder.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-62
+openhands-agent-server/openhands/agent_server/openai/router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 7,13,15-21,26-27,33,35,41,54,67-68,77,80-83,91,110-111,114-116,121-124,147-149,151-153,157-158,161,166,185-225
+  s_25adfe404b8f10::t_71219c03af154b 226
+clients/typescript/src/client/bash-client.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-4,15,23,26,97-109
+  s_25adfe404b8f10::t_fe5cc301d6b200 110-111
+.agents/skills/verify-sdk/programs/S07/triggers.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-97
+.agents/skills/verify-sdk/references/feature-map/S07-skills.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-225
+.agents/skills/verify-agent-server/references/feature-map/README.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-126
+.agents/skills/verify-sdk/programs/S10/marketplace/plugins/attached-hooks/hooks/hooks.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-10
+.agents/skills/verify-sdk/programs/S16/conversation_mentions.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-120
+openhands-agent-server/openhands/agent_server/canvas_extensions/bridge.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-518
+openhands-sdk/openhands/sdk/context/prompts/prompt.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 15-16,66-68
+openhands-sdk/openhands/sdk/llm/utils/telemetry.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 2,8-10,14-23,29-30,36-153,162-174,195-196,202-270,292-300,303-308,324-326,330-332,334-335,337,343,346-352,360,362,377-382,404,406-415,418-427,429-434,436-463,465-479,481-491,498,512-522,526-542,586-587,589-592,629-690,694-696
+.agents/skills/verify-agent-server/references/feature-map/F04-conversation-lifecycle.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-1155
+.agents/skills/verify-sdk/programs/S01/max_iterations.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-6
+.agents/skills/verify-sdk/programs/S16/oracle.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-96
+clients/typescript/src/__tests__/mcp-settings-client.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 32
+.agents/skills/verify-sdk/programs/S13/confirmation_flow.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-274
+.agents/skills/verify-sdk/programs/S16/task_tracker.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-19
+.agents/skills/verify-sdk/programs/S04/pause_during_startup.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-85
+clients/typescript/src/profiles/derive-switch-plan.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 76-77,130-133,138-144,148-151,158
+openhands-sdk/openhands/sdk/event/base.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 4,11,29
+openhands-agent-server/openhands/agent_server/utils.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 29-37
+openhands-sdk/openhands/sdk/llm/cleanup_profile.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 131,153-155
+openhands-sdk/openhands/sdk/agent/acp_tracing.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 17,29,220-222
+openhands-sdk/openhands/sdk/llm/mixins/non_native_fc.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 9,101-105
+.agents/skills/verify-agent-server/references/feature-map/F20-llm-profiles.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-1062
+openhands-agent-server/openhands/agent_server/runtime_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-116
+openhands-sdk/openhands/sdk/context/condenser/base.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 32-35
+openhands-sdk/openhands/sdk/automation/__init__.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-215
+.agents/skills/verify-sdk/programs/S10/marketplace/plugins/attached-hooks/.plugin/plugin.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 1
+.agents/skills/verify-sdk/programs/S18/remote_workspace.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-437
+openhands-agent-server/openhands/agent_server/project_artifacts.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-263
+.agents/skills/verify-sdk/programs/S04/secret_env.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-141
+.agents/skills/verify-sdk/programs/S19/agent_profiles.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-338
+clients/typescript/src/models/agent-profile.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 11,32-43,59-72,81-89,93-98,108-109,112-113,165-169,177-178,181-188,194-198,203-213,217
+examples/02_remote_agent_server/agent_sandbox_deploy/README.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-71
+openhands-agent-server/openhands/agent_server/config.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 5-16,73-78,87-89,102-104,112-113,208-212,353-355,366-380,384-392,395-466,477-478,534-566,570-571,576-589,591,604-619,637-638
+openhands-agent-server/openhands/agent_server/event_service.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 2-3,5-6,11,13,18,24-32,48,50-53,57,72,79-82,92,95-99,101-104,109,111,118,126-128,133-176,178-241,272-273,279,283,287-291,306-307,314-330,345-349,354,357-363,366-368,370,409,512,535-539,580,583-601,607,609-613,630-635,650,659-664,695,747-772,812,862,867,884-886,910,913-923,926,961-976,978-985,987-994,996,999,1002-1009,1018-1024,1026-1048,1050-1092,1129,1134-1151,1153-1166,1173-1185,1192-1195,1204-1208,1211-1224,1226-1227,1229-1233,1235-1248,1250,1284-1307,1335,1338-1339,1347,1358-1361,1372-1376,1393-1395,1414,1424,1462-1471,1488-1492,1500,1502,1513,1515,1539-1543,1548-1550,1553,1556,1570-1572,1608,1612-1617,1621-1673,1685-1687,1690-1691,1695-1697,1699-1706,1710,1712-1713,1726-1773,1775,1799-1800,1804-1808,1810-1817,1829-1830,1832,1849-1850,1884-1889,1894-1903,1908-1924,1946-1948,1951,1962,1964,1971,1976,1978,1980,1982-2014,2071-2072,2095-2101,2139-2142,2165-2169,2177-2198,2209-2213,2216-2217,2229-2235,2239,2241,2246,2248,2250,2256-2258,2262-2331,2335-2336,2343,2375-2403,2407-2414,2418,2423-2437,2445-2447,2453-2454,2470-2489,2492-2493,2498-2502,2520-2521,2524,2533,2535,2542-2545,2547,2549,2551-2553,2571,2593,2595,2603-2617,2619,2630,2632,2635,2637-2638,2644-2645,2654,2660,2663-2667,2726-2731
+  s_25adfe404b8f10::t_6a3072ce1f245d 2732
+openhands-agent-server/openhands/agent_server/skills_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 9,12-15,19-20,32,41-45,123-129,153-169,188-190,192-193,274,294-296,325,342,350-369,380-384,400-406,434,436,438-439,462,478,485,504,515,533,542-547,561,563-564,566-571,573-579,599-602
+openhands-sdk/openhands/sdk/llm/auth/openai.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 36-38,135-149,909,983
+examples/01_standalone_sdk/61_decision_model_agent_gate.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-207
+.agents/skills/verify-sdk/programs/S10/hooks/require_done.sh
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-8
+.agents/skills/verify-sdk/references/feature-map/S06-context-condensers.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-264
+.agents/skills/verify-sdk/references/feature-map/S20-observability.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-217
+.github/scripts/update_npm_pin.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-95
+openhands-agent-server/openhands/agent_server/openai/models.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 23-69,104-126,128
+  s_25adfe404b8f10::t_8c18aefeeb463a 127,129-130
+.github/workflows/run-examples.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 27,35,47,49,52,68,78-85,87,89
+.agents/skills/verify-sdk/programs/S11/s11_helpers.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-58
+clients/typescript/src/__tests__/websocket-callback-client.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-110
+openhands-agent-server/openhands/agent_server/canvas_extensions/manifest.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 19-20,22,25-28,93-251,269-299,349-365,367,370,374
+.agents/skills/verify-sdk/programs/S13/analyzers.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-476
+.agents/skills/verify-sdk/programs/S05/reload_events.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-103
+examples/02_remote_agent_server/agent_sandbox_deploy/sandboxtemplate.yaml
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-48
+.agents/skills/verify-sdk/programs/S10/blocked_prompt.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-98
+openhands-agent-server/openhands/agent_server/mcp_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 23-29,32,34-36,40-41,43-50,53-58,62-63,69,76-77,79,85-88,316-348,381-388,392-398,402-405,426-447,455-457,552,557-573,577-589,602-604,607-608,610-616,623,625-633,635-643,681-737,744-745,752-754,757-760,792,804-806,813-815,823-924,926-935,937-940,943-945,963-965,967,972-974,978-984,1008-1034,1046,1057-1059,1061,1063-1078,1102-1106,1133-1177,1179-1182,1188,1193,1196-1201,1215-1226
+clients/typescript/src/__tests__/test-utils.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 56
+examples/01_standalone_sdk/51_agent_hooks/main.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 74-75,189-199,204-205
+openhands-agent-server/openhands/agent_server/workspace_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 15,19,24-25,50,53-56,67,75-78,80,84,90,103
+openhands-agent-server/openhands/agent_server/event_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 5,7,10,19-27,29-34,36,39,43-63,66-69,73,105-107,115,179-181,225-227,235,239,250-274,276,279,281-323,327-444,453-569
+openhands-sdk/openhands/sdk/launch/errors.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-65
+.agents/skills/verify-sdk/programs/S11/task_confirmation.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-162
+.github/workflows/issue-readiness-check.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 2,4-5,9,12,16-21,24-27,29-30,33-36,40-42,45-54,58-59,68
+.github/workflows/typescript-client-endpoint-audit.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 25,27-28,30,40-61,67,78
+clients/typescript/src/client/agent-server-compatibility.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 97-101
+.agents/skills/custom-codereview-guide.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 3,5,8,10-12,14,16-19,21-24,26-288
+.agents/skills/verify-sdk/programs/S08/market.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-449
+openhands-agent-server/openhands/agent_server/message_sender.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-44
+openhands-agent-server/openhands/agent_server/skills_service.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 51,358,360-364,377-378,386,447,470-479,491-492,494,499,526,671-672,685-690,715-717,723-726,758-760,764-770
+openhands-agent-server/openhands/agent_server/sockets.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 18,25,32-38,41,51-55,59-60,95,117,174-175,186,219-220,241,258-260,262,291,307-308,338,342,349,370-371,383,482-497,526-528,531-541,544-560
+  s_25adfe404b8f10::t_a148d52a6fab15 561
+.agents/skills/verify-agent-server/references/feature-map/F02-auth-and-sessions.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-581
+openhands-agent-server/openhands/agent_server/errors.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-139
+.github/workflows/typescript-client-npm-publish.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 13,29-32,35,37,51,53,55-63
+openhands-sdk/openhands/sdk/conversation/exceptions.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-2,75-97
+openhands-agent-server/openhands/agent_server/code_server_proxy.cjs
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-270
+.agents/skills/verify-sdk/programs/S15/close_tab.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-62
+openhands-sdk/openhands/sdk/__init__.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 29-30,124-125
+openhands-agent-server/openhands/agent_server/init_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 4,17-18,22-29,32,35-44,46-56,63-70,119-126,210-211,217-218,238-256,263-268,277-278,290-294,298,303-408,411,413-414,416-420,426-428,434,441-445,450,453-454,456-459,461-463,466-468,470-472
+clients/typescript/src/conversation/base.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 29
+openhands-agent-server/openhands/agent_server/server_context.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-92
+openhands-sdk/openhands/sdk/git/cached_repo.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 11,13,18,20-23,32-128,152,195-744,851,858-861,864-866,876-877,880-885,902-909,929,939,948-956,958,963-971,992,999,1001,1004-1008,1013-1014,1016-1017,1019-1034,1036-1038,1040-1042,1047-1057,1075-1082,1084-1085,1087-1132,1147,1150,1153-1154,1166-1168,1170-1171,1176-1180
+.github/workflows/check-duplicate-examples.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 27,30
+clients/typescript/src/__tests__/conversation-scope.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-208
+openhands-agent-server/openhands/agent_server/hooks_service.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 8,11,16,22-27,29-32,36-37,40,42-61,64
+openhands-sdk/openhands/sdk/conversation/conversation.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 76,92,107,123,138,154,206,219,230,244
+examples/01_standalone_sdk/62_decision_model_custom_provider.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-190
+openhands-sdk/openhands/sdk/llm/utils/retry_mixin.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1,3-4,6,10-11,16,19-23,32-131,190-192,197,202-211,215-257,259,261,263-266
+.agents/skills/verify-agent-server/references/feature-map/F11-goals.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-576
+openhands-sdk/openhands/sdk/critic/impl/api/taxonomy.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 63-66
+clients/typescript/src/conversation/remote-conversation.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 21-22,47-51,93,102-104,112,118-120,129-132,156,163-167,180,187-190,199-218,342-399,405-409,464,466
+openhands-sdk/openhands/sdk/agent/parallel_executor.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 162-182
+openhands-sdk/openhands/sdk/llm/utils/model_features.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1,4-5,7,9-15,42,49,53,73-87,100-131,133-149,154-173,177-178,180-198,200-298,316,318-322,325-329,337-345,347-410,412-425,427-434,436-441,443-445
+openhands-sdk/openhands/sdk/logger/logger.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 20,135
+  s_25adfe404b8f10::t_b11649f2255f1e 19
+openhands-sdk/openhands/sdk/context/memory.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 16,70-71,73-80
+.github/workflows/tests-macos.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-65
+.agents/skills/verify-sdk/programs/S16/fake_openai.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-53
+openhands-agent-server/openhands/agent_server/launch.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-285
+openhands-agent-server/openhands/agent_server/persistence/async_store.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-36
+openhands-sdk/openhands/sdk/context/view/properties/observation_uniqueness.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 5-7,41-46
+examples/01_standalone_sdk/34_critic_example.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 12-14,26-28,33-43,97,105-110,113-114,121,125-127,133,146,159,165-166,171-186
+.github/workflows/pip-revendoring-retirement.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-34
+.agents/skills/verify-sdk/programs/sdk_verify.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-312
+clients/typescript/src/client/file-client.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-3,10,13-19,22-23,29-30,33,36-37,44,56,65,68,97,107-141,143,151
+examples/01_standalone_sdk/25_agent_delegation.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 23
+clients/typescript/src/events/global-websocket.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-21
+openhands-agent-server/openhands/agent_server/canvas_extensions/backend.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-1094
+openhands-sdk/openhands/sdk/context/condenser/prompts/summarizing_events.j2
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-7
+openhands-sdk/openhands/sdk/llm/options/common.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 7,60-61,63-65,67-69
+openhands-agent-server/openhands/agent_server/meta_profiles_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-264
+.agents/skills/verify-sdk/programs/S19/acp_catalog.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-99
+.github/workflows/server.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 14,44,122-129,133-134,137,140-147,150,154-164,167-174,201,205,219,223,233,247,251,278,289,291,316,324,326,334,336,345-347,349,357-359,361-382,442,444,454,463,466,507-514,525,540-541,612,633,636,989
+openhands-sdk/openhands/sdk/agent/acp_contracts.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-476
+openhands-sdk/openhands/sdk/context/condenser/llm_summarizing_condenser.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 21,31-45,115-118,209-227,257,262,338-347,370-377,384-385,463,466,523-528,535-536
+openhands-sdk/openhands/sdk/context/prompts/sections/static.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 14,22-25,36,45,87,103-114,130-136,140,152-168,171-173,394-397,400-403,412,438-440
+openhands-sdk/openhands/sdk/context/view/observation_disposition.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-30
+openhands-sdk/openhands/sdk/event/llm_completion_log.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 6,12-14,30
+openhands-agent-server/openhands/agent_server/managed_llm_key.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-148
+clients/typescript/src/models/agent-server-api.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 8-10,13,16-23,54-120
+openhands-sdk/openhands/sdk/conversation/secret_registry.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 3,14-19,29-36,44-47,52-60,62-70,75-83,85-93,104-113,117-162,285-303,321,326-328,334-352,364,367-369,376-383
+.agents/skills/verify-sdk/programs/S14/terminal_flags.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-73
+examples/01_standalone_sdk/59_route_task_to_model.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-151
+openhands-sdk/openhands/sdk/llm/utils/metrics.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 120-122,125-128,172-189,193-196,198-200,203-205,208-210,221-222,229,258-270,273-276,338-343
+.agents/skills/verify-sdk/programs/S19/profile_sandbox.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-112
+.agents/skills/verify-agent-server/references/feature-map/F29-app-backend-bridge.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-1070
+.agents/skills/verify-agent-server/references/adaptation.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-83
+clients/typescript/src/__tests__/api-clients.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1,8-10,17,28,37-38,44,51-54,66,71-73,94,123,136,153,181,215,226,271,306,327,337,344,365,370,391,401,407,436,443,460-507,523,538,561,580-692,694,725,773-774,778,830,908,926,989,1026,1059,1110,1226,1266-1312,1314,1349,1379-1401,1403,1424,1440,1448,1460,1466,1483,1510,1528,1549,1564,1570,1587,1597,1605,1627,1649,1666,1684,1701,1727,1756,1781,1803,1823-1832,1838,1846,1871-1974,1976,2008,2025,2045,2069,2093,2118,2139,2150,2169,2176,2189-2201,2210,2271,2290-2308,2310,2330,2356,2380,2413,2440,2459-2721,2731,2745,2768,2790,2835,2840,2847-2849,2853,2887,2906-2907,2913,2931-2932,2962-2976,2998,3067,3173,3224,3271,3346,3381-3423
+clients/typescript/src/models/acp-providers.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 14,18-34,53,57-66,99-101,119-215
+.agents/skills/verify-sdk/references/feature-map/S11-subagents-delegation.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-240
+.agents/skills/verify-sdk/references/feature-map/S04-local-conversation.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-434
+clients/typescript/src/client/git-client.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-77
+.agents/skills/verify-sdk/programs/S05/event_types.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-75
+.github/workflows/agent-server-start-benchmark.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-133
+openhands-agent-server/openhands/agent_server/telemetry/__init__.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 6
+.agents/skills/verify-agent-server/references/feature-map/F39-message-edits.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-148
+.agents/skills/verify-sdk/programs/S07/installed.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-132
+.agents/skills/verify-agent-server/references/feature-map/F16-workspace-serving-and-vscode.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-702
+openhands-sdk/openhands/sdk/event/error_classification.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 142-146
+.github/PULL_REQUEST_TEMPLATE.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 19-21,47-48,61-63
+openhands-sdk/openhands/sdk/event/resume_transcript.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 106
+.agents/skills/verify-sdk/programs/S17/client_tools.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-270
+.github/workflows/pr-artifacts.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 6,10-11,14,17,22-23,27,31-34,56,66
+.agents/skills/verify-sdk/programs/S02/llm_calls.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-922
+.agents/skills/verify-sdk/programs/S01/echo_parallel_finish.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-8
+openhands-sdk/openhands/sdk/llm/utils/image_delivery.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-100
+.agents/skills/verify-agent-server/SKILL.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-264
+.github/workflows/create-release.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 4-5,178-179,183-209,248
+.agents/skills/verify-sdk/programs/S19/credential_binding.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-147
+.agents/skills/pr-design-doc/references/html-craft.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-325
+clients/typescript/config/public-type-budget.json
+  s_25adfe404b8f10::t_d5ebb999986b9b 534-541
+  s_25adfe404b8f10::t_636e24076bae4e 542-545
+.agents/skills/verify-sdk/programs/S10/plugin_hooks.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-116
+.agents/skills/verify-sdk/programs/S06/condense.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-587
+.agents/skills/verify-agent-server/references/feature-map/F13-bash.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-863
+.agents/skills/verify-sdk/programs/S11/task_lifecycle.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-225
+.agents/skills/verify-sdk/programs/S19/persisted_baselines.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-97
+openhands-agent-server/openhands/agent_server/openai/usage.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-21
+.agents/skills/verify-sdk/programs/S09/live_mcp.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-53
+.agents/skills/verify-sdk/programs/S15/browser_setup.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-274
+openhands-sdk/openhands/sdk/llm/router/state.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-58
+.agents/skills/verify-sdk/programs/S11/registry.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-249
+openhands-agent-server/openhands/agent_server/openai/README.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 7-44
+openhands-sdk/openhands/sdk/conversation/conversation_stats.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 71-74,81,85-86
+examples/04_llm_specific_tools/02_gemini_file_tools.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 31
+.agents/skills/verify-sdk/programs/S11/workspace_agents.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-86
+clients/typescript/src/client/runtime-transport.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-70
+openhands-agent-server/openhands/agent_server/provider_connections_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 16-25,27,29-30,34-35,37,43-45,59-63,67,76,114,117,122-128,133-135,142-143,152-155,160-162,164,171-174,187,189,199-203,207-209,211,216,226-233,243-246,248-249,251-252,255-258
+openhands-agent-server/openhands/agent_server/api.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 3-4,6,9-10,12,23-24,26,28,32-39,42,44-45,47-50,52,60-64,73-75,81,84,88-92,118,122,124,126-131,137-152,154-159,162-164,166-167,170,173-241,245-251,253-255,257-260,262-268,271,274-300,305-312,316-318,320-321,323-331,335-337,341-344,423-428,432-434,436-450,467-470,480-485,488,490-518,579-590,597,608-611,614,617,620,632,643-645,650-651,656,660-664,678,681,684,687,691-694,702-703,705,707,709-716,784-807,810,867-868,873,875-876,904-942,945-946,948-959,961-967,974-975,981,983-987,991-999
+openhands-sdk/openhands/sdk/agent/acp_agent.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 22,27,32-38,41,45,47,51-56,61,63-65,67-68,71,75,77-78,81,85,89-99,107,110-111,114,132,135-136,138,143,148,315-352,398-402,415-430,434-438,443,501-508,510-517,520-521,580-587,590-591,593-595,598-607,609-612,614-660,670-686,689-703,705-708,739-742,746-781,785-791,797-801,807,846-847,849-851,909-911,926-927,930,935,942,948-949,959,969-971,988-991,994,997,999,1005-1006,1016,1077,1083,1113,1131-1171,1264,1266-1268,1278-1281,1302-1305,1422-1429,1475-1478,1592-1595,1617,1619,1690-1736,1792-1793,1795,1808-1829,1832-1833,1839,1841,1843,1849,1851,1855,1860,1865,1870,1875,1878-1912,1956-1957,1976-1977,2010-2012,2015-2024,2148-2149,2168-2171,2173-2176,2208,2260-2264,2273,2283,2304,2316,2318,2383-2402,2504,2555-2557,2639-2640,2671-2689,2730-2735,2740-2746,2759,2793,2799,2802,2804,2809,2861-2863,2883-2954,2958,2976-2988,3215,3226-3227,3231,3294-3300,3329,3373-3381,3437-3458,3472-3479,3485,3489,3523,3529-3531,3534,3539,3554,3560-3561,3566-3567,3575,3581-3596,3599-3600,3620,3634,3671-3673,3679-3705,3907,3917,4089-4094,4098-4100,4108-4112,4114,4130-4131,4140,4174,4219,4276,4294-4306,4325-4327,4377-4378,4409-4410,4471-4486,4505-4507,4565-4566,4594-4595,4716,4775,4830,4837-4838,4869-4874,4881,4889-4962,5016-5019,5028-5030
+.agents/skills/verify-agent-server/references/feature-map/F32-webhooks-and-telemetry.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-828
+.agents/skills/verify-sdk/programs/S02/live_llm.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-47
+.agents/skills/verify-agent-server/references/feature-map/F08-confirmation-security-secrets.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-840
+.agents/skills/verify-sdk/programs/S08/layouts.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-213
+.agents/skills/verify-sdk/programs/S21/acp_traced.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-110
+examples/01_standalone_sdk/39_llm_fallback.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 6
+.agents/skills/verify-sdk/programs/S03/profiles.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-314
+openhands-sdk/openhands/sdk/event/ask_user.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-203
+.agents/skills/verify-sdk/programs/S16/tom.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-119
+.github/scripts/check_persisted_settings_compat.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 665-671,697-713,718,721
+openhands-agent-server/openhands/agent_server/docker_runtime/registry.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-812
+openhands-agent-server/openhands/agent_server/dependencies.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-12,15-16,18-19,23,26-39,54-76,78-79,81-135,137,141-143,160,163-166,168,172-176,178,182-215,218-221,223-225,227-230
+openhands-sdk/openhands/sdk/conversation/impl/local_conversation.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 6,8-10,16,22,24,51,54,57-61,64-75,77-85,87-88,98,120,133,146-151,211,213-248,258,279-283,315,320-323,346-351,355-357,391-395,403-404,418-419,423-433,495,520-523,534-535,538-541,547-565,574-578,614-621,652-653,684,835-844,849-857,864-865,868,872,878,883-898,919-921,926-936,986-989,1004,1015,1044,1049-1052,1067-1069,1076-1085,1101-1111,1113,1182-1223,1233,1248,1254-1260,1265-1267,1269-1281,1308-1309,1313,1320-1344,1372-1374,1390,1401-1402,1476-1479,1482-1483,1494,1509-1519,1525,1559,1570-1583,1610,1622-1627,1653,1668-1669,1686-1757,1759,1761-1801,1817-1906,1940,1956,1962,1985,2024,2073-2079,2109,2115,2128,2133,2144-2151,2153-2159,2161-2163,2173,2177-2266,2279-2280,2282,2332-2333,2342-2345,2354-2393,2395-2396,2399,2402-2435,2466-2468,2502-2606,2621-2624,2626-2627,2632-2634,2643,2658-2665,2667-2671,2674,2678,2685-2687,2709-2710,2729-2731,2746-2748,2799-2802,2811-2827,2830-2833,2880-2884,2895,2913,2920-2922,2945-2946,2965-2967,2979-2981,3047,3058-3112,3120,3137-3139,3159,3172-3174,3180-3182,3185-3187,3249-3251,3255,3270-3272,3278-3280,3308-3311,3354-3356,3358-3374,3381-3384,3419-3427,3461-3463,3537-3539,3594-3595,3605,3607,3609-3610,3623,3666-3667,3686,3703,3720-3726,3728-3730,3771,3782-3786,3923-3924
+openhands-agent-server/openhands/agent_server/_secrets_exposure.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 5,7,11,14,16-21,24,27,34,49-51,57,59,99,104-106,111-117
+.agents/skills/verify-sdk/programs/S11/delegate.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-155
+.agents/skills/verify-sdk/programs/S21/acp_conversation.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-773
+openhands-sdk/openhands/sdk/io/memory.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 31-33,51-53,56,58,74-79
+.github/workflows/deprecation-check.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 15
+openhands-sdk/openhands/sdk/llm/fallback_strategy.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 10,19-22,28,37,68-71,79-80,82,87,89,106-122,126-128
+DEVELOPMENT.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 53-94
+clients/typescript/src/client/meta-profiles-client.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 20
+.agents/skills/verify-sdk/programs/S07/public_switch.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-92
+openhands-sdk/openhands/sdk/agent/acp_model_discovery.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-130
+openhands-sdk/openhands/sdk/context/view/properties/tool_call_matching.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 67-69,88
+tests/sdk/llm/test_llm_log_completions_integration.py
+  s_25adfe404b8f10::t_097668e5a80bd2 12,15,200-381,421,471
+openhands-agent-server/openhands/agent_server/plugins_router.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 14,17-18,24,35-42,45-52,120-122,138-165,238,289-325,329-335,348,350,352,367,375,382,390,397,402,409-414,417-431,433-434,455-458
+openhands-agent-server/openhands/agent_server/__main__.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 30-31,33-35,40,43-44,47-70,348
+.agents/skills/verify-agent-server/references/feature-map/F28-canvas-extensions.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-1233
+examples/02_remote_agent_server/09_acp_agent_with_remote_runtime.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 13-15,34-37,39-42
+.github/ISSUE_TEMPLATE/feature_request.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 14-15
+.agents/skills/verify-sdk/programs/S11/task_fail_closed.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-176
+clients/typescript/src/__tests__/remote-workspace-execute.test.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-39
+.agents/skills/verify-sdk/programs/S01/loop.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-836
+.agents/skills/verify-sdk/programs/S10/hooked_run.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-259
+.agents/skills/verify-sdk/programs/S09/conversation.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-261
+.github/scripts/remove_pr_artifacts.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-21
+.agents/skills/verify-sdk/programs/S14/terminal.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-191
+clients/typescript/src/client/settings-client.ts
+  s_25adfe404b8f10::t_d5ebb999986b9b 25-32,61-75,143-146
+openhands-sdk/openhands/sdk/llm/utils/AGENTS.md
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-14
+.agents/skills/verify-sdk/programs/S17/mytools.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-274
+openhands-agent-server/openhands/agent_server/bash_service.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 7,11-12,24,37-55,84-87,100,105-110,112,115-120,123-134,266-269,271-272,281-283,308-311,315-317,320-321,339-344,413-416,472-505,613-619
+openhands-agent-server/openhands/agent_server/project_prompts.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-238
+openhands-sdk/openhands/sdk/extensions/fetch.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 26,34-49,56-57,78,80-83,107-123,143,154,160-163,226,229-230
+openhands-agent-server/openhands/agent_server/storage/selectors.py
+  s_25adfe404b8f10::t_d5ebb999986b9b 1-84
+.github/workflows/version-bump-guard.yml
+  s_25adfe404b8f10::t_d5ebb999986b9b 16,21,27-43
+clients/typescript/package-lock.json
+  s_25adfe404b8f10::t_1250a4e04ed3bc 3,9,22,28-29,32,34-35,42,44-45,52-55,59,61-62,64-65,68-71,75-76,82-85,89-92,95-98,102-103,106-109,113,116-119,122,125-128,132,135-138,140,142-144,147,150-153,155,157,160,163-166,168,170,173,176-179,183-186,189,191-194,197-200,202,204,207-210,212,214-215,218,221-224,228-231,234,236-237,240-243,247-249,252-255,258-261,263,265-268,270-279,281-285,288-291,294-308,310-316,319-322,326-333,336-339,342-345,347-349,352,355-358,362,364-365,368-371,373,375-378,380,382,385,388-391,393,395-397,400,403-406,408,410,413-416,418,420,422-424,427-430,432,434,436-438,441-451,455,458-461,463,465-468,472-473,476-479,481,483-486,490-491,494,497,500-503,505,507-510,514,517-522,524,527-530,533-535,538-544,547-551,553,556-562,565-571,574-580,583-589,592-598,601-607,610-616,619-625,628-634,637-643,646-652,654-656,658-664,667-673,675-677,679-683,685,688-694,696-698,700-704,706,709-715,717-719,721-727,730-736,738-740,742-746,748,751-757,759-761,763-767,769,772-778,781-785,787,790-796,799-803,805,808-814,817-821,823,826-829,832,834-837,841-842,845-876,880,883-886,890,893-896,900-907,910-914,917-919,922-925,929-933,936-940,943-944,947-950,954-956,959-963,966,969-972,976-977,980,982-984,987-990,994-998,1001,1004-1007,1011-1015,1018-1022,1025-1026,1029-1032,1036,1038-1040,1043-1046,1050-1058,1061-1065,1068,1071-1074,1078-1081,1084-1088,1091-1092,1095-1098,1102-1103,1106,1108-1110,1113-1116,1118,1120,1122-1123,1126-1129,1133-1140,1142-1143,1146-1152,1155-1158,1162,1165-1168,1172,1175-1178,1182,1185,1188-1191,1195-1198,1200-1201,1204-1213,1216-1219,1222-1223,1226-1229,1232-1233,1236,1239-1242,1246,1249-1252,1256-1259,1261-1263,1266-1269,1273,1276-1279,1283,1286-1289,1293-1295,1298-1301,1305,1308-1311,1315,1318,1321-1324,1328,1331,1333-1334,1337-1340,1344-1355,1358-1363,1366-1369,1373-1377,1380-1383,1387,1390-1393,1397,1400,1402-1403,1406-1409,1411-1413,1416-1419,1423,1426-1429,1431,1433-1436,1440-1442,1445,1448-1451,1455,1458,1460-1463,1466-1469,1471,1473-1476,1480-1481,1484,1486-1487,1490-1493,1497,1499-1500,1503-1506,1510,1512-1513,1516-1519,1523-1526,1530-1533,1535-1539,1541-1544,1546,1548-1551,1554-1557,1559,1561-1564,1568-1571,1574-1577,1580-1582,1584-1616,1619-1630,1633-1636,1638,1640-1643,1646,1649,1652-1655,1657-1662,1665-1668,1670,1672,1675,1678-1681,1683,1685,1688-1691,1693,1695-1703,1706-1709,1711,1713-1716,1719-1722,1724,1726,1729,1732-1735,1737,1739,1742,1745-1748,1750-1752,1755-1758,1760-1762,1765-1768,1770-1773,1775-1778,1780,1782,1785-1788,1792-1795,1799-1802,1806-1809,1813-1816,1819-1820,1823-1826,1830-1831,1834-1837,1840-1843,1845-1850,1852-1855,1857-1872,1875-1878,1882,1885,1888-1891,1894-1903,1905-1907,1910,1913,1916-1919,1921,1923,1926,1929-1932,1934,1936-1937,1940,1943,1946-1949,1953,1959-1962,1965-1967,1969,1972-1975,1977,1979-1982,1985-2006,2009,2015-2018,2022,2025-2028,2031-2033,2038-2041,2045-2048,2051-2054,2056-2068,2070-2073,2075,2077,2080,2083,2086-2089,2093-2096,2098-2101,2103-2106,2110-2113,2115,2117-2120,2122,2124-2127,2131,2134-2137,2141-2142,2145,2148-2151,2153-2154,2156,2159,2161-2192,2194,2197-2198,2201-2207,2209-2214,2216-2220,2223-2229,2231-2242,2245-2251,2253-2258,2260,2263-2264,2267-2273,2275-2280,2282-2286,2289-2295,2297-2305,2307,2310-2311,2314-2320,2322-2330,2332-2336,2339-2345,2347-2355,2357,2360-2361,2364-2370,2372-2380,2382-2386,2389-2394,2397-2408,2411-2417,2419-2424,2426,2429-2430,2433-2436,2440,2443-2446,2449-2452,2454,2456,2459-2462,2464,2466,2469-2472,2475-2478,2481-2484,2486,2488,2491,2494,2497-2500,2504,2507,2510-2513,2515,2517,2520-2523,2525,2527-2530,2532-2539,2541,2544,2547-2550,2552-2580,2582-2587,2590,2593,2596-2599,2601-2609,2611,2614-2617,2619,2621,2624,2627,2630-2633,2636-2638,2640,2646-2649,2651,2653-2656,2663-2666,2673-2676,2678-2682,2684,2690-2693,2695,2697-2700,2702,2704-2707,2709-2710,2712-2715,2718-2719,2721-2722,2725-2728,2731-2734,2737-2740,2742-2755,2757,2759-2761,2764,2767-2770,2774-2777,2780-2783,2787,2790-2793,2796-2797,2800,2803,2806-2809,2813,2816-2819,2822-2824,2826,2829-2832,2836-2839,2843-2844,2847-2850,2854,2857-2858,2861-2864,2867-2868,2871-2874,2876-2883,2885-2888,2891-2894,2897-2904,2906-2923,2926-2929,2933,2939-2942,2944-2946,2949,2952-2955,2958-2959,2961-2962,2965-2968,2972,2975-2978,2980,2982,2985-2988,2992-2995,2999,3002-3005,3007,3009,3047-3050,3054,3079-3080,3098-3100,3104-3107,3122-3124,3128-3131,3133-3135,3138-3141,3144,3146-3153,3156,3159,3162-3180,3182-3183,3185-3213,3215-3221,3224-3236,3239-3245,3248-3259,3261-3297,3316-3319,3322-3323,3326,3329-3332,3336,3340-3342,3391-3393
+openhands-sdk/openhands/sdk/marketplace/registry.py
+  s_25adfe404b8f10::t_7417dff442ab85 12-16,84-121,211
+openhands-sdk/openhands/sdk/marketplace/types.py
+  s_25adfe404b8f10::t_e3e0ae75c7f089 11,21-22,266-322
+openhands-sdk/openhands/sdk/mcp/__init__.py
+  s_25adfe404b8f10::t_a2df189ae75e01 15-19,63
+openhands-sdk/openhands/sdk/mcp/client.py
+  s_25adfe404b8f10::t_9e183f7a38cc4d 4,6-11,13,15-17,19,28-34,64,78-81,114-268,275-278,290-302
+openhands-sdk/openhands/sdk/mcp/config.py
+  s_25adfe404b8f10::t_80d45b2ebf08c2 17,28,31-33,37,40-43,47,106,120,131,146-149,158-159,165,189,253,275,282,332,334-335,337,341-342,344,379-382,390,397,408-410,419-420,432-445,462,470,474,520-543,545,622,624,657
+openhands-sdk/openhands/sdk/mcp/definition.py
+  s_25adfe404b8f10::t_4ba5681ad3c706 71,81
+openhands-sdk/openhands/sdk/mcp/exceptions.py
+  s_25adfe404b8f10::t_3c229211a2a142 20-32
+openhands-sdk/openhands/sdk/mcp/oauth.py
+  s_25adfe404b8f10::t_6b162df80d1576 1-202
+openhands-sdk/openhands/sdk/mcp/tool.py
+  s_25adfe404b8f10::t_81e13e5113da66 18-24,51-88,106,113,118-120,161,275,284,296-309,399,424-444,454,476
+openhands-sdk/openhands/sdk/mcp/utils.py
+  s_25adfe404b8f10::t_0d2fdec18621b7 7,9,14,17-18,30,99,110,123-168,174,176-203,223,229,403,435
+openhands-sdk/openhands/sdk/observability/laminar.py
+  s_25adfe404b8f10::t_08ed6edf7254a0 1-13,19,52-154,209-214,413,416,420-424,427-430,472,475,491,528-555
+openhands-sdk/openhands/sdk/observability/utils.py
+  s_25adfe404b8f10::t_f03c7729940482 7-16
+openhands-sdk/openhands/sdk/plugin/__init__.py
+  s_25adfe404b8f10::t_fae6d7ebbc3534 30,52-56,70-71,85,104
+openhands-sdk/openhands/sdk/plugin/discovery.py
+  s_25adfe404b8f10::t_d19a4da79bcc71 24,34,44-46,68-69,95,114-116,121,126-127,136,161,175,192-193,203,206-207,212,215-216
+openhands-sdk/openhands/sdk/plugin/fetch.py
+  s_25adfe404b8f10::t_a9867ffcbca237 10,15,17,20-21,24-25,32-53,128-132,143-144
+openhands-sdk/openhands/sdk/plugin/format/__init__.py
+  s_25adfe404b8f10::t_761b0d1469a3cf 15-17,22-24,62
+openhands-sdk/openhands/sdk/plugin/format/agent_plugins.py
+  s_25adfe404b8f10::t_6caa8e43bebf39 20-29,31,33,41-46,66-69,72-83,88-90,93-106,117-119,125-128,175-177,179-180,182-227,229-239
+openhands-sdk/openhands/sdk/plugin/format/agent_plugins_mcp.py
+  s_25adfe404b8f10::t_4121d0f0bee3f4 1-371
+openhands-sdk/openhands/sdk/plugin/format/base.py
+  s_25adfe404b8f10::t_0f27c4a8079b5f 13,15,17,23,26,34-41,108-124,127,157-158,174-248,250-252,254-267,269-278,295
+openhands-sdk/openhands/sdk/plugin/format/claude_code.py
+  s_25adfe404b8f10::t_a2eeb728b3e922 21-25,32,34,79-80,85-88,130,154,158,162
+openhands-sdk/openhands/sdk/plugin/format/schemas/mcp-1.0.0.schema.json
+  s_25adfe404b8f10::t_630f9516857691 1-120
+openhands-sdk/openhands/sdk/plugin/installed.py
+  s_25adfe404b8f10::t_eb21737292bfb2 17,23,124-125,128
+openhands-sdk/openhands/sdk/plugin/loader.py
+  s_25adfe404b8f10::t_ecfc999bf97084 17,109
+openhands-sdk/openhands/sdk/plugin/paths.py
+  s_25adfe404b8f10::t_1eb4142e57a1c4 1-17
+openhands-sdk/openhands/sdk/plugin/source.py
+  s_25adfe404b8f10::t_86386cd01007d6 12,16-20,30,93-100
+openhands-sdk/openhands/sdk/plugin/strict_fetch.py
+  s_25adfe404b8f10::t_ede3d35310df11 1-544
+openhands-sdk/openhands/sdk/profiles/__init__.py
+  s_25adfe404b8f10::t_7f335aed33ec2d 8-9,12,46-47,56
+openhands-sdk/openhands/sdk/profiles/agent_profile.py
+  s_25adfe404b8f10::t_14eca54285af07 24-25,30,37-42,45,86-124,137-140,172-205,218,237,247-258,275-283,292,294-298,300-302,304-307,319-337,349,359,374-380,432-458,468-469,508-524,527-528
+openhands-sdk/openhands/sdk/profiles/agent_profile_store.py
+  s_25adfe404b8f10::t_cec18572961969 16,19,30,44-52,92-96,123,125,169-171,223,267-270,273-276,280-284,305,334,449-451
+openhands-sdk/openhands/sdk/profiles/profile_refs.py
+  s_25adfe404b8f10::t_d3b1d747463cdb 21-22,53,63,65,70-71,86,88
+openhands-sdk/openhands/sdk/profiles/resolver.py
+  s_25adfe404b8f10::t_1188419c3a6d84 1-6,37,43,56-59,75,86-93,105-107,109,112-119,129-133,178-182,184,186-191,194-196,202-224,259-263,282-288,296-305,311-334,368
+openhands-sdk/openhands/sdk/profiles/seed.py
+  s_25adfe404b8f10::t_0c438fb268fdf3 3,47,68-69,73-76
+openhands-sdk/openhands/sdk/secret/__init__.py
+  s_25adfe404b8f10::t_533f182e610e0e 7,12-13,18,23-24
+openhands-sdk/openhands/sdk/secret/secrets.py
+  s_25adfe404b8f10::t_8ca5357ba83a56 5-6,10,14,33-76,84-100,110,122-128,136-138
+openhands-sdk/openhands/sdk/security/__init__.py
+  s_25adfe404b8f10::t_323015269f0086 1,31
+openhands-sdk/openhands/sdk/security/_shell_ast.py
+  s_25adfe404b8f10::t_48312d09748b1e 188-204,214-257
+openhands-sdk/openhands/sdk/security/analyzer.py
+  s_25adfe404b8f10::t_dc095c7a701e97 2-4,18-28,99-145,151-152,155,160-163
+openhands-sdk/openhands/sdk/security/defense_in_depth/pattern.py
+  s_25adfe404b8f10::t_c6d935e493a3ef 32,148-151,241-250,265-267
+openhands-sdk/openhands/sdk/security/defense_in_depth/policy_rails.py
+  s_25adfe404b8f10::t_dc66b6a3fce5dd 3-4,7,11-13,18-22,26,28-41,43,67-71,81-139,149-152,154,156-170,172-192,194-229,231-244,246-254,256-387,389-469,471-626,628-754,756-874,880-881,883,892,894-897,899-900,902-906,919-920,923-924,926,928
+openhands-sdk/openhands/sdk/security/defense_in_depth/shell_semantics.py
+  s_25adfe404b8f10::t_ced862cc48e384 1,3-8,10-12,15-24,30-32,73-74,77-91,96-99,119-158,164-168,181-183,202,205-209,229-714,719-720,724-726,728,735-738,746,757-758,766,779-896,899,902,909,914-932,934,937-976,979-1056,1059-1223,1225-1258,1261-1270,1273-1274,1277-1285,1287-1297,1304-1308,1311-1326,1330-1340,1351-1352,1354-1357,1359-1361,1365-1366,1369-1372,1375-1389,1391,1393-1399,1403,1406-1407,1416,1424,1428
+openhands-sdk/openhands/sdk/security/grayswan/analyzer.py
+  s_25adfe404b8f10::t_654359b16a5fb2 18,251-252,255-269,281-293
+openhands-sdk/openhands/sdk/settings/acp_install_catalog.py
+  s_25adfe404b8f10::t_caaadf4aa95112 66-77,105-106,108-115,139-178
+openhands-sdk/openhands/sdk/settings/acp_providers.py
+  s_25adfe404b8f10::t_22c9ae76a5ee63 11-12,21-22,27-33,51,129-155,183-185,192-194,209-210,237,245-247,294-296,303-304,306-309,311-312,314-318,320-334,344-346,357-369,380-388,424-425,428-438,451-452,478-566,612-615,645-648,652-653,655,661-670
+openhands-sdk/openhands/sdk/settings/api_models.py
+  s_25adfe404b8f10::t_c9e75f95397e5e 46,171-174,224-228,242-243,263
+openhands-sdk/openhands/sdk/settings/metadata.py
+  s_25adfe404b8f10::t_ee7931b153eee3 29-30
+openhands-sdk/openhands/sdk/settings/model.py
+  s_25adfe404b8f10::t_259892b2d607e6 30,34,36,44,52,57-63,65,153-175,185-189,227,333,359-360,467-469,486-497,508-509,512-515,528-529,537-540,564,583-584,724-816,1112-1122,1242-1357,1406-1410,1419-1422,1466-1468,1484,1517-1520,1530,1532-1536,1539-1540,1545-1546,1548-1549,1553,1559-1573,1603-1614,1649-1653,1675,1677-1706,1716,1783-1785,1790,1861-1864,1878-1897,2021-2032,2161-2163,2166-2167,2180,2230-2231,2265,2271-2273,2277,2306-2315,2331-2334,2344,2347-2349,2352-2353,2468,2502-2504,2506
+openhands-sdk/openhands/sdk/skills/fetch.py
+  s_25adfe404b8f10::t_3975fb32cd8d93 17,20
+openhands-sdk/openhands/sdk/skills/installed.py
+  s_25adfe404b8f10::t_fa7c20258dab30 12-13,23,35,53-56
+openhands-sdk/openhands/sdk/skills/skill.py
+  s_25adfe404b8f10::t_2a855aaf58d1f5 19-20,51-52,110,250,296-297,300-301,683-684,696,825-827,856-859,869-870,873-879,899,901-911,918-924,926,933-939,941,957-958,978-979,983-989,1043,1056,1066,1134,1177-1208,1218,1225,1288-1294,1306-1311,1327-1328,1334-1335,1347-1363,1376-1381,1383-1385,1387
+openhands-sdk/openhands/sdk/skills/utils.py
+  s_25adfe404b8f10::t_989a768f7ceab9 10,19-23,27,52,77-78,114-115,187,210,225,233-261,291-293,485,490-491,500-501,504,509-514,520-522,530-537,539,543-544,554-555,567-569,574-578,595-596,598,607,611-612,618-619,625-627,630-631,633-635,638-640,662,666,668-673
+openhands-sdk/openhands/sdk/subagent/AGENTS.md
+  s_25adfe404b8f10::t_259b3c098a324f 60-69,129-134
+openhands-sdk/openhands/sdk/subagent/__init__.py
+  s_25adfe404b8f10::t_4221e21caa8358 18,39
+openhands-sdk/openhands/sdk/subagent/load.py
+  s_25adfe404b8f10::t_ddb96107ad40d9 43,95-107,175-177,186-187,210-211
+openhands-sdk/openhands/sdk/subagent/registry.py
+  s_25adfe404b8f10::t_ffd37545f37b0f 45,164-165,187,232,259-260,266,292-296,306-309,332,338-368,372-373,386,393,447-449,452-456
+openhands-sdk/openhands/sdk/subagent/schema.py
+  s_25adfe404b8f10::t_e65385d9b6542e 143-146,260-263,344,351-353
+openhands-sdk/openhands/sdk/subagent/scope.py
+  s_25adfe404b8f10::t_624ce742a28995 1-129
+openhands-sdk/openhands/sdk/tool/__init__.py
+  s_25adfe404b8f10::t_d28a15727eace8 19-20,23-24,27,57-59,74-75
+openhands-sdk/openhands/sdk/tool/builtins/__init__.py
+  s_25adfe404b8f10::t_93fd9ba286858f 9-14,45,48-55,62,66,69-80,84-89
+openhands-sdk/openhands/sdk/tool/builtins/classify_and_switch_llm.py
+  s_25adfe404b8f10::t_3826fcfc7b2d01 1-686
+openhands-sdk/openhands/sdk/tool/builtins/finish.py
+  s_25adfe404b8f10::t_f769dde5bd5825 2,72-73
+openhands-sdk/openhands/sdk/tool/builtins/invoke_skill.py
+  s_25adfe404b8f10::t_af78a2bbed0f9a 5,166-167,173
+openhands-sdk/openhands/sdk/tool/builtins/switch_llm.py
+  s_25adfe404b8f10::t_e20d4fa6d98bff 2,154-157
+openhands-sdk/openhands/sdk/tool/builtins/think.py
+  s_25adfe404b8f10::t_86391fba05cd05 2,84-85
+openhands-sdk/openhands/sdk/tool/builtins/vision_inspect.py
+  s_25adfe404b8f10::t_5a78764be8f071 34-36,133-134,136-148,150,153-157,200,205,263,310-311
+openhands-sdk/openhands/sdk/tool/client_tool.py
+  s_25adfe404b8f10::t_75fe2db8f64546 15,187-188
+openhands-sdk/openhands/sdk/tool/defaults.py
+  s_25adfe404b8f10::t_e43379d194bbcc 14-18,22-25,34,37-119,131,133,135-194
+openhands-sdk/openhands/sdk/tool/registry.py
+  s_25adfe404b8f10::t_79fedda21b03d7 6-7,36-48,78,82-85,149,154,157,167,169,178-187,191-202,221-246,259-320,329-331
+openhands-sdk/openhands/sdk/tool/schema.py
+  s_25adfe404b8f10::t_990c8269af2373 21-22,146,148-151,161-170,172-174,188-198,211-212,247,256,294,297-299,350-351,404-412
+openhands-sdk/openhands/sdk/tool/tool.py
+  s_25adfe404b8f10::t_618abef4f2d0f1 386-402,422-428
+openhands-sdk/openhands/sdk/utils/cipher.py
+  s_25adfe404b8f10::t_a9a86a260cf1a9 7-13,18,21,35,37-44,46,68,85,89-126,129
+openhands-sdk/openhands/sdk/utils/command.py
+  s_25adfe404b8f10::t_0f8cd067b27b20 16-26
+openhands-sdk/openhands/sdk/utils/files.py
+  s_25adfe404b8f10::t_f7589fad476f88 4-18,23-25
+openhands-sdk/openhands/sdk/utils/masking.py
+  s_25adfe404b8f10::t_c7be53c69cc822 1-70
+openhands-sdk/openhands/sdk/utils/models.py
+  s_25adfe404b8f10::t_07ce61dad2e0b6 46-51,172-174,176-177,207-210,213-216
+openhands-sdk/openhands/sdk/utils/path.py
+  s_25adfe404b8f10::t_536c037ac3c46b 5,8-9,13-14,17-73
+openhands-sdk/openhands/sdk/utils/pydantic_secrets.py
+  s_25adfe404b8f10::t_5f0dadb3c950b4 1-6,8-33,36,46-47,52-119,146-147,150-151,154-155,157,159,165,167-243,245-270,272-320,323-392,395-427
+openhands-sdk/openhands/sdk/utils/redact.py
+  s_25adfe404b8f10::t_99f88baefe26c7 165-167,284-290,300-301,314-317,346-349
+openhands-sdk/openhands/sdk/utils/truncate.py
+  s_25adfe404b8f10::t_527a4ff5c477ba 39-41,43-45,62
+openhands-sdk/openhands/sdk/workspace/base.py
+  s_25adfe404b8f10::t_5d5b98f75f3dce 13,149
+openhands-sdk/openhands/sdk/workspace/remote/async_remote_workspace.py
+  s_25adfe404b8f10::t_35b3fe64fc4cce 3-4,20-38,77-107,112,133,141
+openhands-sdk/openhands/sdk/workspace/remote/base.py
+  s_25adfe404b8f10::t_265d802ec2fde1 17,134-164,190,198,428-429,437,448-452,456,474-479,493-494,517-520,534-535,640-641,908,929-933,986-989,991-993,996-998,1000-1002
+openhands-sdk/openhands/sdk/workspace/remote/remote_workspace_mixin.py
+  s_25adfe404b8f10::t_91bda2945543b5 6,12,57-69,77,82-175,198,211-215,288,302,310-314,322,375,423,451
+openhands-sdk/openhands/sdk/workspace/repo.py
+  s_25adfe404b8f10::t_8306e55665661b 10,44-45,50-54,62,65-89,95-96,106,110,156-161,164-166,208-217,339-340,373,375,377-383,385-388,394-459,502,505-510,524-528,556-559,582,623,630
+openhands-sdk/pyproject.toml
+  s_25adfe404b8f10::t_2878df82c617c2 3,8-9,11-23,27,38,40,43
+openhands-tools/openhands/tools/__init__.py
+  s_25adfe404b8f10::t_a57e02af4555a0 22-26,34
+openhands-tools/openhands/tools/apply_patch/core.py
+  s_25adfe404b8f10::t_7e5f9602202bba 445-447,455-462
+openhands-tools/openhands/tools/apply_patch/definition.py
+  s_25adfe404b8f10::t_de818903dfbdbc 5-6,92-97,101-104,106,108,111-114,116,122-123
+openhands-tools/openhands/tools/ask_oracle/definition.py
+  s_25adfe404b8f10::t_bd3336b9603c9e 4,85-86
+openhands-tools/openhands/tools/ask_oracle/impl.py
+  s_25adfe404b8f10::t_b2d02b2631534c 98
+openhands-tools/openhands/tools/ask_user/__init__.py
+  s_25adfe404b8f10::t_2e1079aa2a58fa 1-30
+openhands-tools/openhands/tools/ask_user/definition.py
+  s_25adfe404b8f10::t_67809615b50bfe 1-195
+openhands-tools/openhands/tools/browser_use/definition.py
+  s_25adfe404b8f10::t_153666061c3df8 10,23,64-66,778-789,800-803,889-892
+openhands-tools/openhands/tools/browser_use/impl.py
+  s_25adfe404b8f10::t_ee36dcf5ca79d3 7,14,20-21,113-114,125,153-170,172-181,183,185-199,202-205,207-208,249-317,362-407,427-437,442-445,455-456,495-497,597-601,610-611,715-721,723-735,871-904,914,921-922
+openhands-tools/openhands/tools/browser_use/logging_fix.py
+  s_25adfe404b8f10::t_9225436a7f1d10 31-106
+openhands-tools/openhands/tools/browser_use/server.py
+  s_25adfe404b8f10::t_7a55d1bf31c817 1-2,4,13-15,68-101,302-317,320-322
+openhands-tools/openhands/tools/child_conversation/__init__.py
+  s_25adfe404b8f10::t_b715eb7b52285d 1-36
+openhands-tools/openhands/tools/child_conversation/definition.py
+  s_25adfe404b8f10::t_9cc7291475df3f 1-165
+openhands-tools/openhands/tools/child_conversation/impl.py
+  s_25adfe404b8f10::t_fe4fdd85c38cc0 1-161
+openhands-tools/openhands/tools/conversation_mentions/__init__.py
+  s_25adfe404b8f10::t_5dc29918aff2c6 1-24
+openhands-tools/openhands/tools/conversation_mentions/definition.py
+  s_25adfe404b8f10::t_aff00cc4880c40 1-169
+openhands-tools/openhands/tools/conversation_mentions/impl.py
+  s_25adfe404b8f10::t_039f57b3c0c3cd 1-303
+openhands-tools/openhands/tools/delegate/definition.py
+  s_25adfe404b8f10::t_caba3fa4a1d077 3,5,17-24,52-59
+openhands-tools/openhands/tools/delegate/impl.py
+  s_25adfe404b8f10::t_337adf315d80d9 16,18,38-40,51-56,202-204,236-240
+openhands-tools/openhands/tools/delegate/visualizer.py
+  s_25adfe404b8f10::t_4691e596b2d2f0 1,3,6
+openhands-tools/openhands/tools/file_editor/definition.py
+  s_25adfe404b8f10::t_0814d4abed76ae 5,196-197
+openhands-tools/openhands/tools/file_editor/editor.py
+  s_25adfe404b8f10::t_66883734e316c8 55-75,222-224,227-229,231,244-246,248,436,438,508-509,511-513,522-524,531-533,547,603-607,695-700,762-767,776-782,827-837,866-872,874,876-879
+openhands-tools/openhands/tools/file_editor/utils/encoding.py
+  s_25adfe404b8f10::t_3eb1e4e28d1bbd 3,7,19-39,75-84,106-153,178-185
+openhands-tools/openhands/tools/gemini/edit/definition.py
+  s_25adfe404b8f10::t_2881d51c8472dc 5,99-100
+openhands-tools/openhands/tools/gemini/list_directory/definition.py
+  s_25adfe404b8f10::t_3d78ab136c9ce2 5,144-145
+openhands-tools/openhands/tools/gemini/read_file/definition.py
+  s_25adfe404b8f10::t_36fa1bb7667c6e 5,112-113
+openhands-tools/openhands/tools/gemini/write_file/definition.py
+  s_25adfe404b8f10::t_9bbba11ac35769 5,72-73
+openhands-tools/openhands/tools/glob/definition.py
+  s_25adfe404b8f10::t_e910c58ea046d9 5,68-69
+openhands-tools/openhands/tools/glob/impl.py
+  s_25adfe404b8f10::t_d41d6a65e78ad3 23-51,200-201,203,205-207,239-243
+openhands-tools/openhands/tools/grep/definition.py
+  s_25adfe404b8f10::t_b15ffe3c7b2ef9 5,70-73
+openhands-tools/openhands/tools/grep/impl.py
+  s_25adfe404b8f10::t_1f043ed89990c4 17,165-168,238-239,255-260
+openhands-tools/openhands/tools/message_edit/__init__.py
+  s_25adfe404b8f10::t_7a41c96a2e0d5d 1-25
+openhands-tools/openhands/tools/message_edit/definition.py
+  s_25adfe404b8f10::t_b6d466b1fd8902 1-121
+openhands-tools/openhands/tools/message_edit/impl.py
+  s_25adfe404b8f10::t_eb07f4446b3d1e 1-44
+openhands-tools/openhands/tools/planning_file_editor/definition.py
+  s_25adfe404b8f10::t_dc7e69f77b6ada 5,68-69
+openhands-tools/openhands/tools/project/__init__.py
+  s_25adfe404b8f10::t_74d7d4940a69a2 1-114
+openhands-tools/openhands/tools/project/definition.py
+  s_25adfe404b8f10::t_037aecba41b156 1-807
+openhands-tools/openhands/tools/project/impl.py
+  s_25adfe404b8f10::t_2f09db01828ba2 1-739
+openhands-tools/openhands/tools/reaction/__init__.py
+  s_25adfe404b8f10::t_3a97048a837549 1-33
+openhands-tools/openhands/tools/reaction/definition.py
+  s_25adfe404b8f10::t_a6d950e53b019a 1-184
+openhands-tools/openhands/tools/reaction/impl.py
+  s_25adfe404b8f10::t_336c3349c5edb4 1-54
+openhands-tools/openhands/tools/task/__init__.py
+  s_25adfe404b8f10::t_26eb3025b16579 27,31
+openhands-tools/openhands/tools/task/definition.py
+  s_25adfe404b8f10::t_833acb417fd643 13,20-27,39,45-47,79,165-167,170,172,183-184,229-232,236,238,248-250,257-270,281-283,296-308
+openhands-tools/openhands/tools/task/manager.py
+  s_25adfe404b8f10::t_59d069e01c601e 38-42,106,110,225,230-234,330,338-340,391-402,404-408
+openhands-tools/openhands/tools/task/visualizer.py
+  s_25adfe404b8f10::t_95f756c02936df 1-262
+openhands-tools/openhands/tools/task_tracker/definition.py
+  s_25adfe404b8f10::t_6e361bf8eb2a45 4,6,31-38,49-58,287,289,291,297-301
+openhands-tools/openhands/tools/terminal/README.md
+  s_25adfe404b8f10::t_d76ba4cfd4e350 66-71
+openhands-tools/openhands/tools/terminal/constants.py
+  s_25adfe404b8f10::t_98c18adecac1a7 33,35-36,41-52
+openhands-tools/openhands/tools/terminal/definition.py
+  s_25adfe404b8f10::t_66e9da0fb2b6ee 6,271-274,297,315-322,343
+openhands-tools/openhands/tools/terminal/descriptions.py
+  s_25adfe404b8f10::t_9325049a89325f 91-93
+openhands-tools/openhands/tools/terminal/env.py
+  s_25adfe404b8f10::t_41ade80a492d31 3-5,9,13-14,16,47-88
+openhands-tools/openhands/tools/terminal/impl.py
+  s_25adfe404b8f10::t_cae5460b50cd91 1,56-60,62,65-68,87,105-107,109-114,130-132,146,193,242-244,265-274,447,479-487,532,534-536,556-564,577-580
+openhands-tools/openhands/tools/terminal/terminal/factory.py
+  s_25adfe404b8f10::t_c0bfee32965e55 64,78-80,90,103-104,120-122,132,148,156-158,170,178-180,194-196
+openhands-tools/openhands/tools/terminal/terminal/interface.py
+  s_25adfe404b8f10::t_9163d7f062c53f 161-170
+openhands-tools/openhands/tools/terminal/terminal/process_priority.py
+  s_25adfe404b8f10::t_deed07fd210b32 1-39
+openhands-tools/openhands/tools/terminal/terminal/subprocess_terminal.py
+  s_25adfe404b8f10::t_123216df7e30b9 3,12,40-42,108,160,200,202-203,205-215,219-227,292-293,305-309,315-316,342,344-346,487-493,511-516
+openhands-tools/openhands/tools/terminal/terminal/terminal_session.py
+  s_25adfe404b8f10::t_f8cd36d9343a1f 3,6,14,31,50-66,68-117,121-126,129-139,143-151,167,174-176,183-188,196-200,209,217,248-251,307-308,312,318,331,350-373,390,415,435,456,476,491-533,539-556,587-607,634-645,694-696,701-714,721-722,724-737,777-802,816-818,820,823-824,828-831,846-854,861-869,871-881,883-894,916,919-923,936,939-942,944-948,952-979
+openhands-tools/openhands/tools/terminal/terminal/tmux_pane_pool.py
+  s_25adfe404b8f10::t_d40100a1ae1b3a 9,28,31-38,127-128,131-133,139-144,178-185,190,192-193,197,215-219,222-229,232-236,241-242,261-275,277-279,291,329-333,340
+openhands-tools/openhands/tools/terminal/terminal/tmux_terminal.py
+  s_25adfe404b8f10::t_e9e5afa0e64f20 3-6,9-11,14-15,18,20,24,26,30,36-38,43-207,226,249,258-259,265,268,270,273,275-276,282-288,308-312,316-346,360-366,403-434,445,460
+openhands-tools/openhands/tools/terminal/terminal/windows_console.py
+  s_25adfe404b8f10::t_661812ce406a2d 1-357
+openhands-tools/openhands/tools/terminal/terminal/windows_terminal.py
+  s_25adfe404b8f10::t_de59934b4d756c 1-26,48-49,54-56,61,63-80,101-168,189,196-212,219-222,230-235,249,256-263,267-281,283-293,296,299,302-311,313-317,322,324-325,327,329-345,366-368,380-382,385-428,442,453,457-472,478,486,492-500,502-506,508-526,528-530,532-542,544-546,554-565,570-657
+openhands-tools/openhands/tools/terminal/utils/command.py
+  s_25adfe404b8f10::t_a043cb2c492ee0 33-114,119-123,146-148
+openhands-tools/openhands/tools/tom_consult/definition.py
+  s_25adfe404b8f10::t_1f41702d78ec6f 21,190,245
+openhands-tools/openhands/tools/tom_consult/executor.py
+  s_25adfe404b8f10::t_3462b3cf4c3415 76-77,85-87
+openhands-tools/openhands/tools/tom_consult/llm_client.py
+  s_25adfe404b8f10::t_c2d4574fec38e5 1-166
+openhands-tools/openhands/tools/workflow/definition.py
+  s_25adfe404b8f10::t_2e41d5476e70c5 6,10,146-147,154,158-161,174,182-183,188,190
+openhands-tools/openhands/tools/workflow/impl.py
+  s_25adfe404b8f10::t_5e4d8a6c39b5af 13,84,91,506-508,525
+openhands-tools/pyproject.toml
+  s_25adfe404b8f10::t_49674a2cd24466 3,9-10,12,14-17,30,46
+openhands-workspace/openhands/workspace/__init__.py
+  s_25adfe404b8f10::t_1060383d51b54b 7,25
+openhands-workspace/openhands/workspace/agent_sandbox/README.md
+  s_25adfe404b8f10::t_cdb195ca41fa11 1-86
+openhands-workspace/openhands/workspace/agent_sandbox/TESTING.md
+  s_25adfe404b8f10::t_35994e88c947f5 1-192
+openhands-workspace/openhands/workspace/agent_sandbox/__init__.py
+  s_25adfe404b8f10::t_fa36fcb5f24726 1-6
+openhands-workspace/openhands/workspace/agent_sandbox/deploy/sandboxtemplate.yaml
+  s_25adfe404b8f10::t_fd1924e53cd271 1-75
+openhands-workspace/openhands/workspace/agent_sandbox/deploy/sandboxwarmpool.yaml
+  s_25adfe404b8f10::t_b35eca80226a78 1-13
+openhands-workspace/openhands/workspace/agent_sandbox/testing/agent_ollama_example.py
+  s_25adfe404b8f10::t_e273d9f384a121 1-75
+openhands-workspace/openhands/workspace/agent_sandbox/testing/ollama.yaml
+  s_25adfe404b8f10::t_18634fabf52d94 1-47
+openhands-workspace/openhands/workspace/agent_sandbox/testing/smoke_test.py
+  s_25adfe404b8f10::t_acd26b59549626 1-55
+openhands-workspace/openhands/workspace/agent_sandbox/workspace.py
+  s_25adfe404b8f10::t_43361a82cb34f6 1-437
+openhands-workspace/openhands/workspace/apptainer/workspace.py
+  s_25adfe404b8f10::t_e296bf7a09ff06 203-223,319-321,324,383-387
+openhands-workspace/openhands/workspace/cloud/workspace.py
+  s_25adfe404b8f10::t_74725a1d1f8355 13,16,46-76,654-659,673-674,697-702,714-715,729-735,739,757,773-774,914,927-929,974,987
+openhands-workspace/openhands/workspace/docker/workspace.py
+  s_25adfe404b8f10::t_a2aa7281159123 30,156-162,224,228,278-286,364-368,383-388
+openhands-workspace/openhands/workspace/remote_api/workspace.py
+  s_25adfe404b8f10::t_27e0c95495c72b 314
+openhands-workspace/pyproject.toml
+  s_25adfe404b8f10::t_9c440a95f468f6 3,10-17,27
+pyproject.toml
+  s_25adfe404b8f10::t_3720794aa01ee7 8,10-16,18-22,34-44,46-48,50,69,77-78,82-86,110,114-117
+scripts/agent_server_benchmarks/conversation_start.py
+  s_25adfe404b8f10::t_8591a551928ea0 1-627
+scripts/build_config_template.py
+  s_25adfe404b8f10::t_18c6cfe9b2fb39 8,20
+scripts/check_async_store_access.py
+  s_25adfe404b8f10::t_a940b08fee773f 1-315
+scripts/check_execution_status_writes.py
+  s_25adfe404b8f10::t_4286ffbe7174af 1-102
+scripts/check_forbidden_dynamic_attributes.py
+  s_25adfe404b8f10::t_fe36607c71a1b6 1,3-6,8-12,14-15,17,19-20,26-27,29,31,35-37,40-50,53-77,80,83-85,88-91,94-102,104,107-108,111-116,119,122-127,130-139,142-144,146-148,151-152,154,156-157,159-168,170-172,174,176-178,181-210,214
+scripts/check_secret_fields.py
+  s_25adfe404b8f10::t_e485c35861596c 1-79
+scripts/event_sourcing_benchmarks/README.md
+  s_25adfe404b8f10::t_515c0752f04363 34,41
+scripts/event_sourcing_benchmarks/bench_append_scaling.py
+  s_25adfe404b8f10::t_b62ca678f99ca9 1-142
+scripts/forbidden_dynamic_attributes_baseline.json
+  s_25adfe404b8f10::t_cee084233c2ecd 1-142
+setup.py
+  s_25adfe404b8f10::t_2cfdbe764f7c39 1-4
+tests/README.md
+  s_25adfe404b8f10::t_b5dbf14fc27088 14,16,19-20,28-30,32,36-43
+tests/agent_server/canvas_extensions/test_canvas_extension_backend.py
+  s_25adfe404b8f10::t_6c056512294b46 1-1231
+tests/agent_server/canvas_extensions/test_canvas_extension_bridge.py
+  s_25adfe404b8f10::t_bf44d47d167b4f 1-661
+tests/agent_server/canvas_extensions/test_canvas_extension_bridge_routes.py
+  s_25adfe404b8f10::t_1b716ed3c7e154 1-79
+tests/agent_server/canvas_extensions/test_canvas_extensions_manifest.py
+  s_25adfe404b8f10::t_dae39fe926655b 9,170-210
+tests/agent_server/conftest.py
+  s_25adfe404b8f10::t_26576b7232b061 1-213
+tests/agent_server/docker_runtime/STORAGE_SCENARIO.md
+  s_25adfe404b8f10::t_4da4f95d44a8f8 1-88
+tests/agent_server/docker_runtime/test_buildx_install.py
+  s_25adfe404b8f10::t_83aa667293a526 1-108
+tests/agent_server/docker_runtime/test_disk_budget.py
+  s_25adfe404b8f10::t_ccebc78eceadf0 1-263
+tests/agent_server/docker_runtime/test_hybrid.py
+  s_25adfe404b8f10::t_45980c933f7d55 1-204
+tests/agent_server/docker_runtime/test_mediation.py
+  s_25adfe404b8f10::t_8a93bded98fec5 1-400
+tests/agent_server/docker_runtime/test_pip_revendoring_retirement.py
+  s_25adfe404b8f10::t_21fb57f4b73649 1-85
+tests/agent_server/docker_runtime/test_provisioning.py
+  s_25adfe404b8f10::t_184c0567dce588 1-115
+tests/agent_server/docker_runtime/test_proxy.py
+  s_25adfe404b8f10::t_8bfb6e6d492c96 1-280
+tests/agent_server/docker_runtime/test_registry.py
+  s_25adfe404b8f10::t_117f12ec534470 1-1321
+tests/agent_server/docker_runtime/test_retention.py
+  s_25adfe404b8f10::t_71de561e774d56 1-182
+tests/agent_server/docker_runtime/test_routes.py
+  s_25adfe404b8f10::t_fa6c60a6269b14 1-938
+tests/agent_server/docker_runtime/test_storage_scenario.py
+  s_25adfe404b8f10::t_75bd801926bacc 1-327
+tests/agent_server/docker_runtime/test_worktree_live.py
+  s_25adfe404b8f10::t_1c64740917a784 1-143
+tests/agent_server/logging_failure_probe.py
+  s_25adfe404b8f10::t_5c4a4e200b3be3 1-32
+tests/agent_server/storage/test_reclaimer.py
+  s_25adfe404b8f10::t_6825573f782f10 1-93
+tests/agent_server/storage/test_trash.py
+  s_25adfe404b8f10::t_2956f247399723 1-126
+tests/agent_server/stress/__init__.py
+  s_25adfe404b8f10::t_d2db3f9c1bcb65 43-45,52,63-65
+tests/agent_server/stress/budgets.py
+  s_25adfe404b8f10::t_225e74eb4fdb50 14-18,29-36
+tests/agent_server/stress/conftest.py
+  s_25adfe404b8f10::t_85113e0cc8af72 24,35-36,50-59,85-87,90-91,96-97
+tests/agent_server/stress/scripts.py
+  s_25adfe404b8f10::t_4cb8307aa984e9 12,18,29,42-49,78-105
+tests/agent_server/stress/test_slow_webhook.py
+  s_25adfe404b8f10::t_c96811943ae3b7 35,47,131-132,136-137,191,202-203,206-207
+tests/agent_server/telemetry/conftest.py
+  s_25adfe404b8f10::t_279554342bc1e7 15-20,45-57
+tests/agent_server/telemetry/test_telemetry_disabled_by_default.py
+  s_25adfe404b8f10::t_49ec1bdd664be0 5,11,18-19,28,36,49-68,71,77,134,305,308,310-312,338-348,350-351
+tests/agent_server/telemetry/test_telemetry_failure_paths.py
+  s_25adfe404b8f10::t_f4f1a647a874ec 24,57,74,93,107
+tests/agent_server/telemetry/test_telemetry_init_lifecycle.py
+  s_25adfe404b8f10::t_c5871a556607a0 12,17-20,26,89-91,106,109,114,131
+tests/agent_server/telemetry/test_telemetry_settings_migration.py
+  s_25adfe404b8f10::t_2011ac2e1143ce 1,3-7,24,29,53-55
+tests/agent_server/telemetry/test_telemetry_settings_path.py
+  s_25adfe404b8f10::t_73828c0d7acb2c 12,63,68-70,74-75
+tests/agent_server/telemetry/test_telemetry_subscriber.py
+  s_25adfe404b8f10::t_8c053a1e691015 576-634
+tests/agent_server/test_acp_router.py
+  s_25adfe404b8f10::t_ba9ff4f3208da2 1-207
+tests/agent_server/test_acp_skill_sourcing.py
+  s_25adfe404b8f10::t_46f6c9c2797d40 21-22,42,46,67-72,169-171,175,177-274
+tests/agent_server/test_active_meta_profile.py
+  s_25adfe404b8f10::t_a89df80ed54414 1-102
+tests/agent_server/test_agent_launch_additions.py
+  s_25adfe404b8f10::t_cf0caf82ba1843 9,11,22-24,27,87-91,102-111,117,124,132,137,142,147-149,168,178-249
+tests/agent_server/test_agent_profile_conv_start.py
+  s_25adfe404b8f10::t_e8fdf83a0f44ce 1,4-6,13,15,20,22,34-37,42-48,53-54,57,59-60,72,74-75,85,87,91,93,101-199,201,222-231,233,237-247,250-270,277-284,298,302-305,307-308,311-315,317-319,321-322,324-328,330-334,337-338,340-342,344,346-349,352-354,356-359,361-362,365-368,370-381,383-387,390,392-394,396-400,403,405-407,409-413,416-417,419-431,433-435,437-440,442,444-445,447,449-451,453-462,465,467-470,472-473,475,477-479,481-484,486-494,496-500,503-504,506-511,513-517,520-521,525,529-530,533,535-540,542-543,546-548,550,553-556,559-565,567,569-570,572,574-582,585-586,588,590-594,597-598,601-607,610-612,614-616,619-620,622-628,630-636,639-642,645-646,648-652,655,663-676,679-682,687,690-696,699-716,719,824-904
+tests/agent_server/test_agent_profiles_router.py
+  s_25adfe404b8f10::t_c9f94396b423fa 20,31-36,40-44,48,51,61-63,178-180,314-318,323-324,327-329,332-391,642-674,682-929,1044,1057-1059,1124-1125,1127,1134,1154-1158,1163,1167,1193-1203,1271,1287-1379,1407-1543
+tests/agent_server/test_agent_server_wsproto.py
+  s_25adfe404b8f10::t_036a314718e372 297-478
+tests/agent_server/test_api.py
+  s_25adfe404b8f10::t_3e74503cb82166 5-6,8-10,13,16,21,29-35,45-76,78,82,86-97,99-112,115-127,130-131,136-137,140,143,148-372,573-577,611,615,621-626,656,660,666-673,682,691,697-699,706-736,739,742,744-745,751,754-775,777-778,782-786,788-915,920,926-956,958,1133-1177
+tests/agent_server/test_api_authentication.py
+  s_25adfe404b8f10::t_16f750c663e0c7 7-8,15,17-21,23,133,166,173,295-298,346-349
+tests/agent_server/test_ask_user_router.py
+  s_25adfe404b8f10::t_75e8992049e95a 1,4-5,8,10-17,19-24,26-31,33-38,41-46,49-52,54,57-59,62-179,181-187,189-191,193-195,197-198,201-217,219-241
+tests/agent_server/test_auto_title_span_metadata.py
+  s_25adfe404b8f10::t_982eecc60bb376 85-91,107,120,154-160
+tests/agent_server/test_bash_router.py
+  s_25adfe404b8f10::t_e0246f75be1e48 1-88
+tests/agent_server/test_bash_service.py
+  s_25adfe404b8f10::t_289940384869d6 6,9,20,28-29,42-43,98-242,314-378,498-526,556-644
+tests/agent_server/test_blocking_export_extended.py
+  s_25adfe404b8f10::t_d4f75717c19101 1-71
+tests/agent_server/test_canvas_extensions_router.py
+  s_25adfe404b8f10::t_c9e44514e9e214 9,11,17-19,35,121-139,160-210,470-654
+tests/agent_server/test_code_server_live.py
+  s_25adfe404b8f10::t_c3c0026e9c0087 1-92
+tests/agent_server/test_config.py
+  s_25adfe404b8f10::t_276ad6e63852cb 2-3,6,11-12,14,17,73-98,102-313
+tests/agent_server/test_conversation_info_model.py
+  s_25adfe404b8f10::t_c44559cd44e831 31-32,37,69-83,97-142,404-437
+tests/agent_server/test_conversation_lease.py
+  s_25adfe404b8f10::t_c44184d305e53d 3,5-6,37-65,300-301,341-423
+tests/agent_server/test_conversation_response.py
+  s_25adfe404b8f10::t_b2dece2638ce95 3,11,13,18-19,28,57-58,84-85,106-107,139,161,175,184,187,189-224
+tests/agent_server/test_conversation_router.py
+  s_25adfe404b8f10::t_7864f6ec6e38ee 3,5,12,14,19-25,29-30,35,39,41,44,49,54,61,63-66,104-105,173-208,264-266,511,513-516,523,528-534,597-682,725-733,772-778,830-832,915-921,1033-1086,1188,1191,1202,1212-1233,1261,1264,1275,1346-1347,1369-1370,1387,1389-1390,1409-1410,1427-1428,1444-1445,1464-1465,1483-1484,1517-1545,1565-1592,1594,1596,1604,1672,1717,1721,1728-1729,1733-1739,1741-1896,2006-2008,2026-2029,2036,2039,2041-2043,2056,2059,2092-2112,2731,2802-2808,2851-2857,2888-2921,2949-3364,3506-3527,3589-3654
+tests/agent_server/test_conversation_router_skill_trim.py
+  s_25adfe404b8f10::t_fb5579a8297b64 26,42,160,162-164,246,248-250
+tests/agent_server/test_conversation_service.py
+  s_25adfe404b8f10::t_23b5959bf0ccf4 7,9,28,30,33,43,45-46,56,59,64-69,75-106,135-156,191-387,411-421,511,580,585,722-770,1032-1036,1038,1356-1380,1537,1904,2222-2273,2457-2546,2626-2636,2638-2639,2641-2731,2965,2997,3028,3030,3064,3066,3126-3182,3200,3210,3212,3259,3261,3294,3327,3379,3408,3805-3807,3813,3826,3830,3875-3904,4001-4002,4008,4011-4013,4033-4034,4040,4045-4047,4084-4085,4091,4094-4096,4118-4154,4162,4193,4217,4219,4221-4226,4282,4308,4310,4312-4317,4360-4393,4522-4565,4774-4800,4996-5241
+tests/agent_server/test_conversation_tags.py
+  s_25adfe404b8f10::t_153ed3bd1eff3f 12,22-23,29,35-36,43-46,84-85,119-120,147-148,172-176,188-190,201-205,216-218,231-232,330-407
+tests/agent_server/test_cors.py
+  s_25adfe404b8f10::t_4f3cd67177b6d0 74-79,83-86,89-92,97-105,407-444
+tests/agent_server/test_credential_binding.py
+  s_25adfe404b8f10::t_a4842b2a158063 6,17-18,23-25,33,35,46,82-86,209-210,240-241,269-270,316-317,350-351,372-373,377,397-398,408,418-464,603-604,627,950-951,961,1089-1090,1094,1107-1108,1128,1175-1176,1184
+tests/agent_server/test_dependencies.py
+  s_25adfe404b8f10::t_b9d51bb4564bd3 9,12,17-18,58,66
+tests/agent_server/test_docker_build.py
+  s_25adfe404b8f10::t_1743b143564890 480-505
+tests/agent_server/test_domain_errors.py
+  s_25adfe404b8f10::t_6687de9f3fac4d 1-187
+tests/agent_server/test_env_parser.py
+  s_25adfe404b8f10::t_a191f8988bbe5a 76-96,249-259,373-374,377
+tests/agent_server/test_event_router.py
+  s_25adfe404b8f10::t_b19b71c9a91bd5 3,6,15-16,25-26,28,30,76-77,92-93,98-244,970-1009
+tests/agent_server/test_event_router_websocket.py
+  s_25adfe404b8f10::t_1caf7c4496fa3d 188-200,214-216,218,220-226,249-252,256-260,263,287-289,291,293-299,314-317,323-327,341-343,345,347-354,380-382,384,386-393,421-423,425,427-435,449-452,461-462,491-493,495,497-505,538-541,549-550,570-572,574,576-583,595-598,623-624,632-678
+tests/agent_server/test_event_service.py
+  s_25adfe404b8f10::t_464fef1ca093ae 3,5,9-10,20,22,25-33,43-44,53,59,71,73,75,77-78,95-105,136-155,264,323-347,747,792-797,814-833,838,881,947-968,1154-1271,1434-1481,1509-1515,1523-1576,1585,1635,1760,1801,2024-2055,2061,2099-2125,2201-2240,2268-2282,2322-2383,2431-2438,2452,2487,2565,2666,2837-2941,3732-3733,3992-3994,4008-4043,4048-4049,4058-4059,4066-4091,4152-4320
+tests/agent_server/test_event_socket_races.py
+  s_25adfe404b8f10::t_c3db714c7ddf5e 1-344
+tests/agent_server/test_event_streaming.py
+  s_25adfe404b8f10::t_f9b065098b4026 19,351,370-413
+tests/agent_server/test_experimental_features_router.py
+  s_25adfe404b8f10::t_42488da7f8b728 1-340
+tests/agent_server/test_file_router.py
+  s_25adfe404b8f10::t_35618541a42e78 7,11,17,22-23,29-31,66,99-125,329,347,381-393,404,429-453,514,540-1098,1226-1264,1702-1725,1735,1799-1832,2464-2480
+tests/agent_server/test_git_provider_service.py
+  s_25adfe404b8f10::t_49493a9ba3e4de 1-605
+tests/agent_server/test_git_router.py
+  s_25adfe404b8f10::t_310ad1ac48561f 5,8,13-14,22-23,25,35-147,306-333,714-815
+tests/agent_server/test_goal_loop.py
+  s_25adfe404b8f10::t_932051ec148a38 8,20,22-23,25,27,29-30,71-105,331-332,372-450,630-906
+tests/agent_server/test_hooks_router.py
+  s_25adfe404b8f10::t_80c0fa92b3f95e 136-193
+tests/agent_server/test_hooks_service.py
+  s_25adfe404b8f10::t_f6eb8f1d655d9b 7,10-11,35,44,49,61,73,104,139,145-262
+tests/agent_server/test_init_router.py
+  s_25adfe404b8f10::t_cde8e27b683c4f 8,10-12,14-16,19,21,25-26,30,32,34-40,59-66,69-86,88-92,137-149,161-169,193-194,207-216,218,230-231,240,242,266-267,281-282,286,295-296,306,321-322,330-331,333-385,391,399-587,589-605,607-691,704-715,717-722,733-757,759-761,771-832,834-886,900-905,919-922,931-933,935-1022
+tests/agent_server/test_launch_architecture.py
+  s_25adfe404b8f10::t_ba45da34d55cbe 1-116
+tests/agent_server/test_launch_parity.py
+  s_25adfe404b8f10::t_ae702eef3557dc 1-395
+tests/agent_server/test_llm_router.py
+  s_25adfe404b8f10::t_f4db9393495669 3-4,10,16,61-91,106,170-181,224-249,280-349,456,460
+tests/agent_server/test_local_secret_resolver.py
+  s_25adfe404b8f10::t_0f1155c027810d 1-85
+tests/agent_server/test_local_storage.py
+  s_25adfe404b8f10::t_6f165dc4caaa5c 1-189
+tests/agent_server/test_logging_live_server.py
+  s_25adfe404b8f10::t_0582d23c36e27a 1-174
+tests/agent_server/test_managed_llm_key.py
+  s_25adfe404b8f10::t_dc50342f12ffbf 1-319
+tests/agent_server/test_managed_llm_key_http.py
+  s_25adfe404b8f10::t_191b6620bc1d1b 1-226
+tests/agent_server/test_mcp_oauth_redirect.py
+  s_25adfe404b8f10::t_be31b9a651a0b5 1-400
+tests/agent_server/test_mcp_oauth_store.py
+  s_25adfe404b8f10::t_84f7055c3bd306 7,9,15,18,20,23,30,32,34-46,69,90,95,99-102,110-116,122-127,129-130,134-136,143-159,161,163-164,166-196,198-201,205-207,211-237,249-250,254-269,271,273-294,296-330,332,339-353,355-356,358-362,364-367,377,389-911
+tests/agent_server/test_mcp_router.py
+  s_25adfe404b8f10::t_55c3c239bc2169 6,8,12,14,23-24,26,33-38,311,336,349-904,1108,1113-1114,1145,1168,1181,1198-1200,1227-1228,1273-1311,1314,1327-1328,1330-1334,1337-1338,1341,1343-1344,1357-1416,1463-1496
+tests/agent_server/test_meta_profiles_router.py
+  s_25adfe404b8f10::t_c11791800b361b 1-414
+tests/agent_server/test_openai_gateway_docker.py
+  s_25adfe404b8f10::t_3245e9442c7300 1-754
+tests/agent_server/test_openai_gateway_launch.py
+  s_25adfe404b8f10::t_b0dacedfc06a57 1-129
+tests/agent_server/test_openai_gateway_mixed_events.py
+  s_25adfe404b8f10::t_98ad198e804c42 1-325
+tests/agent_server/test_openai_gateway_reused_wait.py
+  s_25adfe404b8f10::t_1935ddd54216fa 1-135
+tests/agent_server/test_openapi_contract.py
+  s_25adfe404b8f10::t_3551af009af3b7 202-247,279-286
+tests/agent_server/test_openapi_discriminator.py
+  s_25adfe404b8f10::t_1725d67e761c68 32-45,191-203
+tests/agent_server/test_parent_child_conversations.py
+  s_25adfe404b8f10::t_c47bd2d2998c77 3,5-7,14-16,18-22,25-53,57-62,258,274-1208
+tests/agent_server/test_persisted_settings_migration.py
+  s_25adfe404b8f10::t_bd97b580fbf794 1-14
+tests/agent_server/test_persistence_secret_detection.py
+  s_25adfe404b8f10::t_1c9e365c65bcaa 7,21,148-155
+tests/agent_server/test_plugins_router.py
+  s_25adfe404b8f10::t_3b6fc7e73b944f 8-9,11,17,19,41,95-110,131-177,253-352
+tests/agent_server/test_plugins_service.py
+  s_25adfe404b8f10::t_dd1c4f2d948f6a 15,282,304-305
+tests/agent_server/test_preload_modules.py
+  s_25adfe404b8f10::t_7c91149de4fd3c 484-535
+tests/agent_server/test_profile_cipher_mismatch.py
+  s_25adfe404b8f10::t_8c1cfb95f8126f 1-171
+tests/agent_server/test_profile_resume_secret_scope.py
+  s_25adfe404b8f10::t_a29e2a0cd3f6d7 1-113
+tests/agent_server/test_profile_store_lock_responsiveness.py
+  s_25adfe404b8f10::t_cf0cf9258b2115 1-150
+tests/agent_server/test_profile_store_persistence_dir.py
+  s_25adfe404b8f10::t_353906b457583a 8,11,15-19,23,31,39,45,51,58,73,75,77,93-95,108-143
+tests/agent_server/test_profiles_router.py
+  s_25adfe404b8f10::t_9d61eeb9feab87 3-5,15-17,19-22,24,28-33,37-41,45-49,53-54,56-59,62,117-157,243,246-251,278-282,367-384,886,889,898,902,911,914,987,990,1002,1006,1015,1019,1099,1136-1180,1453-1472,1688-1750,1900-1926,1932,2082-2273,2340-2504
+tests/agent_server/test_project_board.py
+  s_25adfe404b8f10::t_af600847845f89 1-1409
+tests/agent_server/test_project_cards.py
+  s_25adfe404b8f10::t_f59f024dd62688 1-640
+tests/agent_server/test_project_profiles.py
+  s_25adfe404b8f10::t_b74273e873cbb2 1-120
+tests/agent_server/test_project_prompts.py
+  s_25adfe404b8f10::t_64ec5997690971 1-106
+tests/agent_server/test_projects_feature_flag.py
+  s_25adfe404b8f10::t_ee92b1db11dffd 1-3,10-35,37-40,42-70,74-76,78-79,81-82,84,86-90,92-108
+tests/agent_server/test_projects_router.py
+  s_25adfe404b8f10::t_4e0558c3fb7bfa 1-1884
+tests/agent_server/test_pub_sub.py
+  s_25adfe404b8f10::t_f7946ad51b439e 905-931
+tests/agent_server/test_public_extension_policy.py
+  s_25adfe404b8f10::t_a9bf85f6f04522 1-241
+tests/agent_server/test_reactions_router.py
+  s_25adfe404b8f10::t_17e6ce9272f269 1-183
+tests/agent_server/test_rearm_stop_wins.py
+  s_25adfe404b8f10::t_88a18374a754a3 1-100
+tests/agent_server/test_resolution_eval.py
+  s_25adfe404b8f10::t_963a68af3c61ae 1-202
+tests/agent_server/test_resolution_judge.py
+  s_25adfe404b8f10::t_7e2fdfc16a27de 1-66
+tests/agent_server/test_run_admission.py
+  s_25adfe404b8f10::t_06c5f0a005e655 1-451
+tests/agent_server/test_runtime_router.py
+  s_25adfe404b8f10::t_19891a483c9789 1-275
+tests/agent_server/test_search_limit_validation.py
+  s_25adfe404b8f10::t_73d2a291b31344 1-89
+tests/agent_server/test_server_context.py
+  s_25adfe404b8f10::t_f0edf0273649ac 1-486
+tests/agent_server/test_server_details_router.py
+  s_25adfe404b8f10::t_8d67ea8d301f97 7,76-111,116-119,123-168,184-195
+tests/agent_server/test_session_socket.py
+  s_25adfe404b8f10::t_3382ba967f19ba 1-678
+tests/agent_server/test_settings_router.py
+  s_25adfe404b8f10::t_00acaed6ccf321 4,9,19,22,24-25,33-34,128,264-270,311,314,351,360-361,372,397,419,442,592,644-646,685-689,691,718-720,742,763-814,817-822,852-854,879-930,1201-1233,1268-1269,1518,1583,1607,1615,1648-1658,1711-1869,1972-2098,2228-2235,2252-2274,2347
+tests/agent_server/test_skills_router.py
+  s_25adfe404b8f10::t_15c301d981f4b0 3,405-432,831-915
+tests/agent_server/test_skills_service.py
+  s_25adfe404b8f10::t_6d97e66fa8d482 16,436-457,792-805,901-948,1090-1225
+tests/agent_server/test_sockets_service_getters.py
+  s_25adfe404b8f10::t_687fcddac4addd 1-6,14,20-25,27-30,32-48,51-52,54-55,69,72-75,78-84,87-92,95,98-101,104-109,112-117,120-125,128,132-133,143-144,152-158,166-167,174-175,183-188,192-238
+tests/agent_server/test_store_cipher_mismatch.py
+  s_25adfe404b8f10::t_58c9373c943352 1-306
+tests/agent_server/test_sub_agents_router.py
+  s_25adfe404b8f10::t_293cf195b4837f 135-151
+tests/agent_server/test_switch_llm_survives_reload.py
+  s_25adfe404b8f10::t_f60f2bb618a1a8 175-207
+tests/agent_server/test_tool_preload_service.py
+  s_25adfe404b8f10::t_340529f22d4c16 1-26
+tests/agent_server/test_tool_router.py
+  s_25adfe404b8f10::t_22432b8b17268b 5-6,11,32-158
+tests/agent_server/test_trace_shutdown.py
+  s_25adfe404b8f10::t_6986e325b243d3 1-75
+tests/agent_server/test_unhandled_exception_error_id.py
+  s_25adfe404b8f10::t_f4cfe7bcf34d03 13-14,67-83
+tests/agent_server/test_utils.py
+  s_25adfe404b8f10::t_736596ed18187f 1-63
+tests/agent_server/test_vscode_router.py
+  s_25adfe404b8f10::t_f625569123e560 3-4,7,12-14,19-20,24-30,36,38,48-50,70,79,81-82,84,93,104,114-115,117,121,123-127,129-133,135-137,139-143,146,148-162,168-169,171-172,178,180-184,187,189-214,216-229,231-234
+tests/agent_server/test_vscode_service.py
+  s_25adfe404b8f10::t_5968ab83b4d9b9 4-8,12,15,36,140-142,145-149,151,156-173,177,182-183,185-188,192-210,217-271,278-302,306,320-352,357,371,389,391,394,400,414,456-457,461,468-469,474-505,515-516,519,524-527,537-538,541,546,556,584-585,588,591-598,600,602-605,608-610,613-620,622-625
+tests/agent_server/test_webhook_subscriber.py
+  s_25adfe404b8f10::t_6f99dd774084e3 846-977
+tests/agent_server/test_websocket_first_message_auth.py
+  s_25adfe404b8f10::t_386b9068d0b5e4 36-39,52-55,65-68,82-85,99-102,111-114,129-132,145-148,161-164,173-187,190-204,211-214,224-227,241-243,245-247,273-275,277-279,314-325,345-348,396-403,429-436,470-477
+tests/agent_server/test_workspace_cookie_auth.py
+  s_25adfe404b8f10::t_d6103e7cccd169 33-35,51,53-54,160-161,182-203,205-212,225-226,231-255,285-319
+tests/agent_server/test_workspace_router.py
+  s_25adfe404b8f10::t_e3ddfbf6a62376 11,32,49-50,211,233-256
+tests/agent_server/test_workspaces_router.py
+  s_25adfe404b8f10::t_7334cad589bcfd 143-144,148-151,359-415
+tests/conftest.py
+  s_25adfe404b8f10::t_a3dbb1de94f62b 3-4,10,12,18-23,34-56,157-186
+tests/cross/conftest.py
+  s_25adfe404b8f10::t_f4b28fb1dfec27 4-8,11,13-30,61-213
+tests/cross/test_agent_secrets_integration.py
+  s_25adfe404b8f10::t_02776e63cb6c7f 28-62
+tests/cross/test_agent_server_build_metadata.py
+  s_25adfe404b8f10::t_abdb6ffb750999 1,3,5-7,32-35,125-275,297-373,405,408,412-416,419-421,426-429,433-454
+tests/cross/test_check_agent_server_rest_api_breakage.py
+  s_25adfe404b8f10::t_253f5551ce35d3 8,1191-1336
+tests/cross/test_check_async_store_access.py
+  s_25adfe404b8f10::t_7598662ea09d1d 1-143
+tests/cross/test_check_dependency_diff.py
+  s_25adfe404b8f10::t_793134decba9b3 15-16,41-69
+tests/cross/test_check_execution_status_writes.py
+  s_25adfe404b8f10::t_1bfc378db2eb73 1-2,5-8,11-14,17-23,27,29-32,34,36-39,41-43,46-48,52-59
+tests/cross/test_check_forbidden_dynamic_attributes.py
+  s_25adfe404b8f10::t_bee8ca25d04ff5 1-218
+tests/cross/test_check_persisted_settings_compat.py
+  s_25adfe404b8f10::t_21f8ea547d3ffe 140-141,143,427-431,436
+tests/cross/test_check_pr_description.py
+  s_25adfe404b8f10::t_fd3314b889e208 8,10-14,23-26,29,114-151,184-200,219-237,241
+tests/cross/test_check_sdk_api_breakage.py
+  s_25adfe404b8f10::t_65c202cb62acf8 17,370-386,587-707
+tests/cross/test_check_secret_fields.py
+  s_25adfe404b8f10::t_dda64c56e7cfce 1-79
+tests/cross/test_check_version_bumps.py
+  s_25adfe404b8f10::t_497e48602a0f8c 145-166
+tests/cross/test_control_sdk.py
+  s_25adfe404b8f10::t_07cbe14dca842c 1-183
+tests/cross/test_conversation_lease_behavior.py
+  s_25adfe404b8f10::t_c0a922d203408c 16,26,238-241,252-267
+tests/cross/test_conversation_parity.py
+  s_25adfe404b8f10::t_f003d45cad081a 1-769
+tests/cross/test_default_tool_names.py
+  s_25adfe404b8f10::t_18ec3d3426ce9a 62-79
+tests/cross/test_event_loss_repro.py
+  s_25adfe404b8f10::t_ac230aff83134b 54,56-57
+tests/cross/test_integration_runner_workflow.py
+  s_25adfe404b8f10::t_3cdf549b3eeced 1-44
+tests/cross/test_issue_duplicate_scripts.py
+  s_25adfe404b8f10::t_1b9516a2cd92c9 513-515,520-522,586-587,859-862,923-924,995-996,1096-1097,1109-1117,1120,1123-1130,1134,1984-2001,2075-2091,2093-2097
+tests/cross/test_no_http_exception_outside_api.py
+  s_25adfe404b8f10::t_71f8f3cd17a2f8 1-56
+tests/cross/test_package_data.py
+  s_25adfe404b8f10::t_bb38f2a1444071 1-107
+tests/cross/test_persistence_dir_call_sites.py
+  s_25adfe404b8f10::t_7bef028ca83950 1-422
+tests/cross/test_refresh_linked_pr_checks.py
+  s_25adfe404b8f10::t_8591b90363b869 21-23,92-111,130
+tests/cross/test_remote_conversation_live_server.py
+  s_25adfe404b8f10::t_700d8f691625de 7-8,10,12,16,18-19,21-22,26-27,29-30,32-33,35-37,39-41,53,56-59,61-64,74-77,79-83,86-91,94-106,108-111,113-155,158-165,167-170,173-206,208-210,212-217,219-268,270-298,300-315,317-328,331-336,339-358,360-410,412-425,427,430-439,441-444,446-470,472-550,578-669,691,694-695,704-705,747-809,907,952-953,999-1004,1029,1069,1109-1122,1231-1293,1301-1303,1311-1430,1432-1482,1484-1520,1522-1684,1687-1777,1779-1782,1784-1796,1798-1799,1801-1869,1871-1872,1874,1876-1918,1920-1930,1954-1956,1980-2007,2009-2011,2063-2084,2282-2375,2910-2912,2914-2919,3134-3136,3138-3142,3277-3285,3449-3508,3609-3632,3801-4194
+tests/cross/test_remove_pr_artifacts.py
+  s_25adfe404b8f10::t_142ca30dcd643c 1-256
+tests/cross/test_resolve_typescript_client_agent_server.py
+  s_25adfe404b8f10::t_ff840fe44ba36d 1-2,6,8,11-12,16-19,31-40,43-44,47-50,52-54,56-57,59-63,65-66,69-72,74-82,85-86,88,91-93,95,97-99,102-105,107,110-113,115-116,119-122,125-126
+tests/cross/test_secret_masking_id_field_guard.py
+  s_25adfe404b8f10::t_403a3cff92aaec 1-126
+tests/cross/test_secret_masking_tool_payloads.py
+  s_25adfe404b8f10::t_758535b907d2dc 1-24
+tests/cross/test_server_workflow_binary_smoke.py
+  s_25adfe404b8f10::t_8952a813f1f797 1-86
+tests/cross/test_todo_scanner.py
+  s_25adfe404b8f10::t_1032f5b55fa22f 7-8,49-54,58-64,70-76,79-86,95
+tests/cross/test_update_code_server_pin.py
+  s_25adfe404b8f10::t_273f6a892d8d74 1-106
+tests/cross/test_update_debian_snapshot.py
+  s_25adfe404b8f10::t_a5165019a264c8 1-73
+tests/cross/test_update_npm_pin.py
+  s_25adfe404b8f10::t_b30f1aad490eec 1-69
+tests/cross/test_update_version_pins_workflow.py
+  s_25adfe404b8f10::t_22ec7cc02107a9 1-39
+tests/cross/test_validate_sdk_ref.py
+  s_25adfe404b8f10::t_95911c2b0eb8fb 9-10,29-31,37-43,46-48,51,53-59,71-77,81-85
+tests/cross/test_validation_loops.py
+  s_25adfe404b8f10::t_611eec8c0a1cd1 1-498
+tests/cross/test_verify_agent_server_skill.py
+  s_25adfe404b8f10::t_e61b0c6af931f2 1-1254
+tests/cross/test_verify_sdk_skill.py
+  s_25adfe404b8f10::t_c638c6a18ff21b 1-448
+tests/examples/test_examples.py
+  s_25adfe404b8f10::t_2f83f4a3b4d1f0 12,61-64,67-68,147-187
+tests/fixtures/plugins/agent_plugins/README.md
+  s_25adfe404b8f10::t_513c89c550d7dc 1-41
+tests/fixtures/plugins/agent_plugins/agent-plugins-example/LICENSE
+  s_25adfe404b8f10::t_80ff2aab1bbe61 1-21
+tests/fixtures/plugins/agent_plugins/agent-plugins-example/README.md
+  s_25adfe404b8f10::t_135e5bfe56c29a 1-87
+tests/fixtures/plugins/agent_plugins/agent-plugins-example/plugin.json
+  s_25adfe404b8f10::t_ed65bc4ed8636a 1-8
+tests/fixtures/plugins/agent_plugins/agent-plugins-example/skills/migrate-agent-plugin/SKILL.md
+  s_25adfe404b8f10::t_aa76a38856d183 1-68
+tests/fixtures/plugins/agent_plugins/agent-plugins-example/skills/migrate-agent-plugin/references/client-extensions.md
+  s_25adfe404b8f10::t_d7005abb1636f7 1-76
+tests/fixtures/plugins/agent_plugins/agent-plugins-example/skills/migrate-agent-plugin/references/migration-guide.md
+  s_25adfe404b8f10::t_f1b111f370078d 1-114
+tests/fixtures/plugins/agent_plugins/agent-plugins-example/skills/migrate-agent-plugin/references/validation-checklist.md
+  s_25adfe404b8f10::t_c5e0ea97c8c11e 1-49
+tests/fixtures/plugins/agent_plugins/fatal-manifest/mcp.json
+  s_25adfe404b8f10::t_a5e1f828173962 1-4
+tests/fixtures/plugins/agent_plugins/fatal-manifest/plugin.json
+  s_25adfe404b8f10::t_a599d2baf391fd 1-6
+tests/fixtures/plugins/agent_plugins/fatal-manifest/skills/never/SKILL.md
+  s_25adfe404b8f10::t_cb6dbafe31425f 1-8
+tests/fixtures/plugins/agent_plugins/full-package/bin/serve.sh
+  s_25adfe404b8f10::t_e6a60d9fb079a9 1-4
+tests/fixtures/plugins/agent_plugins/full-package/dev.openhands/agents/helper.md
+  s_25adfe404b8f10::t_356290fed71125 1-6
+tests/fixtures/plugins/agent_plugins/full-package/dev.openhands/commands/report.md
+  s_25adfe404b8f10::t_12f5e66699f71c 1-5
+tests/fixtures/plugins/agent_plugins/full-package/dev.openhands/hooks/hooks.json
+  s_25adfe404b8f10::t_bf9bd6829e043a 1-10
+tests/fixtures/plugins/agent_plugins/full-package/mcp.json
+  s_25adfe404b8f10::t_f632679364444f 1-30
+tests/fixtures/plugins/agent_plugins/full-package/plugin.json
+  s_25adfe404b8f10::t_36a64a5cd90fbb 1-14
+tests/fixtures/plugins/agent_plugins/full-package/skills/greet/SKILL.md
+  s_25adfe404b8f10::t_fbd461944d5dc7 1-8
+tests/fixtures/plugins/agent_plugins/full-package/skills/summarize/SKILL.md
+  s_25adfe404b8f10::t_293baf57145f8a 1-8
+tests/fixtures/plugins/agent_plugins/manifest-only/plugin.json
+  s_25adfe404b8f10::t_46171134eae779 1-6
+tests/fixtures/plugins/agent_plugins/mcp-version-mismatch/mcp.json
+  s_25adfe404b8f10::t_4636efe63ecf69 1-4
+tests/fixtures/plugins/agent_plugins/mcp-version-mismatch/plugin.json
+  s_25adfe404b8f10::t_6a6fb18d7aaf8a 1-6
+tests/fixtures/plugins/agent_plugins/mcp-version-mismatch/skills/still-here/SKILL.md
+  s_25adfe404b8f10::t_ca6be59a0c8afa 1-8
+tests/fixtures/plugins/agent_plugins/non-fatal-manifest/plugin.json
+  s_25adfe404b8f10::t_3cef1d813e0195 1-8
+tests/fixtures/plugins/agent_plugins/non-fatal-manifest/skills/ok/SKILL.md
+  s_25adfe404b8f10::t_a398f1d1b30d12 1-8
+tests/fixtures/plugins/agent_plugins/partial-failures/dev.openhands/agents/broken.md
+  s_25adfe404b8f10::t_ad677d4cf34735 1-6
+tests/fixtures/plugins/agent_plugins/partial-failures/dev.openhands/agents/ok.md
+  s_25adfe404b8f10::t_4a820b7858b0b5 1-6
+tests/fixtures/plugins/agent_plugins/partial-failures/mcp.json
+  s_25adfe404b8f10::t_e323df7c6ad0d9 1-30
+tests/fixtures/plugins/agent_plugins/partial-failures/plugin.json
+  s_25adfe404b8f10::t_9f146ac0924ef0 1-7
+tests/fixtures/plugins/agent_plugins/partial-failures/skills/broken/SKILL.md
+  s_25adfe404b8f10::t_234d5d4219319e 1-8
+tests/fixtures/plugins/agent_plugins/partial-failures/skills/good/SKILL.md
+  s_25adfe404b8f10::t_84997a3fe0438e 1-8
+tests/fixtures/plugins/agent_plugins/unsupported-schema/plugin.json
+  s_25adfe404b8f10::t_43170d7eeec812 1-6
+tests/fixtures/plugins/agent_plugins/unsupported-schema/skills/never/SKILL.md
+  s_25adfe404b8f10::t_281a4764ff2fe5 1-8
+tests/fixtures/plugins/agent_plugins/wrong-locations/.mcp.json
+  s_25adfe404b8f10::t_6d88ee99ebde15 1
+tests/fixtures/plugins/agent_plugins/wrong-locations/agents/nope.md
+  s_25adfe404b8f10::t_d5508e947ab845 1-6
+tests/fixtures/plugins/agent_plugins/wrong-locations/commands/nope.md
+  s_25adfe404b8f10::t_ef666069ab47b2 1-5
+tests/fixtures/plugins/agent_plugins/wrong-locations/hooks/hooks.json
+  s_25adfe404b8f10::t_ca400133d3e0b1 1-7
+tests/fixtures/plugins/agent_plugins/wrong-locations/lsp/config.json
+  s_25adfe404b8f10::t_3609ab0cda2167 1
+tests/fixtures/plugins/agent_plugins/wrong-locations/plugin.json
+  s_25adfe404b8f10::t_001e3fdf67fe2a 1-6
+tests/fixtures/plugins/agent_plugins/wrong-locations/skills/only/SKILL.md
+  s_25adfe404b8f10::t_6f7e49923c641a 1-8
+tests/integration/BEHAVIOR_TESTS.md
+  s_25adfe404b8f10::t_09113586471a6d 115
+tests/integration/README.md
+  s_25adfe404b8f10::t_b32d637d28a06e 53,56,59,74,131-132
+tests/integration/api_compliance/run_compliance.py
+  s_25adfe404b8f10::t_a1e27ae17e80a3 10,13,17,21
+tests/integration/schemas.py
+  s_25adfe404b8f10::t_04d5618f13b37d 11-13,56
+tests/integration/tests/c02_hard_context_reset.py
+  s_25adfe404b8f10::t_84c80afa62c64a 6-11,17-33,40-44,47,52-55,71-81,96-97,99-104,106-110,113-114,118-124,126-127,129,132,134-139,141,143,146,149,156-178,181-192,195-222,232-236,238-261,265,270-273
+tests/integration/tests/c04_token_condenser.py
+  s_25adfe404b8f10::t_ac152408992e52 17,19,21-22,24-27,60-67,72-75,93-94,97-101,107-110
+tests/integration/tests/t02_add_bash_hello.py
+  s_25adfe404b8f10::t_07e4abb0fa57da 9
+tests/integration/tests/t10_agent_plugins_skill.py
+  s_25adfe404b8f10::t_e5768e53db98a5 1-248
+tests/integration/utils/generate_markdown_report.py
+  s_25adfe404b8f10::t_12d4e1f9c70f0c 164-182,188
+tests/integration/utils/test_generate_markdown_report.py
+  s_25adfe404b8f10::t_314573d8819478 4-8,11-12,21-22,34-39,47-50,64-116
+tests/sdk/agent/fake_acp_models_server.py
+  s_25adfe404b8f10::t_73b41cb3a3ae5d 1-120
+tests/sdk/agent/test_acp_agent.py
+  s_25adfe404b8f10::t_c4a4045b3d111c 44-45,47,51,64-68,86-90,180,183-184,198-215,217-220,231-260,273,281,300,2243-2249,2253-2314,2832-2835,3259-3272,3442-3443,3445,3565,3569,3578,3585,4949-5008,5375,5411,5426,5454-5461,5465-5486,5488,5511,5531-5555,5577-5595,5605,5619,5629,5643,5662,5685,5699,5719,5729,5745,5772,5789,5804,5919,5930-5952,6519,6593-6630,7688,7845,8078,8206-8239,8668-8674,8679-8690,8944-9055,9197-9202,9212,9258,9369-9505,9756-9920,10009,10031-10034,10037-10038,10078-10104,10420-10554
+tests/sdk/agent/test_acp_conformance.py
+  s_25adfe404b8f10::t_cbb8cf941d9870 1-294
+tests/sdk/agent/test_acp_contracts.py
+  s_25adfe404b8f10::t_214e938df1a93e 1-343
+tests/sdk/agent/test_acp_file_credentials.py
+  s_25adfe404b8f10::t_0dec250a622eed 445-518
+tests/sdk/agent/test_acp_message_order.py
+  s_25adfe404b8f10::t_0f37c2b366c89a 1-221
+tests/sdk/agent/test_acp_model_discovery.py
+  s_25adfe404b8f10::t_bc47f6b6f7c70c 1-236
+tests/sdk/agent/test_agent_serialization.py
+  s_25adfe404b8f10::t_43a5373c931dbd 40,435,437
+tests/sdk/agent/test_agent_step_responses_gating.py
+  s_25adfe404b8f10::t_c680b543599989 16,29,44,82-89
+tests/sdk/agent/test_agent_tool_init.py
+  s_25adfe404b8f10::t_8ffaaed635d4c6 73
+tests/sdk/agent/test_agent_utils.py
+  s_25adfe404b8f10::t_a5876710a65c09 1,7,11,203-204,206,208-213,215,217-220,223-224,226,229,231-233
+tests/sdk/agent/test_astep_releases_state_lock.py
+  s_25adfe404b8f10::t_2b787ed3b78b00 12,14,22-24,26,116-161
+tests/sdk/agent/test_async_secret_masking.py
+  s_25adfe404b8f10::t_4ca4f4d141e712 1-291
+tests/sdk/agent/test_build_prompt_context.py
+  s_25adfe404b8f10::t_992fbfad74b7f9 7-8,49,52-68
+tests/sdk/agent/test_extract_summary.py
+  s_25adfe404b8f10::t_46b843603cb668 58,130
+tests/sdk/agent/test_fix_malformed_tool_arguments.py
+  s_25adfe404b8f10::t_b121fec2f6376c 60-66,393-400
+tests/sdk/agent/test_message_during_streaming_arun.py
+  s_25adfe404b8f10::t_62cc74626e4ce5 1-491
+tests/sdk/agent/test_non_multimodal_image_input.py
+  s_25adfe404b8f10::t_9ebe62c5b9f9b9 19,255-327,351-456
+tests/sdk/agent/test_nonexistent_tool_handling.py
+  s_25adfe404b8f10::t_069684fb722798 184
+tests/sdk/agent/test_parallel_executor.py
+  s_25adfe404b8f10::t_8bc6d7c0bbd6d8 3,6,243-263
+tests/sdk/agent/test_response_dispatch.py
+  s_25adfe404b8f10::t_879851c12097a5 3-5,8-14,304-410,620-709
+tests/sdk/agent/test_security_analysis_event.py
+  s_25adfe404b8f10::t_8b1aacf1aca870 1-346
+tests/sdk/agent/test_security_policy_integration.py
+  s_25adfe404b8f10::t_d9b75ca64b062e 308-311
+tests/sdk/agent/test_stream_context.py
+  s_25adfe404b8f10::t_7c38e0016dd749 1-292
+tests/sdk/agent/test_stream_identity.py
+  s_25adfe404b8f10::t_590bad2ea55bfd 1-323
+tests/sdk/agent/test_tool_call_compatibility.py
+  s_25adfe404b8f10::t_443f0966210f4c 25,748-757
+tests/sdk/agent/test_tool_call_recovery.py
+  s_25adfe404b8f10::t_1e61328090e0d5 8-14,276-289,292-293,296-299,308,312-320
+tests/sdk/agent/test_tool_prompt_guidance.py
+  s_25adfe404b8f10::t_aff085a9fea7a6 1-117
+tests/sdk/agent/test_tool_span_tool_call_id_metadata.py
+  s_25adfe404b8f10::t_968adeb9bf031b 117
+tests/sdk/context/condenser/test_llm_summarizing_condenser.py
+  s_25adfe404b8f10::t_9cf9e61408e952 11,22,24,60,63,82,97,102-103,159,188,229,233-238,244,264,279,301,305,353,605,664,816,908,922,942-943,952,1060-1183
+tests/sdk/context/condenser/test_no_op_condenser.py
+  s_25adfe404b8f10::t_5bbe89718950e7 51-57
+tests/sdk/context/prompts/snapshots/anthropic__secana-off__cli-on.txt
+  s_25adfe404b8f10::t_04abe10b8b5e21 130,148-150
+tests/sdk/context/prompts/snapshots/anthropic__secana-on__cli-off.txt
+  s_25adfe404b8f10::t_ada3c0daa0cecd 157,175-177
+tests/sdk/context/prompts/snapshots/anthropic__secana-on__cli-on.txt
+  s_25adfe404b8f10::t_fd2a8603fda65d 157,175-177
+tests/sdk/context/prompts/snapshots/anthropic__secana-on__cli-on__win32.txt
+  s_25adfe404b8f10::t_0b9faa65d90e84 157,175-177
+tests/sdk/context/prompts/snapshots/gemini__secana-off__cli-on.txt
+  s_25adfe404b8f10::t_788bec3e71c3a5 130,148-150
+tests/sdk/context/prompts/snapshots/gemini__secana-on__cli-off.txt
+  s_25adfe404b8f10::t_82840d288624d7 157,175-177
+tests/sdk/context/prompts/snapshots/gemini__secana-on__cli-on.txt
+  s_25adfe404b8f10::t_cfb99a27d2eba2 157,175-177
+tests/sdk/context/prompts/snapshots/openai__secana-off__cli-on.txt
+  s_25adfe404b8f10::t_ea05bebb898bbc 130,148-150
+tests/sdk/context/prompts/snapshots/openai__secana-on__cli-off.txt
+  s_25adfe404b8f10::t_aeecd5865cb729 157,175-177
+tests/sdk/context/prompts/snapshots/openai__secana-on__cli-on.txt
+  s_25adfe404b8f10::t_dff470e7b14fbb 157,175-177
+tests/sdk/context/prompts/snapshots/other__secana-off__cli-on.txt
+  s_25adfe404b8f10::t_412b1865380fdf 130,148-150
+tests/sdk/context/prompts/snapshots/other__secana-on__cli-off.txt
+  s_25adfe404b8f10::t_92ed3a840604e1 157,175-177
+tests/sdk/context/prompts/snapshots/other__secana-on__cli-on.txt
+  s_25adfe404b8f10::t_1602963edf7257 157,175-177
+tests/sdk/context/prompts/snapshots/project_coordinator__anthropic.txt
+  s_25adfe404b8f10::t_18990df06a0292 1-151
+tests/sdk/context/prompts/snapshots/project_worker__anthropic.txt
+  s_25adfe404b8f10::t_605396c3f4727d 6-9,18,54-55,59,74-75,80,83-97,128-130,163,180-183,198
+tests/sdk/context/prompts/snapshots/soul__custom.txt
+  s_25adfe404b8f10::t_c34b69366fa1c1 157,175-177
+tests/sdk/context/prompts/snapshots/soul__default.txt
+  s_25adfe404b8f10::t_4c3826e0b7c34f 157,175-177
+tests/sdk/context/prompts/test_default_registry.py
+  s_25adfe404b8f10::t_684b72a555a6fc 26,47,157-159,165-169,174-189,303-305,309-310,315-427,432
+tests/sdk/context/prompts/test_persona.py
+  s_25adfe404b8f10::t_cfebc79ecde6bc 1-105
+tests/sdk/context/prompts/test_planning_registry.py
+  s_25adfe404b8f10::t_99c173e5434513 14,97
+tests/sdk/context/prompts/test_project_registry.py
+  s_25adfe404b8f10::t_f0a284760690f0 1-191
+tests/sdk/context/prompts/test_prompt_snapshot.py
+  s_25adfe404b8f10::t_9e4b6613698244 4,91-95
+tests/sdk/context/prompts/test_registry.py
+  s_25adfe404b8f10::t_875cfe6707c57a 105-106,110,113,116-119
+tests/sdk/context/prompts/test_section.py
+  s_25adfe404b8f10::t_24e0016a728c6f 63,65-66
+tests/sdk/context/test_agent_context.py
+  s_25adfe404b8f10::t_13aff39a7da684 839-867
+tests/sdk/context/test_memory.py
+  s_25adfe404b8f10::t_39cea189f0eea2 3,8-9,11,19-20,26,145-278
+tests/sdk/context/test_prompt_model_spec.py
+  s_25adfe404b8f10::t_f54b70beaaa119 30,49
+tests/sdk/context/view/properties/test_tool_call_matching.py
+  s_25adfe404b8f10::t_80f4e13462be6d 9,21-24,437-478
+tests/sdk/context/view/test_observation_disposition.py
+  s_25adfe404b8f10::t_f08fbb8c6c92cf 1-91
+tests/sdk/conversation/goal/test_controller.py
+  s_25adfe404b8f10::t_9ce45a7acb298d 69-82
+tests/sdk/conversation/goal/test_judge.py
+  s_25adfe404b8f10::t_7a69a73723e6ff 3-4,6,99-143
+tests/sdk/conversation/local/test_agent_status_transition.py
+  s_25adfe404b8f10::t_2fda258152c506 395-441,675-718
+tests/sdk/conversation/local/test_auth_error_friendly_message.py
+  s_25adfe404b8f10::t_6c701afe58f6ed 1-118
+tests/sdk/conversation/local/test_call_context_isolation.py
+  s_25adfe404b8f10::t_f1e9a69d7414b5 8-9,11-12,14-15,18,21-23,44-48,51,54-57,59-63,65-74,77-78,80-90,98-103,109-114,122-125,138,151,174-180,186-192,199-200,202-203,205-206,209,212-219,221-231,233-326,330,339,343,349-350,354-355
+tests/sdk/conversation/local/test_client_tools_persistence.py
+  s_25adfe404b8f10::t_bab3332ec788ef 3,7-8,10,12-29,46,112-172
+tests/sdk/conversation/local/test_confirmation_mode.py
+  s_25adfe404b8f10::t_506ab260462095 555-562
+tests/sdk/conversation/local/test_conversation_core.py
+  s_25adfe404b8f10::t_89d9a8aef6179f 316-342
+tests/sdk/conversation/local/test_conversation_id.py
+  s_25adfe404b8f10::t_92809aaeb13f51 82,86
+tests/sdk/conversation/local/test_conversation_pause_functionality.py
+  s_25adfe404b8f10::t_7ae157a2153460 14,17,27-28,30,32,35,135-172,191-197,221,223-225,259,261-263,295,297-307,372,377-394,396
+tests/sdk/conversation/local/test_conversation_send_message.py
+  s_25adfe404b8f10::t_f4716653d9d980 23,1011-1044
+tests/sdk/conversation/local/test_conversation_tree.py
+  s_25adfe404b8f10::t_749a822e1aa38f 224-245,626,628,646
+tests/sdk/conversation/local/test_empty_response_retry.py
+  s_25adfe404b8f10::t_0a73a6c4535cc0 1-128
+tests/sdk/conversation/local/test_execute_tool.py
+  s_25adfe404b8f10::t_92ade7bda49b84 82,89-90
+tests/sdk/conversation/local/test_fork.py
+  s_25adfe404b8f10::t_1b35c97e0a42e4 3,16-19,23,162-168,171-173,181-186,196,244-246,249,251,344,349,351,353-354,359,362,367,369,371-436
+tests/sdk/conversation/local/test_llm_session_isolation.py
+  s_25adfe404b8f10::t_930ad829c2fc09 1-186
+tests/sdk/conversation/local/test_rerun_actions.py
+  s_25adfe404b8f10::t_26c8aa9717be9c 118,122
+tests/sdk/conversation/local/test_resume_damaged_event_file.py
+  s_25adfe404b8f10::t_42657e4bf50885 1-68
+tests/sdk/conversation/local/test_state_serialization.py
+  s_25adfe404b8f10::t_bf6ef4d619c532 6,10,23,340-341,349-360,1350-1393,1484-1633
+tests/sdk/conversation/local/test_status_transition_flows.py
+  s_25adfe404b8f10::t_2dabb26b616b81 1-88
+tests/sdk/conversation/remote/test_remote_conversation.py
+  s_25adfe404b8f10::t_da9f7961dba3c4 13,19,21,24,31,33,35-78,222-509,513-515,520-528,539,551-553,564,579-620,789-816,873-876,881,889-897,908,913-915,2343-2369,2550-2612
+tests/sdk/conversation/remote/test_remote_events_list.py
+  s_25adfe404b8f10::t_12771180a3a52d 12,153-169
+tests/sdk/conversation/remote/test_remote_state.py
+  s_25adfe404b8f10::t_0fc673ab397ad9 16,84,87-107
+tests/sdk/conversation/remote/test_remote_value_errors.py
+  s_25adfe404b8f10::t_e17e006f232d5a 1,3-6,8,11-12,14,17-19,21-29,31-39,42-63,65-66,68-71,74-80,82-85
+tests/sdk/conversation/test_agent_final_response.py
+  s_25adfe404b8f10::t_ad86812579d613 3-4,238-295
+tests/sdk/conversation/test_ask_agent.py
+  s_25adfe404b8f10::t_2d26d6b538eb8c 4,6,247-267,301-407,566-625,631-691
+tests/sdk/conversation/test_base_span_management.py
+  s_25adfe404b8f10::t_b86781db0ad39e 114,116-117,171,175,200,202-203
+tests/sdk/conversation/test_base_state_single_source.py
+  s_25adfe404b8f10::t_804fe633b1e534 11,19,84-112
+tests/sdk/conversation/test_conversation_factory.py
+  s_25adfe404b8f10::t_69cf208c46042e 82,89
+tests/sdk/conversation/test_conversation_mention.py
+  s_25adfe404b8f10::t_d994e935be4752 1-56
+tests/sdk/conversation/test_event_store.py
+  s_25adfe404b8f10::t_fb41a89db29d73 3,8-12,18,20,23,52-79,213-214,216-219,267,270-272,274-284,321,323-325,445-447,452-453,455-457,587-935
+tests/sdk/conversation/test_event_tree.py
+  s_25adfe404b8f10::t_2e3fbe4754ff4e 89-92
+tests/sdk/conversation/test_fifo_lock.py
+  s_25adfe404b8f10::t_3490e1e60817d9 104-120,127,131-142
+tests/sdk/conversation/test_generate_title.py
+  s_25adfe404b8f10::t_7df45994e0611e 3-6,17-21,24-27,82-88,110-125,179-228,375-603
+tests/sdk/conversation/test_local_conversation_agent_plugins.py
+  s_25adfe404b8f10::t_60ba62dccc518d 1-413
+tests/sdk/conversation/test_local_conversation_file_agents.py
+  s_25adfe404b8f10::t_a5e9fed4311eb3 1-66
+tests/sdk/conversation/test_local_conversation_mcp.py
+  s_25adfe404b8f10::t_cf3139a7f87d85 3-8,13,17-18,20-21,24-25,28-43,96-288,295,318,398-870
+tests/sdk/conversation/test_local_conversation_plugins.py
+  s_25adfe404b8f10::t_c37d55bf9c9c2b 5-6,8,18-20,27,29,31,292-329,546-736,1172-1223,1323-1355,1917-1946,2042-2473
+tests/sdk/conversation/test_remote_conversation_state_updates.py
+  s_25adfe404b8f10::t_4904690fe02b6a 10-13,16-17,179,187,192,194-219
+tests/sdk/conversation/test_resolution.py
+  s_25adfe404b8f10::t_5078626a97d00c 1-250
+tests/sdk/conversation/test_secret_registry_id_fields.py
+  s_25adfe404b8f10::t_6aafc1774e9374 1-225
+tests/sdk/conversation/test_secret_registry_model_masking.py
+  s_25adfe404b8f10::t_b11d1313ab744c 3,5,7,11-14,47-53,55,100-123,161-203
+tests/sdk/conversation/test_secret_registry_timestamps.py
+  s_25adfe404b8f10::t_3d0882ef5e1975 1-97
+tests/sdk/conversation/test_secret_source.py
+  s_25adfe404b8f10::t_9bec558ed81567 32-33,52-53,309-425
+tests/sdk/conversation/test_secrets_manager.py
+  s_25adfe404b8f10::t_462cc4769be17c 41-48,387-396,472-520
+tests/sdk/conversation/test_state_damaged_event_log.py
+  s_25adfe404b8f10::t_1e267f8c34c321 1-172
+tests/sdk/conversation/test_state_transition.py
+  s_25adfe404b8f10::t_121779027e5af8 1-121
+tests/sdk/conversation/test_stats_update_event_snapshot.py
+  s_25adfe404b8f10::t_77919e49983805 195-247
+tests/sdk/conversation/test_switch_model.py
+  s_25adfe404b8f10::t_50b630211a03fe 4,22,82,86,112-139,175-193,254-316,439,442,445,448,450,452,491-492,540,853,871-1070
+tests/sdk/conversation/test_tags.py
+  s_25adfe404b8f10::t_6ed9ac6bbd7dd4 30-39,41,56-65
+tests/sdk/conversation/test_utility_llm_span_metadata.py
+  s_25adfe404b8f10::t_f72e86df2e58a8 134-153,157-160,191-196
+tests/sdk/critic/api/test_taxonomy.py
+  s_25adfe404b8f10::t_add80c1b343f48 1-14
+tests/sdk/critic/test_critic_client.py
+  s_25adfe404b8f10::t_51873e4eaef590 43-54
+tests/sdk/event/test_error_classification.py
+  s_25adfe404b8f10::t_997918d1b54819 25-33,110-128
+tests/sdk/event/test_event_serialization.py
+  s_25adfe404b8f10::t_e9e15f2f08b052 4,9,20-21,153-184
+tests/sdk/event/test_resume_transcript.py
+  s_25adfe404b8f10::t_d12684644078b0 22,616-649,672-687,770-877
+tests/sdk/extensions/installation/test_installation_manager.py
+  s_25adfe404b8f10::t_68495b6a919467 2,9,195-235,437-455
+tests/sdk/extensions/installation/test_installation_metadata.py
+  s_25adfe404b8f10::t_b3e58409171f1f 241-273
+tests/sdk/extensions/test_fetch.py
+  s_25adfe404b8f10::t_075e5cd0a3cc07 3,24-44,46,54,56-111,113,116-127,129-143,145,170-172,175-186,239-282,306,308,322,326-1252,1272-1277,1279-1281,1286-1287,1394-1395,1400-1451,1477-1520,1540-1549,1552,1554,1558
+tests/sdk/git/test_cached_repo.py
+  s_25adfe404b8f10::t_51bd1f24fcc77b 12,17-21,24-25,27-29,31-33,35,37-40,43-45,51-52,54,56,63-64,67,69,74-77,80-83,87,95-96,101,107-109,111-112,115-117
+tests/sdk/git/test_git_changes.py
+  s_25adfe404b8f10::t_2041bec53ac887 11-15,196-219,801-922
+tests/sdk/git/test_git_commits.py
+  s_25adfe404b8f10::t_663ba5d511a765 228-256
+tests/sdk/git/test_git_diff.py
+  s_25adfe404b8f10::t_aa3085c7b29b71 87,102-119,122-151,206,404-429
+tests/sdk/git/test_url_redaction.py
+  s_25adfe404b8f10::t_3c4e853eda93f5 25-63,65-66,68-89,91-93,95-109,296-306
+tests/sdk/hooks/test_config.py
+  s_25adfe404b8f10::t_6d3898bdf2d48b 402-406,530-554
+tests/sdk/hooks/test_executor.py
+  s_25adfe404b8f10::t_4f387244f995eb 3,5-6,19,63-92,117-128,145-174,211-239,802-824
+tests/sdk/hooks/test_session_start_context.py
+  s_25adfe404b8f10::t_9c651aec2d663e 1-102
+tests/sdk/io/test_filestore_cache.py
+  s_25adfe404b8f10::t_db9c9989f87126 10-11,151-174,341-359
+tests/sdk/io/test_memory_filestore.py
+  s_25adfe404b8f10::t_fa5d1f2e66cad9 1-28
+tests/sdk/launch/fakes.py
+  s_25adfe404b8f10::t_3c6fc681da9036 1-89
+tests/sdk/launch/test_field_ownership.py
+  s_25adfe404b8f10::t_d52f4c03a27c15 1-315
+tests/sdk/launch/test_finalize.py
+  s_25adfe404b8f10::t_9fae0548ecad37 1-283
+tests/sdk/launch/test_preview.py
+  s_25adfe404b8f10::t_18cea3975c3afd 1-76
+tests/sdk/launch/test_resolve.py
+  s_25adfe404b8f10::t_d980ba8725c956 1-367
+tests/sdk/launch/test_resolve_legacy_parity.py
+  s_25adfe404b8f10::t_2db05dffb1b53e 1-13,22-29,33-38,41,48-128,155-160,174,189-191,194-200,202,204,208-209,212-214,217,220-221,225,227-228,231-233,236-237,243-392,400,416,422,426-427,436-438,457-459,474-476,499-500,515-517,532-533,547,561-564,569,571-573,587,598,608,619-621,630-632,641-642,648,651-652,659-662,669,682-684,697,719,737-738,747-785,791-792,811,815-817,828,830-831,838,849-858,865,870,884-885,888-890,907,918,931,936,948
+tests/sdk/llm/auth/test_openai.py
+  s_25adfe404b8f10::t_087422aa1782bb 16,34,38-64,201,204-205,219,221
+tests/sdk/llm/test_auth_refresh_retry.py
+  s_25adfe404b8f10::t_c02750c35e9622 1-425
+tests/sdk/llm/test_budget_denial_http.py
+  s_25adfe404b8f10::t_bc3140270151cb 1-278
+tests/sdk/llm/test_capability_wire.py
+  s_25adfe404b8f10::t_2cea17944f01f0 1-249
+tests/sdk/llm/test_chat_options.py
+  s_25adfe404b8f10::t_3c031610731ddb 7-8,16,140-156,293-296,368-373,385-411,443-539
+tests/sdk/llm/test_cleanup_profile.py
+  s_25adfe404b8f10::t_a3ac209d949ea5 106
+tests/sdk/llm/test_completion_logging_aliases.py
+  s_25adfe404b8f10::t_60e0012be2bfb0 1-299
+tests/sdk/llm/test_decision.py
+  s_25adfe404b8f10::t_da91d495592c60 1-1211
+tests/sdk/llm/test_exception_classifier.py
+  s_25adfe404b8f10::t_c3dfc04f3d9af3 1,7,13,107-122,158-166,199-247
+tests/sdk/llm/test_exception_mapping.py
+  s_25adfe404b8f10::t_9f640336b5a814 2,11,16,124-177
+tests/sdk/llm/test_image_delivery.py
+  s_25adfe404b8f10::t_4cf4f805c84ab8 1-65
+tests/sdk/llm/test_image_inline.py
+  s_25adfe404b8f10::t_42c9854431c873 378-380,382
+tests/sdk/llm/test_llm.py
+  s_25adfe404b8f10::t_027c72dbfeaea8 1-2,15,49-119,182-200,487,490,512,549,591,725-787,1203,1205,1276-1341,1351-1378,1605-1614,1616-1621,1802,1869-1870,1876,1928,1932-1933,1937,1940-1952,1954-1956,1958-1968,1972-1975,1978,1981-2014,2016-2021,2024-2025,2027-2029,2032-2033,2035-2037,2039-2044,2047-2055,2058-2059,2061-2066,2069-2083,2086-2087,2089-2091,2093-2097,2100-2101,2103-2108,2111-2114,2116-2120,2122,2125-2126,2128-2150
+tests/sdk/llm/test_llm_completion.py
+  s_25adfe404b8f10::t_e3420ed698f3b6 52-66,96,115-116,128-155
+tests/sdk/llm/test_llm_fallback.py
+  s_25adfe404b8f10::t_fd05e5a81e941d 6,19-25,28,130-290,661,665-666,689,714-715,736,738-739,763,782-783,794-809
+tests/sdk/llm/test_llm_fallback_sessions.py
+  s_25adfe404b8f10::t_86307c5b59a76a 1-277
+tests/sdk/llm/test_llm_fncall_converter.py
+  s_25adfe404b8f10::t_59630ebb3e7c2f 10,17,1019-1197
+tests/sdk/llm/test_llm_metrics.py
+  s_25adfe404b8f10::t_05b33c94fe9adc 398-410,645-694
+tests/sdk/llm/test_llm_no_response_retry.py
+  s_25adfe404b8f10::t_4db8c6e9baf0ff 9-17,56-113,183-290,365-388
+tests/sdk/llm/test_llm_profile_store.py
+  s_25adfe404b8f10::t_1c6f6f082bf4b2 157,165,177,188,790-843
+tests/sdk/llm/test_llm_registry.py
+  s_25adfe404b8f10::t_07f2a20fadce79 4,10-13,30-32,34-35,37-40,72,87-89,91-92,94-96,104,116-118,120-127,130-132,134-135,137-138,140-142,146,155-156,158-159,161-163,176-177,179-181,183-185,187-191,193-195,219-221,223,228,230,259,261-262,268,270-289
+tests/sdk/llm/test_llm_serialization.py
+  s_25adfe404b8f10::t_e3c71f2ce38c0b 110,118,130-131
+tests/sdk/llm/test_llm_session.py
+  s_25adfe404b8f10::t_b35830f232a147 1-284
+tests/sdk/llm/test_llm_span_content.py
+  s_25adfe404b8f10::t_7051c3b7ed702f 1-359
+tests/sdk/llm/test_llm_span_cost.py
+  s_25adfe404b8f10::t_c40c20196b2836 1-152
+tests/sdk/llm/test_llm_telemetry.py
+  s_25adfe404b8f10::t_7a85e891252f55 9-14,19-31,174,195,204,208,211,220,239-334,995-997
+tests/sdk/llm/test_llm_timeout.py
+  s_25adfe404b8f10::t_39266f44afa3cb 3-7,11-12,15-23,25-26,53-67,228-596
+tests/sdk/llm/test_log_completions_tracing_independence.py
+  s_25adfe404b8f10::t_592321051da267 1-167
+tests/sdk/llm/test_message.py
+  s_25adfe404b8f10::t_f30e0839323aaa 128-197
+tests/sdk/llm/test_message_serialization.py
+  s_25adfe404b8f10::t_9263a732f7090c 15-16,34-106
+tests/sdk/llm/test_meta_profile_store.py
+  s_25adfe404b8f10::t_89d85877b5df90 1-235
+tests/sdk/llm/test_model_canonical_name_resolution.py
+  s_25adfe404b8f10::t_9e47055688c288 14
+tests/sdk/llm/test_model_features.py
+  s_25adfe404b8f10::t_2ae1aecfc26853 1-15,17,63-64,92-103,111-128,178-183,189-193,222,479-483,500-508,523-524,527,535-747,787-789,822-969
+tests/sdk/llm/test_model_info_proxy_lookup.py
+  s_25adfe404b8f10::t_f22bd2468dcd7a 14-17,20-26,30,67-68,81,99,153-674
+tests/sdk/llm/test_model_list.py
+  s_25adfe404b8f10::t_c1a69434fbd9f3 4-6,9,21-26,117-123,133-214,228-231,233-313
+tests/sdk/llm/test_prompt_caching_cross_conversation.py
+  s_25adfe404b8f10::t_7aae87948e0da5 10-11,13-14,18,22-84
+tests/sdk/llm/test_reported_usage_cost.py
+  s_25adfe404b8f10::t_bbf4c3cc6d0d9f 1-184
+tests/sdk/llm/test_reported_usage_cost_http.py
+  s_25adfe404b8f10::t_3cab6a46871ee9 1-193
+tests/sdk/llm/test_responses_parsing_and_kwargs.py
+  s_25adfe404b8f10::t_22183f96878e5c 1-3,6,8,22,24-25,45-86,249,352-358,648-855
+tests/sdk/llm/test_retry_after.py
+  s_25adfe404b8f10::t_2c3ebcfe50fd7d 1-205
+tests/sdk/llm/test_retry_diagnostics.py
+  s_25adfe404b8f10::t_a031c52f30273d 1-216
+tests/sdk/llm/test_router_llm.py
+  s_25adfe404b8f10::t_a1f54e718bc743 1-125
+tests/sdk/llm/test_runtime_metadata.py
+  s_25adfe404b8f10::t_7d4f336a6fb8c1 219-225
+tests/sdk/llm/test_subscription_mode.py
+  s_25adfe404b8f10::t_7beef56dca591b 27,47,77,114,121-156,158,174,381-441,496
+tests/sdk/llm/test_vision_support.py
+  s_25adfe404b8f10::t_54fd1f02ccb0ce 25-29,106-171
+tests/sdk/logger/test_rich_traceback_limits.py
+  s_25adfe404b8f10::t_2defe8252c172f 1-330
+tests/sdk/marketplace/test_marketplace_registry.py
+  s_25adfe404b8f10::t_f7d7fb196629ec 18,388-533
+tests/sdk/mcp/test_create_mcp_tool.py
+  s_25adfe404b8f10::t_aa65408650f1f7 16,22-23,33,38,455-484,498-499,689-724,818-867
+tests/sdk/mcp/test_mcp_client_subprocess_cleanup.py
+  s_25adfe404b8f10::t_a08e47e87f6f09 1-245
+tests/sdk/mcp/test_mcp_nested_schema.py
+  s_25adfe404b8f10::t_23d382cc2dae56 38,55-67,257
+tests/sdk/mcp/test_mcp_observation.py
+  s_25adfe404b8f10::t_6f408de6d5555e 27,56,85,110,134
+tests/sdk/mcp/test_mcp_secret_expansion.py
+  s_25adfe404b8f10::t_9a6d3c37f28948 56,195-197
+tests/sdk/mcp/test_mcp_security_risk.py
+  s_25adfe404b8f10::t_fe5a82ec86417b 26,57,103,140,181
+tests/sdk/mcp/test_mcp_tool.py
+  s_25adfe404b8f10::t_473b2afa930213 36,56,77,80,153,180,258,367,407,426,457,496,499
+tests/sdk/mcp/test_mcp_tool_immutability.py
+  s_25adfe404b8f10::t_796bf5c76fc2c5 32,53,79,126,140
+tests/sdk/mcp/test_mcp_tool_list_changed.py
+  s_25adfe404b8f10::t_44899d54aaa442 20,23-24,35,61,78,163,172,271-272,278-281,283,321,323,340-341,367-368,395-396,479-543
+tests/sdk/mcp/test_mcp_tool_serialization.py
+  s_25adfe404b8f10::t_1f4041a96e30f6 24,117,133
+tests/sdk/mcp/test_mcp_tool_validation.py
+  s_25adfe404b8f10::t_aed110d69b2a26 16
+tests/sdk/mcp/test_mcp_wire_compat.py
+  s_25adfe404b8f10::t_294a924889140e 1-190
+tests/sdk/mcp/test_oauth.py
+  s_25adfe404b8f10::t_70f4192903f6ef 1-407
+tests/sdk/mcp/test_stateful_mcp.py
+  s_25adfe404b8f10::t_9e8f1015f3983f 41,98,100,130-131,171-172,211-212
+tests/sdk/observability/__init__.py
+  s_25adfe404b8f10::t_38f3ea2483b97a 1
+tests/sdk/observability/test_laminar.py
+  s_25adfe404b8f10::t_754140f19d0552 156-157,663-680
+tests/sdk/observability/test_utils.py
+  s_25adfe404b8f10::t_9ffaa0031e6f18 1-56
+tests/sdk/persisted_settings_baselines/v1/agent_settings_llm.json
+  s_25adfe404b8f10::t_7e49d01ad0daae 9-12
+tests/sdk/persisted_settings_baselines/v1/persisted_settings.json
+  s_25adfe404b8f10::t_722824f95acf9b 10-13
+tests/sdk/persisted_settings_baselines/v10/agent_settings_openhands.json
+  s_25adfe404b8f10::t_eb75492af992e4 1-25
+tests/sdk/persisted_settings_baselines/v2/agent_profile_tool_switches.json
+  s_25adfe404b8f10::t_b4d3c4a2a305ae 1-18
+tests/sdk/persisted_settings_baselines/v2/agent_profile_tool_switches_explicit.json
+  s_25adfe404b8f10::t_4383acd40e42d1 1-15
+tests/sdk/persisted_settings_baselines/v2/agent_settings_openhands.json
+  s_25adfe404b8f10::t_e9f10842fea686 13-16
+tests/sdk/persisted_settings_baselines/v2/persisted_settings.json
+  s_25adfe404b8f10::t_e3e6a87334f090 10-13
+tests/sdk/persisted_settings_baselines/v3/agent_profile_default.json
+  s_25adfe404b8f10::t_1d46712408291f 1-16
+tests/sdk/persisted_settings_baselines/v3/agent_profile_tool_switches.json
+  s_25adfe404b8f10::t_4a6d7ab1f7d747 1-14
+tests/sdk/persisted_settings_baselines/v3/agent_settings_openhands.json
+  s_25adfe404b8f10::t_e50ad06803627e 9-12
+tests/sdk/persisted_settings_baselines/v3/persisted_settings.json
+  s_25adfe404b8f10::t_1a90e91d86dcd9 1-35
+tests/sdk/persisted_settings_baselines/v4/agent_profile_default.json
+  s_25adfe404b8f10::t_d1e2058177bd2e 1-22
+tests/sdk/persisted_settings_baselines/v4/agent_settings_openhands_provider.json
+  s_25adfe404b8f10::t_b8d15eccd1c18d 9-12
+tests/sdk/persisted_settings_baselines/v4/persisted_settings.json
+  s_25adfe404b8f10::t_20931f30b306af 1-26
+tests/sdk/persisted_settings_baselines/v5/agent_settings_mcp_oauth.json
+  s_25adfe404b8f10::t_ae4b60b6164088 3
+tests/sdk/persisted_settings_baselines/v5/agent_settings_modify_params.json
+  s_25adfe404b8f10::t_60fa9ca1841943 1-12
+tests/sdk/persisted_settings_baselines/v5/persisted_settings.json
+  s_25adfe404b8f10::t_958472f0c73cfc 1-49
+tests/sdk/persisted_settings_baselines/v6/agent_settings_acp.json
+  s_25adfe404b8f10::t_c1cc8395141fc1 1-17
+tests/sdk/persisted_settings_baselines/v6/agent_settings_openhands.json
+  s_25adfe404b8f10::t_52b90c561f5335 1-27
+tests/sdk/persisted_settings_baselines/v6/persisted_settings.json
+  s_25adfe404b8f10::t_7b34e1b3ae7f3d 1-49
+tests/sdk/persisted_settings_baselines/v7/agent_settings_acp.json
+  s_25adfe404b8f10::t_0c558f2fed3d8f 1-11
+tests/sdk/persisted_settings_baselines/v7/agent_settings_openhands.json
+  s_25adfe404b8f10::t_731627868a467b 1-25
+tests/sdk/persisted_settings_baselines/v7/persisted_settings.json
+  s_25adfe404b8f10::t_bab2f8d15dd6db 1-36
+tests/sdk/persisted_settings_baselines/v8/agent_settings_acp.json
+  s_25adfe404b8f10::t_14f61f84e17e79 1-12
+tests/sdk/persisted_settings_baselines/v8/agent_settings_mcp_empty_server.json
+  s_25adfe404b8f10::t_f0430e706a1058 1-22
+tests/sdk/persisted_settings_baselines/v8/agent_settings_openhands.json
+  s_25adfe404b8f10::t_bd48417885fdd0 1-31
+tests/sdk/persisted_settings_baselines/v8/agent_settings_tool_switches.json
+  s_25adfe404b8f10::t_0429d5f8d80db8 1-30
+tests/sdk/persisted_settings_baselines/v9/agent_settings_mcp_empty_server.json
+  s_25adfe404b8f10::t_496c42e092f41f 1-26
+tests/sdk/persisted_settings_baselines/v9/agent_settings_openhands.json
+  s_25adfe404b8f10::t_21f44856886644 1-31
+tests/sdk/plugin/test_agent_plugins_conformance.py
+  s_25adfe404b8f10::t_2773774e752633 1-500
+tests/sdk/plugin/test_agent_plugins_format.py
+  s_25adfe404b8f10::t_f1b4958e47d39f 1,11,17,50-79,81,104-138,147-148,151-155,428,444-445,452-562,569-643
+tests/sdk/plugin/test_agent_plugins_mcp.py
+  s_25adfe404b8f10::t_961fc500eed93f 1-947
+tests/sdk/plugin/test_installed_plugins.py
+  s_25adfe404b8f10::t_76d391bd3de27e 12,197-256,319
+tests/sdk/plugin/test_path_containment.py
+  s_25adfe404b8f10::t_7bed92d61ae53f 1-287
+tests/sdk/plugin/test_plugin_fetch.py
+  s_25adfe404b8f10::t_3c8e3347d6b488 12,54,57-117,121,155-156,158-160,162
+tests/sdk/plugin/test_plugin_fetch_integration.py
+  s_25adfe404b8f10::t_f65c4f0e668880 7,11-12,15,261-307
+tests/sdk/plugin/test_plugin_loading.py
+  s_25adfe404b8f10::t_0fd081acfa6ae7 232-264,300-319
+tests/sdk/plugin/test_plugin_source_secret_encoding.py
+  s_25adfe404b8f10::t_d6b499cb1b61de 1-433
+tests/sdk/plugin/test_plugin_strict_fetch.py
+  s_25adfe404b8f10::t_b8e6062bb07487 1-212
+tests/sdk/plugin/test_source.py
+  s_25adfe404b8f10::t_56f2321379dbc7 67-72
+tests/sdk/profiles/test_agent_profile.py
+  s_25adfe404b8f10::t_50d5b68ae18cba 19-20,22,25-28,36-80,162-190,231-250,430,432,434-450,453-455,458-459,462,466-752,922-971
+tests/sdk/profiles/test_agent_profile_store.py
+  s_25adfe404b8f10::t_b768f6cfb080a1 359-369,453-470
+tests/sdk/profiles/test_profile_refs.py
+  s_25adfe404b8f10::t_fc4a817b1f1c27 143-156
+tests/sdk/profiles/test_secret_refs.py
+  s_25adfe404b8f10::t_3d5f2865482a7a 1-38
+tests/sdk/profiles/test_store_protocol_hoists.py
+  s_25adfe404b8f10::t_863468c5c32705 258-267,275
+tests/sdk/security/defense_in_depth/test_pattern.py
+  s_25adfe404b8f10::t_b9d752b6d554bd 165-194,358-366,368
+tests/sdk/security/defense_in_depth/test_policy_rails.py
+  s_25adfe404b8f10::t_c0572828f1768d 6-8,12,19,21-22,57-69,73-81,115-724
+tests/sdk/security/defense_in_depth/test_shell_semantics.py
+  s_25adfe404b8f10::t_6bfbf567e7b836 24-25,81-311
+tests/sdk/security/grayswan/test_grayswan_analyzer.py
+  s_25adfe404b8f10::t_b76296c898f713 353-412
+tests/sdk/security/test_shell_ast.py
+  s_25adfe404b8f10::t_9a3b4b359e58d7 65-73
+tests/sdk/security/test_toolshield_llm_analyzer.py
+  s_25adfe404b8f10::t_14c0df03fe0e25 174-232,249-256,260,972-993
+tests/sdk/settings/test_acp_install_catalog.py
+  s_25adfe404b8f10::t_672b93bf27e939 17-18,47,54,73-74,93-124,141-142
+tests/sdk/settings/test_acp_install_catalog_pins_live.py
+  s_25adfe404b8f10::t_c4999605f09044 1-142
+tests/sdk/settings/test_acp_providers.py
+  s_25adfe404b8f10::t_e66b1308ef7b63 10-13,27-34,97-188,208,213-221,225-238,240,246-254,279-290,323-341,343-346,350-354,387-391,393-399,401-410,451-452,455-456,460-461
+tests/sdk/skills/test_extensions_ref.py
+  s_25adfe404b8f10::t_5c0b44884b2341 11-12,15-33,69-80,82-83,86,115-117,120-177,179-180,182-201,203-205,224-225
+tests/sdk/skills/test_installed_skills.py
+  s_25adfe404b8f10::t_0b3bace4998839 11,31,80-137,146-159,196-210
+tests/sdk/skills/test_load_project_skills.py
+  s_25adfe404b8f10::t_29352e8d22632f 388-399
+tests/sdk/skills/test_load_public_skills.py
+  s_25adfe404b8f10::t_b9815c40061fa7 5-7,161-177,209-237,318,321,323-325,329,331-335,337,339-341,364,366-368,370,372-375,964-993
+tests/sdk/skills/test_load_user_skills.py
+  s_25adfe404b8f10::t_0f8a3be40858f0 398-477
+tests/sdk/skills/test_mcp_config_expansion.py
+  s_25adfe404b8f10::t_030cfbbd5a7e6e 6-13,332-373
+tests/sdk/skills/test_mcp_json.py
+  s_25adfe404b8f10::t_d1f63339c95964 121-130
+tests/sdk/skills/test_resource_directories.py
+  s_25adfe404b8f10::t_ac15697223ffb9 51
+tests/sdk/skills/test_skill_no_header.py
+  s_25adfe404b8f10::t_5e8db48250526e 1-2,20-34,36,41-42
+tests/sdk/skills/test_skill_utils.py
+  s_25adfe404b8f10::t_515b332ac05053 331-342,344,352,355,361,860-869
+tests/sdk/skills/test_validation_improvements.py
+  s_25adfe404b8f10::t_d1deb14c86b378 23-25,28-30,36-37
+tests/sdk/skills/test_validation_prompt.py
+  s_25adfe404b8f10::t_829abbdd5fbd49 112-131
+tests/sdk/subagent/test_subagent_registry.py
+  s_25adfe404b8f10::t_9e52443cd68684 1,25,156-212,567-643
+tests/sdk/subagent/test_subagent_schema.py
+  s_25adfe404b8f10::t_c7d8ae9a934e93 138-176,179-180,184,653-654,658,682-689,691-692,698-718
+tests/sdk/subagent/test_subagent_scope.py
+  s_25adfe404b8f10::t_1919002be168c0 1-147
+tests/sdk/test_apply_agent_settings_diff.py
+  s_25adfe404b8f10::t_7aac7ca6089a5f 9,37-56,80-308,374,429-448
+tests/sdk/test_automation_observability.py
+  s_25adfe404b8f10::t_cc601e4f4fed33 1-117
+tests/sdk/test_settings.py
+  s_25adfe404b8f10::t_fc363888203b05 3,7,25,39-46,80-81,172-173,182,206,228-323,454-455,490-498,503,517-552,656,664,668-720,912-943,1166,1182-1203,1205-1207,1209-1320,1322-1339,1343,1345,1349-1505,1514-1528,1946,1962-1970,1993,2068-2071,2114,2137,2198-2201,2212-2220,2228-2232,2244-2254,2267-2272,2280-2306,2796-2797,2812,2822-2825,2828,2830-2837,2841-2851,3025,3036,3135,3199-3240
+tests/sdk/tool/test_classify_and_switch_llm.py
+  s_25adfe404b8f10::t_ae0a7b2f52336f 1-883
+tests/sdk/tool/test_defaults.py
+  s_25adfe404b8f10::t_38aebf6373a273 10,12,14,43-68
+tests/sdk/tool/test_invoke_skill.py
+  s_25adfe404b8f10::t_54369b29633909 19,399-409
+tests/sdk/tool/test_mcp_schema.py
+  s_25adfe404b8f10::t_40e0d6394de1ec 5,29-35,406-412,450-581
+tests/sdk/tool/test_registry.py
+  s_25adfe404b8f10::t_3e4cc964154ea9 2,10-21,103-132,196-408
+tests/sdk/tool/test_response_schema.py
+  s_25adfe404b8f10::t_f09a3aa7d18e4e 18,25,401-472,505
+tests/sdk/tool/test_switch_llm.py
+  s_25adfe404b8f10::t_2a4b50ba4b4e8f 5,58-59,61,68,81,86,93-106,171-194
+tests/sdk/tool/test_to_responses_tool_summary.py
+  s_25adfe404b8f10::t_30028a8949f034 67
+tests/sdk/utils/test_cancellation_deadlock.py
+  s_25adfe404b8f10::t_01c5ff41425b32 1-176
+tests/sdk/utils/test_cipher.py
+  s_25adfe404b8f10::t_ab3a7af1ce4c5c 183-231
+tests/sdk/utils/test_command.py
+  s_25adfe404b8f10::t_e4d99c836b45a1 25-28,37-43
+tests/sdk/utils/test_discriminated_union.py
+  s_25adfe404b8f10::t_b67f330d2fbb65 1,11,168-177,339-367
+tests/sdk/utils/test_files.py
+  s_25adfe404b8f10::t_0c62f22730e653 1-63
+tests/sdk/utils/test_path.py
+  s_25adfe404b8f10::t_b3f47faf62c2e0 4-5,7,16-85
+tests/sdk/utils/test_pydantic_secrets.py
+  s_25adfe404b8f10::t_7bb13b7111efcc 9,13-14,164-174,412,425,501-565
+tests/sdk/utils/test_redact.py
+  s_25adfe404b8f10::t_d5477a5e8809d5 3-4,7,56-105,107-108,213-230,232-233,253-270,309-390
+tests/sdk/utils/test_secret_field.py
+  s_25adfe404b8f10::t_c95e397ae67c14 1-191
+tests/sdk/utils/test_truncate.py
+  s_25adfe404b8f10::t_3410a54acbeae1 3-6,14-21,23-24,26-43
+tests/sdk/utils/test_visualize.py
+  s_25adfe404b8f10::t_dc3cf9b93fda67 3,42-51,56
+tests/sdk/workspace/remote/test_async_remote_workspace.py
+  s_25adfe404b8f10::t_4ec29c16831ca7 410-417,419,424,428
+tests/sdk/workspace/remote/test_remote_workspace.py
+  s_25adfe404b8f10::t_12022b2a134973 3,10,312-319,321,324,328,550-569,706-711,730-731,735,766-786,1157-1285,1337-1379
+tests/sdk/workspace/remote/test_remote_workspace_mixin.py
+  s_25adfe404b8f10::t_7abe92029b4b6a 71-96
+tests/sdk/workspace/remote/test_runtime_scope.py
+  s_25adfe404b8f10::t_040edc06901b7e 1-155
+tests/tools/apply_patch/test_apply_patch_executor.py
+  s_25adfe404b8f10::t_12f9b6143365da 191-221,223-225,227,230,233-236,238,240,243-245,247,302-330
+tests/tools/ask_oracle/test_ask_oracle.py
+  s_25adfe404b8f10::t_679b7705209aa0 167
+tests/tools/ask_user/test_ask_user.py
+  s_25adfe404b8f10::t_5f5c9b12de0a57 1-588
+tests/tools/browser_use/conftest.py
+  s_25adfe404b8f10::t_f46a9138b5d8fd 32-35
+tests/tools/browser_use/test_browser_close_tab.py
+  s_25adfe404b8f10::t_2e6ad11a49230d 1-57
+tests/tools/browser_use/test_browser_content.py
+  s_25adfe404b8f10::t_cb7e2699313f9c 1-51
+tests/tools/browser_use/test_browser_executor.py
+  s_25adfe404b8f10::t_05a98ab8326ee7 10,542-660
+tests/tools/browser_use/test_browser_executor_e2e.py
+  s_25adfe404b8f10::t_ee0cdd9c9c5668 110-116,164-166,469-489,919-1045
+tests/tools/browser_use/test_browser_initialization.py
+  s_25adfe404b8f10::t_2d03329ff146ac 3,15-36
+tests/tools/browser_use/test_browser_toolset.py
+  s_25adfe404b8f10::t_14ccd7ea6a420e 3,15,21,478-587
+tests/tools/browser_use/test_chromium_detection.py
+  s_25adfe404b8f10::t_b2ca02474f8670 25,36,135-138,216-221,228-281
+tests/tools/browser_use/test_logging_fix.py
+  s_25adfe404b8f10::t_1082b63e0c5833 1-102
+tests/tools/browser_use/test_windows_chromium_discovery.py
+  s_25adfe404b8f10::t_7a5aab88baf38a 1-428
+tests/tools/child_conversation/test_start_child_conversation.py
+  s_25adfe404b8f10::t_9f6f4c9292014f 1-181
+tests/tools/conversation_mentions/test_conversation_mention_tools.py
+  s_25adfe404b8f10::t_9510b02691144a 1-305
+tests/tools/delegate/test_delegation.py
+  s_25adfe404b8f10::t_c345d11438b7c5 5,9-10,18,24,48-51,622-653
+tests/tools/delegate/test_visualizer.py
+  s_25adfe404b8f10::t_42637310df4e4c 13-18,476-482
+tests/tools/file_editor/test_basic_operations.py
+  s_25adfe404b8f10::t_8bbe06d0c2d7cb 3,288-350,409,513-525,541-553,641-651,999-1010
+tests/tools/file_editor/test_file_editor_tool.py
+  s_25adfe404b8f10::t_fc375a24b104c3 256-266,269-270
+tests/tools/file_editor/test_file_validation.py
+  s_25adfe404b8f10::t_21633f1de06227 1,12,83-85,87-88,92-112,161-186
+tests/tools/file_editor/utils/test_encoding.py
+  s_25adfe404b8f10::t_e8f7eab1ada749 64-88
+tests/tools/glob/test_consistency.py
+  s_25adfe404b8f10::t_dadc82d1e9825b 104-118,120
+tests/tools/glob/test_glob_executor.py
+  s_25adfe404b8f10::t_5e13fa23bba468 7,12,175-216,317-358,361,430-456
+tests/tools/grep/test_consistency.py
+  s_25adfe404b8f10::t_bdcc9c53a6acfd 103-117,119
+tests/tools/grep/test_grep_executor.py
+  s_25adfe404b8f10::t_846e2ba0e8e149 18,28-42,47,106-127,274-307
+tests/tools/message_edit/test_message_edit.py
+  s_25adfe404b8f10::t_2b162a3e5277ee 1-381
+tests/tools/project/test_project_memory_tools.py
+  s_25adfe404b8f10::t_c0e2bfc33c642f 1-130
+tests/tools/project/test_project_tools.py
+  s_25adfe404b8f10::t_f7770749eb8a08 1-750
+tests/tools/reaction/test_reaction_tools.py
+  s_25adfe404b8f10::t_d8ced3ae4b20b4 1-597
+tests/tools/task/mcp_echo_server.py
+  s_25adfe404b8f10::t_f0f0a38974e93e 1-30
+tests/tools/task/test_mcp_inheritance.py
+  s_25adfe404b8f10::t_9e441469f4ada2 1-339
+tests/tools/task/test_secret_inheritance.py
+  s_25adfe404b8f10::t_4f720f9c2792a5 1-204
+tests/tools/task/test_sub_agent_scope.py
+  s_25adfe404b8f10::t_78b020883129a9 1-363
+tests/tools/task/test_task_tool_set.py
+  s_25adfe404b8f10::t_9ad7b037e6eed3 411-423
+tests/tools/task_tracker/test_task_tracker_status.py
+  s_25adfe404b8f10::t_cc8035aeffed58 1-33
+tests/tools/terminal/conftest.py
+  s_25adfe404b8f10::t_e510b69b8c720f 23
+tests/tools/terminal/test_conversation_cleanup.py
+  s_25adfe404b8f10::t_c8514424b767db 44,54
+tests/tools/terminal/test_env.py
+  s_25adfe404b8f10::t_ce65497ad16d55 1-57
+tests/tools/terminal/test_escape_filter.py
+  s_25adfe404b8f10::t_fc2468ae108285 21-69,113-145,147-149
+tests/tools/terminal/test_heredoc_chunked_send.py
+  s_25adfe404b8f10::t_b5963dcbcdfcf2 45-57,61,66,70
+tests/tools/terminal/test_observation_wait.py
+  s_25adfe404b8f10::t_da15df90a94fbd 1-255
+tests/tools/terminal/test_pool_integration.py
+  s_25adfe404b8f10::t_58bc026ad9b158 36-67,162-262,275-354
+tests/tools/terminal/test_powershell_terminating_error.py
+  s_25adfe404b8f10::t_ae0327fd9dbbc2 1-63
+tests/tools/terminal/test_process_priority.py
+  s_25adfe404b8f10::t_d7d958d50f744d 1-138
+tests/tools/terminal/test_shutdown_handling.py
+  s_25adfe404b8f10::t_855aad78b4868c 7-9,12-13,17-31,99-144
+tests/tools/terminal/test_terminal_env_sanitization.py
+  s_25adfe404b8f10::t_ba9f3f85b12591 1-59
+tests/tools/terminal/test_terminal_parsing.py
+  s_25adfe404b8f10::t_13bfec253ea7e1 3-5,8,39-46,78-79,100-226,367,370-403
+tests/tools/terminal/test_terminal_session.py
+  s_25adfe404b8f10::t_101203334cce37 16,18-19,25,33,68-85,262-286,879-986,1314-1431
+tests/tools/terminal/test_terminal_tool.py
+  s_25adfe404b8f10::t_01dd0bbbb9f706 146-190
+tests/tools/terminal/test_tmux_command_batching.py
+  s_25adfe404b8f10::t_d3610bc49374b9 1-152
+tests/tools/terminal/test_tmux_log_redaction.py
+  s_25adfe404b8f10::t_6dae2c991bfbb0 1-36
+tests/tools/terminal/test_tmux_pane_pool.py
+  s_25adfe404b8f10::t_1b9159549a50ea 3,7,10,16-17,19,264-381
+tests/tools/terminal/test_windows_ctrl_c.py
+  s_25adfe404b8f10::t_3461e9c163267e 4,35-49,97
+tests/tools/terminal/test_windows_terminal.py
+  s_25adfe404b8f10::t_000396ba83a9c0 6,11,23-30,217-282
+tests/tools/terminal/test_windows_terminal_recovery.py
+  s_25adfe404b8f10::t_41450801bd3697 1-373
+tests/tools/terminal/test_windows_terminal_send_keys.py
+  s_25adfe404b8f10::t_1cfa8cbe7bca5f 85-91,94-117
+tests/tools/terminal/test_windows_terminal_shutdown.py
+  s_25adfe404b8f10::t_d8ee353b67f2ee 1-115
+tests/tools/test_preset_default.py
+  s_25adfe404b8f10::t_24bef028002c49 38,58,73
+tests/tools/tom_consult/test_tom_consult_tool.py
+  s_25adfe404b8f10::t_69ee36f648abd6 3-7,9,11-13,20,49-161
+tests/tools/workflow/test_workflow_tool.py
+  s_25adfe404b8f10::t_fa9cc0fd8a09cc 240-272
+tests/workspace/test_agent_sandbox_workspace.py
+  s_25adfe404b8f10::t_323a43743b1045 1-179
+tests/workspace/test_api_remote_workspace.py
+  s_25adfe404b8f10::t_b64d851c614080 7,331-342
+tests/workspace/test_apptainer_workspace.py
+  s_25adfe404b8f10::t_0481ce95b9bc92 3-6,117-205
+tests/workspace/test_cloud_workspace.py
+  s_25adfe404b8f10::t_76dc9e4d083918 681-696
+tests/workspace/test_cloud_workspace_automation_tags.py
+  s_25adfe404b8f10::t_1c543fd482f061 42-58,61
+tests/workspace/test_cloud_workspace_repos.py
+  s_25adfe404b8f10::t_b18f6dc21bed3d 16-17,84-106,122-159,161-165,174-183,213-227,231-233,266-270,300-400,402,405,407,420-465,468-543,545-573,707,725,741-797,816-818,827,844-906,1034-1071
+tests/workspace/test_cloud_workspace_sdk_settings.py
+  s_25adfe404b8f10::t_ab21019b2569e2 11,191-196,223-225,247-262,325,494-619
+tests/workspace/test_docker_workspace.py
+  s_25adfe404b8f10::t_e6263c06b648d4 3,7,121-136,170-190,227-303,396-443
+uv.lock
+  s_25adfe404b8f10::t_90bf5fa74b6cc9 2,5-12,20,22,33-35,37,39,41,44,49-60,63-65,70,74,76,78,83,88,90,226,228,230,235,242,244,311,317,319,333,336-338,340,342,358-365,371-383,399,401,403,468,475,477,482,489,491,508,576,578,580,585-620,638,640,642,851-856,865-920,967,969,971,994,1001,1003,1024-1032,1069,1075,1077,1103,1106-1142,1144-1145,1148-1150,1152,1158,1160,1162,1212,1214,1216,1350,1366-1367,1408,1413,1426,1428,1436,1454,1467,1484-1485,1488,1505-1510,1513,1600,1606,1608,1618,1624,1626,1631,1633,1635,1740-1752,1768-1776,1790-1802,1831-1833,1839-1857,1859,1861,1883-1891,1903,1905,1907,1945-1946,1948,1950,2024,2027-2028,2030,2032,2055,2063,2065,2096-2097,2100-2124,2126,2128,2133,2135,2137,2142,2146-2147,2150-2152,2157,2159,2161,2164,2166,2168-2174,2498,2502,2504-2505,2516,2518,2522-2523,2525-2529,2531,2535-2536,2538,2540,2662,2664,2666-2673,2782,2787,2789,2794,2799,2804,2819-2822,2826-2830,2832,2838,2842,2875-2877,2879-2886,2888-2891,2894,2902,2908-2909,2913,2922,2925-2926,2928,2930-2931,2933,2939,2942,2948-2952,2955-2956,2959,2961,3156,3158,3160,3226-3297,3302,3304,3306,3341,3349,3351,3356,3365,3367-3376,3504-3527,3532,3535-3536,3539,3541,3619,3621,3623,3637,3645,3647,3657,3662-3761,3766,3771,3774,3776,3803,3814,3816-3826,3831,3836,3838,3843,3845,3847,3852-3853,3862-3863,3865-3866,3868,3870-3873,3875-3882,3885-3892,3895,3897-3900,3902-3903,3905,3907-3912,3917,3919-3933,3935-3937,3940-3942,3945-3971,3973-3978,3980-3981,3983-3988,3990-3991,3996-4007,4010-4018,5884-5896,6557,6563,6565,6575,6584,6586,6591,6597,6599,6604,6611,6613,6618,6623,6625,6665-6676,6701,6706,6708,6713,6715,6717,6765-6806,7060-7080,7085,7090,7092,7164,7169-7231,7261,7265,7267,7275,7277,7279,7281,7283,7285,7290,7292,7294,7428-7455,7474-7482,7485,7487,7489,7494,7499,7501,7515,7517,7519,7533,7535,7537,7551,7557,7559,7564,7569,7571,7573,7575,7675-7683,7778,7783,7785
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "b021a0d348548e75f52686e4818f1a47e9d9bc26",
+  "prompts": {},
+  "sessions": {
+    "s_25adfe404b8f10": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "547c8574-af7e-47c7-8cd2-8abb57538268",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "george larson <george.g.larson@gmail.com>"
+    }
+  }
+}
