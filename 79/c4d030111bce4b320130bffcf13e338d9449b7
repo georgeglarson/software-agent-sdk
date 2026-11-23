@@ -1,0 +1,27 @@
+.pr/e2e_merged_main_live.py
+  s_25adfe404b8f10::t_4e270f43d733a7 1-61
+.pr/demo-logs/e2e-live-before-main-llm-report.txt
+  s_25adfe404b8f10::t_5df2c7f6b7e156 1-19
+.pr/demo-logs/e2e-live-after-merge-report.txt
+  s_25adfe404b8f10::t_7251e556856f1c 1-35
+.pr/demo-logs/e2e-live-before-main-llm-glm-4.7.txt
+  s_25adfe404b8f10::t_5df2c7f6b7e156 1-37
+.pr/demo-logs/e2e-live-after-merge-glm-4.7.txt
+  s_25adfe404b8f10::t_7251e556856f1c 1-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "79c4d030111bce4b320130bffcf13e338d9449b7",
+  "prompts": {},
+  "sessions": {
+    "s_25adfe404b8f10": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "547c8574-af7e-47c7-8cd2-8abb57538268",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "george larson <george.g.larson@gmail.com>"
+    }
+  }
+}
